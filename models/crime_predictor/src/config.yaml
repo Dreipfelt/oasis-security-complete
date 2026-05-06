@@ -1,0 +1,12 @@
+model:
+  n_estimators: 500
+  max_depth: 6
+  learning_rate: 0.05
+  num_leaves: 64
+  subsample: 0.8
+  colsample_bytree: 0.8
+data:
+  url: "https://static.data.gouv.fr/.../donnee-reg-data.gouv-2025.csv"
+server:
+  host: "0.0.0.0"
+  port: 8000

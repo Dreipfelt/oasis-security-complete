@@ -1,0 +1,1716 @@
+indicateur,region,region_nom,annee,yhat,yhat_lower,yhat_upper,source_modele
+Usage de stupéfiants,FRANCE,France entière,2012,156632.1,142618.0,171735.3,Prophet
+Usage de stupéfiants,FRANCE,France entière,2013,171553.4,158635.7,185446.0,Prophet
+Usage de stupéfiants,FRANCE,France entière,2014,186434.0,172749.9,200905.7,Prophet
+Usage de stupéfiants,FRANCE,France entière,2015,201314.6,187709.3,216107.6,Prophet
+Usage de stupéfiants,FRANCE,France entière,2016,216195.9,202190.4,230406.1,Prophet
+Usage de stupéfiants,FRANCE,France entière,2017,231129.9,216987.0,246140.0,Prophet
+Usage de stupéfiants,FRANCE,France entière,2018,246024.1,232846.3,260280.2,Prophet
+Usage de stupéfiants,FRANCE,France entière,2019,260928.6,246803.5,276239.0,Prophet
+Usage de stupéfiants,FRANCE,France entière,2020,275836.7,261584.1,289893.8,Prophet
+Usage de stupéfiants,FRANCE,France entière,2021,290785.6,276114.1,305137.9,Prophet
+Usage de stupéfiants,FRANCE,France entière,2022,305693.8,291742.8,320565.6,Prophet
+Usage de stupéfiants,FRANCE,France entière,2023,320601.9,306207.8,335070.4,Prophet
+Usage de stupéfiants,FRANCE,France entière,2024,335510.0,322037.5,349462.1,Prophet
+Usage de stupéfiants,FRANCE,France entière,2025,350459.0,336833.5,364248.1,Prophet
+Usage de stupéfiants,FRANCE,France entière,2026,365367.1,351630.3,378411.3,Prophet
+Usage de stupéfiants,FRANCE,France entière,2027,380275.2,366955.1,393442.7,Prophet
+Usage de stupéfiants,FRANCE,France entière,2028,395183.3,381212.1,409673.8,Prophet
+Usage de stupéfiants,FRANCE,France entière,2029,410132.3,395278.9,423916.7,Prophet
+Usage de stupéfiants,FRANCE,France entière,2030,425040.4,411306.2,438684.1,Prophet
+Cambriolages de logement,FRANCE,France entière,2012,259320.8,239499.1,278933.6,Prophet
+Cambriolages de logement,FRANCE,France entière,2013,253751.4,234016.4,276296.1,Prophet
+Cambriolages de logement,FRANCE,France entière,2014,248197.1,229292.9,267624.0,Prophet
+Cambriolages de logement,FRANCE,France entière,2015,242642.9,222658.6,262876.8,Prophet
+Cambriolages de logement,FRANCE,France entière,2016,237088.6,216852.9,257977.0,Prophet
+Cambriolages de logement,FRANCE,France entière,2017,231519.2,210307.5,251745.8,Prophet
+Cambriolages de logement,FRANCE,France entière,2018,225964.9,206096.4,246343.5,Prophet
+Cambriolages de logement,FRANCE,France entière,2019,220409.1,199503.4,240074.5,Prophet
+Cambriolages de logement,FRANCE,France entière,2020,214853.3,195438.0,234689.2,Prophet
+Cambriolages de logement,FRANCE,France entière,2021,209282.2,188210.0,229218.1,Prophet
+Cambriolages de logement,FRANCE,France entière,2022,203726.4,183065.1,222060.3,Prophet
+Cambriolages de logement,FRANCE,France entière,2023,198170.6,179223.7,219097.8,Prophet
+Cambriolages de logement,FRANCE,France entière,2024,192614.7,172200.5,211552.1,Prophet
+Cambriolages de logement,FRANCE,France entière,2025,187043.7,166689.4,206600.7,Prophet
+Cambriolages de logement,FRANCE,France entière,2026,181487.9,160303.6,202371.5,Prophet
+Cambriolages de logement,FRANCE,France entière,2027,175932.0,155667.9,196459.0,Prophet
+Cambriolages de logement,FRANCE,France entière,2028,170376.2,150728.9,190950.3,Prophet
+Cambriolages de logement,FRANCE,France entière,2029,164805.2,145160.0,185007.3,Prophet
+Cambriolages de logement,FRANCE,France entière,2030,159249.3,137838.2,179465.5,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2012,127537.8,123460.5,131455.4,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2013,121285.4,117003.6,125432.2,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2014,115050.0,110818.4,119066.1,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2015,108814.6,104823.0,112735.1,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2016,102579.2,98429.6,106527.5,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2017,96326.7,92432.0,100517.9,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2018,90091.2,86271.9,94354.6,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2019,83855.8,79868.0,88193.2,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2020,77620.4,73598.9,81579.5,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2021,71367.9,67226.3,75541.1,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2022,65132.4,60969.9,69233.0,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2023,58897.0,54802.3,63076.6,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2024,52661.6,48454.0,56852.2,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2025,46409.1,42347.1,50373.4,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2026,40173.6,35810.8,44356.6,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2027,33938.2,29732.7,38055.9,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2028,27702.8,23601.3,32015.7,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2029,21450.2,17096.1,25489.2,Prophet
+Vols sans violence contre des personnes,FRANCE,France entière,2030,15214.8,11194.7,19302.1,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2012,32623.5,30020.1,35034.6,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2013,32058.2,29752.9,34670.4,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2014,31494.4,29159.5,34040.0,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2015,30930.7,28609.0,33294.9,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2016,30366.9,27869.3,32871.5,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2017,29801.6,27326.6,32477.1,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2018,29237.8,26654.9,31943.3,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2019,28674.1,26067.4,31053.4,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2020,28110.3,25693.8,30641.3,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2021,27545.0,25218.1,29846.6,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2022,26981.2,24391.5,29363.1,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2023,26417.5,23994.8,28951.0,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2024,25853.7,23261.4,28332.3,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2025,25288.4,22755.4,27789.5,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2026,24724.6,22056.2,27093.1,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2027,24160.9,21655.8,26768.8,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2028,23597.1,21082.2,25978.2,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2029,23031.8,20579.7,25590.4,Prophet
+Destructions et dégradations volontaires,FRANCE,France entière,2030,22468.0,19925.8,24987.2,Prophet
+Violences sexuelles,FRANCE,France entière,2012,7275.8,3526.7,10624.3,Prophet
+Violences sexuelles,FRANCE,France entière,2013,9696.4,6288.5,13449.3,Prophet
+Violences sexuelles,FRANCE,France entière,2014,12110.5,8675.1,15372.6,Prophet
+Violences sexuelles,FRANCE,France entière,2015,14524.5,10901.2,17898.3,Prophet
+Violences sexuelles,FRANCE,France entière,2016,16938.6,13730.8,20092.5,Prophet
+Violences sexuelles,FRANCE,France entière,2017,19359.3,16041.4,22594.6,Prophet
+Violences sexuelles,FRANCE,France entière,2018,21773.3,18214.6,25424.1,Prophet
+Violences sexuelles,FRANCE,France entière,2019,24187.4,20645.8,27534.2,Prophet
+Violences sexuelles,FRANCE,France entière,2020,26601.4,23246.5,30148.9,Prophet
+Violences sexuelles,FRANCE,France entière,2021,29022.1,25714.8,32558.3,Prophet
+Violences sexuelles,FRANCE,France entière,2022,31436.1,27958.6,34785.4,Prophet
+Violences sexuelles,FRANCE,France entière,2023,33850.2,30497.7,37135.9,Prophet
+Violences sexuelles,FRANCE,France entière,2024,36264.2,33330.1,39429.2,Prophet
+Violences sexuelles,FRANCE,France entière,2025,38684.9,35367.5,42008.3,Prophet
+Violences sexuelles,FRANCE,France entière,2026,41098.9,37685.1,44676.4,Prophet
+Violences sexuelles,FRANCE,France entière,2027,43513.0,39942.0,46721.5,Prophet
+Violences sexuelles,FRANCE,France entière,2028,45927.0,42585.2,49311.0,Prophet
+Violences sexuelles,FRANCE,France entière,2029,48347.7,45034.2,51760.0,Prophet
+Violences sexuelles,FRANCE,France entière,2030,50761.8,47470.2,54168.5,Prophet
+Usage de stupéfiants,R01,Guadeloupe,2022,1466.7,,,XGBoost
+Usage de stupéfiants,R01,Guadeloupe,2023,1078.9,,,XGBoost
+Usage de stupéfiants,R01,Guadeloupe,2024,1078.9,,,XGBoost
+Usage de stupéfiants,R01,Guadeloupe,2025,1078.9,,,XGBoost
+Usage de stupéfiants,R01,Guadeloupe,2026,1078.9,,,XGBoost
+Usage de stupéfiants,R01,Guadeloupe,2027,1114.2,,,XGBoost
+Usage de stupéfiants,R01,Guadeloupe,2028,1318.7,,,XGBoost
+Usage de stupéfiants,R01,Guadeloupe,2029,1466.7,,,XGBoost
+Usage de stupéfiants,R01,Guadeloupe,2030,1466.7,,,XGBoost
+Usage de stupéfiants,R01,Guadeloupe,2022,1244.8,,,LightGBM
+Usage de stupéfiants,R01,Guadeloupe,2023,1244.8,,,LightGBM
+Usage de stupéfiants,R01,Guadeloupe,2024,1244.8,,,LightGBM
+Usage de stupéfiants,R01,Guadeloupe,2025,1244.8,,,LightGBM
+Usage de stupéfiants,R01,Guadeloupe,2026,1244.8,,,LightGBM
+Usage de stupéfiants,R01,Guadeloupe,2027,1244.8,,,LightGBM
+Usage de stupéfiants,R01,Guadeloupe,2028,1244.8,,,LightGBM
+Usage de stupéfiants,R01,Guadeloupe,2029,1244.8,,,LightGBM
+Usage de stupéfiants,R01,Guadeloupe,2030,1244.8,,,LightGBM
+Usage de stupéfiants,R02,Martinique,2022,751.7,,,XGBoost
+Usage de stupéfiants,R02,Martinique,2023,751.7,,,XGBoost
+Usage de stupéfiants,R02,Martinique,2024,751.7,,,XGBoost
+Usage de stupéfiants,R02,Martinique,2025,751.7,,,XGBoost
+Usage de stupéfiants,R02,Martinique,2026,751.7,,,XGBoost
+Usage de stupéfiants,R02,Martinique,2027,850.9,,,XGBoost
+Usage de stupéfiants,R02,Martinique,2028,830.2,,,XGBoost
+Usage de stupéfiants,R02,Martinique,2029,1025.1,,,XGBoost
+Usage de stupéfiants,R02,Martinique,2030,1025.1,,,XGBoost
+Usage de stupéfiants,R02,Martinique,2022,866.8,,,LightGBM
+Usage de stupéfiants,R02,Martinique,2023,866.8,,,LightGBM
+Usage de stupéfiants,R02,Martinique,2024,866.8,,,LightGBM
+Usage de stupéfiants,R02,Martinique,2025,866.8,,,LightGBM
+Usage de stupéfiants,R02,Martinique,2026,866.8,,,LightGBM
+Usage de stupéfiants,R02,Martinique,2027,866.8,,,LightGBM
+Usage de stupéfiants,R02,Martinique,2028,866.8,,,LightGBM
+Usage de stupéfiants,R02,Martinique,2029,866.8,,,LightGBM
+Usage de stupéfiants,R02,Martinique,2030,866.8,,,LightGBM
+Usage de stupéfiants,R03,Guyane,2022,552.2,,,XGBoost
+Usage de stupéfiants,R03,Guyane,2023,589.0,,,XGBoost
+Usage de stupéfiants,R03,Guyane,2024,589.0,,,XGBoost
+Usage de stupéfiants,R03,Guyane,2025,589.0,,,XGBoost
+Usage de stupéfiants,R03,Guyane,2026,589.0,,,XGBoost
+Usage de stupéfiants,R03,Guyane,2027,578.1,,,XGBoost
+Usage de stupéfiants,R03,Guyane,2028,545.3,,,XGBoost
+Usage de stupéfiants,R03,Guyane,2029,679.5,,,XGBoost
+Usage de stupéfiants,R03,Guyane,2030,679.5,,,XGBoost
+Usage de stupéfiants,R03,Guyane,2022,598.0,,,LightGBM
+Usage de stupéfiants,R03,Guyane,2023,598.0,,,LightGBM
+Usage de stupéfiants,R03,Guyane,2024,598.0,,,LightGBM
+Usage de stupéfiants,R03,Guyane,2025,598.0,,,LightGBM
+Usage de stupéfiants,R03,Guyane,2026,598.0,,,LightGBM
+Usage de stupéfiants,R03,Guyane,2027,598.0,,,LightGBM
+Usage de stupéfiants,R03,Guyane,2028,598.0,,,LightGBM
+Usage de stupéfiants,R03,Guyane,2029,598.0,,,LightGBM
+Usage de stupéfiants,R03,Guyane,2030,598.0,,,LightGBM
+Usage de stupéfiants,R04,La Réunion,2022,1645.9,,,XGBoost
+Usage de stupéfiants,R04,La Réunion,2023,1645.9,,,XGBoost
+Usage de stupéfiants,R04,La Réunion,2024,1645.9,,,XGBoost
+Usage de stupéfiants,R04,La Réunion,2025,1645.9,,,XGBoost
+Usage de stupéfiants,R04,La Réunion,2026,1645.9,,,XGBoost
+Usage de stupéfiants,R04,La Réunion,2027,1638.9,,,XGBoost
+Usage de stupéfiants,R04,La Réunion,2028,1638.9,,,XGBoost
+Usage de stupéfiants,R04,La Réunion,2029,1777.1,,,XGBoost
+Usage de stupéfiants,R04,La Réunion,2030,1777.1,,,XGBoost
+Usage de stupéfiants,R04,La Réunion,2022,1629.8,,,LightGBM
+Usage de stupéfiants,R04,La Réunion,2023,1629.8,,,LightGBM
+Usage de stupéfiants,R04,La Réunion,2024,1629.8,,,LightGBM
+Usage de stupéfiants,R04,La Réunion,2025,1629.8,,,LightGBM
+Usage de stupéfiants,R04,La Réunion,2026,1629.8,,,LightGBM
+Usage de stupéfiants,R04,La Réunion,2027,1629.8,,,LightGBM
+Usage de stupéfiants,R04,La Réunion,2028,1629.8,,,LightGBM
+Usage de stupéfiants,R04,La Réunion,2029,1629.8,,,LightGBM
+Usage de stupéfiants,R04,La Réunion,2030,1629.8,,,LightGBM
+Usage de stupéfiants,R06,Mayotte,2022,161.5,,,XGBoost
+Usage de stupéfiants,R06,Mayotte,2023,161.5,,,XGBoost
+Usage de stupéfiants,R06,Mayotte,2024,161.5,,,XGBoost
+Usage de stupéfiants,R06,Mayotte,2025,161.5,,,XGBoost
+Usage de stupéfiants,R06,Mayotte,2026,161.5,,,XGBoost
+Usage de stupéfiants,R06,Mayotte,2027,180.8,,,XGBoost
+Usage de stupéfiants,R06,Mayotte,2028,180.8,,,XGBoost
+Usage de stupéfiants,R06,Mayotte,2029,83.4,,,XGBoost
+Usage de stupéfiants,R06,Mayotte,2030,83.4,,,XGBoost
+Usage de stupéfiants,R06,Mayotte,2022,145.5,,,LightGBM
+Usage de stupéfiants,R06,Mayotte,2023,145.5,,,LightGBM
+Usage de stupéfiants,R06,Mayotte,2024,145.5,,,LightGBM
+Usage de stupéfiants,R06,Mayotte,2025,145.5,,,LightGBM
+Usage de stupéfiants,R06,Mayotte,2026,145.5,,,LightGBM
+Usage de stupéfiants,R06,Mayotte,2027,145.5,,,LightGBM
+Usage de stupéfiants,R06,Mayotte,2028,145.5,,,LightGBM
+Usage de stupéfiants,R06,Mayotte,2029,145.5,,,LightGBM
+Usage de stupéfiants,R06,Mayotte,2030,145.5,,,LightGBM
+Usage de stupéfiants,R11,Île-de-France,2022,376208.9,,,XGBoost
+Usage de stupéfiants,R11,Île-de-France,2023,375881.5,,,XGBoost
+Usage de stupéfiants,R11,Île-de-France,2024,375881.5,,,XGBoost
+Usage de stupéfiants,R11,Île-de-France,2025,375881.5,,,XGBoost
+Usage de stupéfiants,R11,Île-de-France,2026,375881.5,,,XGBoost
+Usage de stupéfiants,R11,Île-de-France,2027,393578.7,,,XGBoost
+Usage de stupéfiants,R11,Île-de-France,2028,395083.0,,,XGBoost
+Usage de stupéfiants,R11,Île-de-France,2029,449709.3,,,XGBoost
+Usage de stupéfiants,R11,Île-de-France,2030,449709.3,,,XGBoost
+Usage de stupéfiants,R11,Île-de-France,2022,403576.0,,,LightGBM
+Usage de stupéfiants,R11,Île-de-France,2023,403576.0,,,LightGBM
+Usage de stupéfiants,R11,Île-de-France,2024,403576.0,,,LightGBM
+Usage de stupéfiants,R11,Île-de-France,2025,403576.0,,,LightGBM
+Usage de stupéfiants,R11,Île-de-France,2026,403576.0,,,LightGBM
+Usage de stupéfiants,R11,Île-de-France,2027,403576.0,,,LightGBM
+Usage de stupéfiants,R11,Île-de-France,2028,403576.0,,,LightGBM
+Usage de stupéfiants,R11,Île-de-France,2029,403576.0,,,LightGBM
+Usage de stupéfiants,R11,Île-de-France,2030,403576.0,,,LightGBM
+Usage de stupéfiants,R24,Centre-Val de Loire,2022,50230.0,,,XGBoost
+Usage de stupéfiants,R24,Centre-Val de Loire,2023,50230.0,,,XGBoost
+Usage de stupéfiants,R24,Centre-Val de Loire,2024,50230.0,,,XGBoost
+Usage de stupéfiants,R24,Centre-Val de Loire,2025,50230.0,,,XGBoost
+Usage de stupéfiants,R24,Centre-Val de Loire,2026,50230.0,,,XGBoost
+Usage de stupéfiants,R24,Centre-Val de Loire,2027,54423.0,,,XGBoost
+Usage de stupéfiants,R24,Centre-Val de Loire,2028,54588.7,,,XGBoost
+Usage de stupéfiants,R24,Centre-Val de Loire,2029,60459.0,,,XGBoost
+Usage de stupéfiants,R24,Centre-Val de Loire,2030,60459.0,,,XGBoost
+Usage de stupéfiants,R24,Centre-Val de Loire,2022,54925.5,,,LightGBM
+Usage de stupéfiants,R24,Centre-Val de Loire,2023,54925.5,,,LightGBM
+Usage de stupéfiants,R24,Centre-Val de Loire,2024,54925.5,,,LightGBM
+Usage de stupéfiants,R24,Centre-Val de Loire,2025,54925.5,,,LightGBM
+Usage de stupéfiants,R24,Centre-Val de Loire,2026,54925.5,,,LightGBM
+Usage de stupéfiants,R24,Centre-Val de Loire,2027,54925.5,,,LightGBM
+Usage de stupéfiants,R24,Centre-Val de Loire,2028,54925.5,,,LightGBM
+Usage de stupéfiants,R24,Centre-Val de Loire,2029,54925.5,,,LightGBM
+Usage de stupéfiants,R24,Centre-Val de Loire,2030,54925.5,,,LightGBM
+Usage de stupéfiants,R27,Bourgogne-FC,2022,77371.5,,,XGBoost
+Usage de stupéfiants,R27,Bourgogne-FC,2023,68529.5,,,XGBoost
+Usage de stupéfiants,R27,Bourgogne-FC,2024,68529.5,,,XGBoost
+Usage de stupéfiants,R27,Bourgogne-FC,2025,68529.5,,,XGBoost
+Usage de stupéfiants,R27,Bourgogne-FC,2026,68529.5,,,XGBoost
+Usage de stupéfiants,R27,Bourgogne-FC,2027,70662.2,,,XGBoost
+Usage de stupéfiants,R27,Bourgogne-FC,2028,74089.2,,,XGBoost
+Usage de stupéfiants,R27,Bourgogne-FC,2029,77371.5,,,XGBoost
+Usage de stupéfiants,R27,Bourgogne-FC,2030,77371.5,,,XGBoost
+Usage de stupéfiants,R27,Bourgogne-FC,2022,72664.0,,,LightGBM
+Usage de stupéfiants,R27,Bourgogne-FC,2023,72664.0,,,LightGBM
+Usage de stupéfiants,R27,Bourgogne-FC,2024,72664.0,,,LightGBM
+Usage de stupéfiants,R27,Bourgogne-FC,2025,72664.0,,,LightGBM
+Usage de stupéfiants,R27,Bourgogne-FC,2026,72664.0,,,LightGBM
+Usage de stupéfiants,R27,Bourgogne-FC,2027,72664.0,,,LightGBM
+Usage de stupéfiants,R27,Bourgogne-FC,2028,72664.0,,,LightGBM
+Usage de stupéfiants,R27,Bourgogne-FC,2029,72664.0,,,LightGBM
+Usage de stupéfiants,R27,Bourgogne-FC,2030,72664.0,,,LightGBM
+Usage de stupéfiants,R28,Normandie,2022,45002.4,,,XGBoost
+Usage de stupéfiants,R28,Normandie,2023,45002.4,,,XGBoost
+Usage de stupéfiants,R28,Normandie,2024,45002.4,,,XGBoost
+Usage de stupéfiants,R28,Normandie,2025,45002.4,,,XGBoost
+Usage de stupéfiants,R28,Normandie,2026,45002.4,,,XGBoost
+Usage de stupéfiants,R28,Normandie,2027,46755.9,,,XGBoost
+Usage de stupéfiants,R28,Normandie,2028,46866.6,,,XGBoost
+Usage de stupéfiants,R28,Normandie,2029,55802.2,,,XGBoost
+Usage de stupéfiants,R28,Normandie,2030,55802.2,,,XGBoost
+Usage de stupéfiants,R28,Normandie,2022,48610.0,,,LightGBM
+Usage de stupéfiants,R28,Normandie,2023,48610.0,,,LightGBM
+Usage de stupéfiants,R28,Normandie,2024,48610.0,,,LightGBM
+Usage de stupéfiants,R28,Normandie,2025,48610.0,,,LightGBM
+Usage de stupéfiants,R28,Normandie,2026,48610.0,,,LightGBM
+Usage de stupéfiants,R28,Normandie,2027,48610.0,,,LightGBM
+Usage de stupéfiants,R28,Normandie,2028,48610.0,,,LightGBM
+Usage de stupéfiants,R28,Normandie,2029,48610.0,,,LightGBM
+Usage de stupéfiants,R28,Normandie,2030,48610.0,,,LightGBM
+Usage de stupéfiants,R32,Hauts-de-France,2022,81497.4,,,XGBoost
+Usage de stupéfiants,R32,Hauts-de-France,2023,80746.1,,,XGBoost
+Usage de stupéfiants,R32,Hauts-de-France,2024,80746.1,,,XGBoost
+Usage de stupéfiants,R32,Hauts-de-France,2025,80746.1,,,XGBoost
+Usage de stupéfiants,R32,Hauts-de-France,2026,80746.1,,,XGBoost
+Usage de stupéfiants,R32,Hauts-de-France,2027,87099.1,,,XGBoost
+Usage de stupéfiants,R32,Hauts-de-France,2028,89617.5,,,XGBoost
+Usage de stupéfiants,R32,Hauts-de-France,2029,102659.8,,,XGBoost
+Usage de stupéfiants,R32,Hauts-de-France,2030,102659.8,,,XGBoost
+Usage de stupéfiants,R32,Hauts-de-France,2022,90031.2,,,LightGBM
+Usage de stupéfiants,R32,Hauts-de-France,2023,90031.2,,,LightGBM
+Usage de stupéfiants,R32,Hauts-de-France,2024,90031.2,,,LightGBM
+Usage de stupéfiants,R32,Hauts-de-France,2025,90031.2,,,LightGBM
+Usage de stupéfiants,R32,Hauts-de-France,2026,90031.2,,,LightGBM
+Usage de stupéfiants,R32,Hauts-de-France,2027,90031.2,,,LightGBM
+Usage de stupéfiants,R32,Hauts-de-France,2028,90031.2,,,LightGBM
+Usage de stupéfiants,R32,Hauts-de-France,2029,90031.2,,,LightGBM
+Usage de stupéfiants,R32,Hauts-de-France,2030,90031.2,,,LightGBM
+Usage de stupéfiants,R44,Grand Est,2022,168526.6,,,XGBoost
+Usage de stupéfiants,R44,Grand Est,2023,166245.5,,,XGBoost
+Usage de stupéfiants,R44,Grand Est,2024,166245.5,,,XGBoost
+Usage de stupéfiants,R44,Grand Est,2025,166245.5,,,XGBoost
+Usage de stupéfiants,R44,Grand Est,2026,166245.5,,,XGBoost
+Usage de stupéfiants,R44,Grand Est,2027,170538.3,,,XGBoost
+Usage de stupéfiants,R44,Grand Est,2028,173084.8,,,XGBoost
+Usage de stupéfiants,R44,Grand Est,2029,204027.9,,,XGBoost
+Usage de stupéfiants,R44,Grand Est,2030,204027.9,,,XGBoost
+Usage de stupéfiants,R44,Grand Est,2022,178487.5,,,LightGBM
+Usage de stupéfiants,R44,Grand Est,2023,178487.5,,,LightGBM
+Usage de stupéfiants,R44,Grand Est,2024,178487.5,,,LightGBM
+Usage de stupéfiants,R44,Grand Est,2025,178487.5,,,LightGBM
+Usage de stupéfiants,R44,Grand Est,2026,178487.5,,,LightGBM
+Usage de stupéfiants,R44,Grand Est,2027,178487.5,,,LightGBM
+Usage de stupéfiants,R44,Grand Est,2028,178487.5,,,LightGBM
+Usage de stupéfiants,R44,Grand Est,2029,178487.5,,,LightGBM
+Usage de stupéfiants,R44,Grand Est,2030,178487.5,,,LightGBM
+Usage de stupéfiants,R52,Pays de la Loire,2022,53944.9,,,XGBoost
+Usage de stupéfiants,R52,Pays de la Loire,2023,52890.5,,,XGBoost
+Usage de stupéfiants,R52,Pays de la Loire,2024,52890.5,,,XGBoost
+Usage de stupéfiants,R52,Pays de la Loire,2025,52890.5,,,XGBoost
+Usage de stupéfiants,R52,Pays de la Loire,2026,52890.5,,,XGBoost
+Usage de stupéfiants,R52,Pays de la Loire,2027,55562.7,,,XGBoost
+Usage de stupéfiants,R52,Pays de la Loire,2028,56886.8,,,XGBoost
+Usage de stupéfiants,R52,Pays de la Loire,2029,66031.2,,,XGBoost
+Usage de stupéfiants,R52,Pays de la Loire,2030,66031.2,,,XGBoost
+Usage de stupéfiants,R52,Pays de la Loire,2022,57845.0,,,LightGBM
+Usage de stupéfiants,R52,Pays de la Loire,2023,57845.0,,,LightGBM
+Usage de stupéfiants,R52,Pays de la Loire,2024,57845.0,,,LightGBM
+Usage de stupéfiants,R52,Pays de la Loire,2025,57845.0,,,LightGBM
+Usage de stupéfiants,R52,Pays de la Loire,2026,57845.0,,,LightGBM
+Usage de stupéfiants,R52,Pays de la Loire,2027,57845.0,,,LightGBM
+Usage de stupéfiants,R52,Pays de la Loire,2028,57845.0,,,LightGBM
+Usage de stupéfiants,R52,Pays de la Loire,2029,57845.0,,,LightGBM
+Usage de stupéfiants,R52,Pays de la Loire,2030,57845.0,,,LightGBM
+Usage de stupéfiants,R53,Bretagne,2022,37359.8,,,XGBoost
+Usage de stupéfiants,R53,Bretagne,2023,36717.4,,,XGBoost
+Usage de stupéfiants,R53,Bretagne,2024,36717.4,,,XGBoost
+Usage de stupéfiants,R53,Bretagne,2025,36717.4,,,XGBoost
+Usage de stupéfiants,R53,Bretagne,2026,36717.4,,,XGBoost
+Usage de stupéfiants,R53,Bretagne,2027,37727.3,,,XGBoost
+Usage de stupéfiants,R53,Bretagne,2028,38464.8,,,XGBoost
+Usage de stupéfiants,R53,Bretagne,2029,42637.7,,,XGBoost
+Usage de stupéfiants,R53,Bretagne,2030,42637.7,,,XGBoost
+Usage de stupéfiants,R53,Bretagne,2022,38888.0,,,LightGBM
+Usage de stupéfiants,R53,Bretagne,2023,38888.0,,,LightGBM
+Usage de stupéfiants,R53,Bretagne,2024,38888.0,,,LightGBM
+Usage de stupéfiants,R53,Bretagne,2025,38888.0,,,LightGBM
+Usage de stupéfiants,R53,Bretagne,2026,38888.0,,,LightGBM
+Usage de stupéfiants,R53,Bretagne,2027,38888.0,,,LightGBM
+Usage de stupéfiants,R53,Bretagne,2028,38888.0,,,LightGBM
+Usage de stupéfiants,R53,Bretagne,2029,38888.0,,,LightGBM
+Usage de stupéfiants,R53,Bretagne,2030,38888.0,,,LightGBM
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2022,263832.2,,,XGBoost
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2023,210018.4,,,XGBoost
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2024,210018.4,,,XGBoost
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2025,210018.4,,,XGBoost
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2026,210018.4,,,XGBoost
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2027,215947.9,,,XGBoost
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2028,236598.3,,,XGBoost
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2029,263832.2,,,XGBoost
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2030,263832.2,,,XGBoost
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2022,231615.0,,,LightGBM
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2023,231615.0,,,LightGBM
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2024,231615.0,,,LightGBM
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2025,231615.0,,,LightGBM
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2026,231615.0,,,LightGBM
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2027,231615.0,,,LightGBM
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2028,231615.0,,,LightGBM
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2029,231615.0,,,LightGBM
+Usage de stupéfiants,R75,Nouvelle-Aquitaine,2030,231615.0,,,LightGBM
+Usage de stupéfiants,R76,Occitanie,2022,270490.4,,,XGBoost
+Usage de stupéfiants,R76,Occitanie,2023,247736.5,,,XGBoost
+Usage de stupéfiants,R76,Occitanie,2024,247736.5,,,XGBoost
+Usage de stupéfiants,R76,Occitanie,2025,247736.5,,,XGBoost
+Usage de stupéfiants,R76,Occitanie,2026,247736.5,,,XGBoost
+Usage de stupéfiants,R76,Occitanie,2027,257969.3,,,XGBoost
+Usage de stupéfiants,R76,Occitanie,2028,270490.4,,,XGBoost
+Usage de stupéfiants,R76,Occitanie,2029,305330.9,,,XGBoost
+Usage de stupéfiants,R76,Occitanie,2030,305330.9,,,XGBoost
+Usage de stupéfiants,R76,Occitanie,2022,270390.2,,,LightGBM
+Usage de stupéfiants,R76,Occitanie,2023,270390.2,,,LightGBM
+Usage de stupéfiants,R76,Occitanie,2024,270390.2,,,LightGBM
+Usage de stupéfiants,R76,Occitanie,2025,270390.2,,,LightGBM
+Usage de stupéfiants,R76,Occitanie,2026,270390.2,,,LightGBM
+Usage de stupéfiants,R76,Occitanie,2027,270390.2,,,LightGBM
+Usage de stupéfiants,R76,Occitanie,2028,270390.2,,,LightGBM
+Usage de stupéfiants,R76,Occitanie,2029,270390.2,,,LightGBM
+Usage de stupéfiants,R76,Occitanie,2030,270390.2,,,LightGBM
+Usage de stupéfiants,R84,Auvergne-RA,2022,356963.1,,,XGBoost
+Usage de stupéfiants,R84,Auvergne-RA,2023,294697.9,,,XGBoost
+Usage de stupéfiants,R84,Auvergne-RA,2024,294697.9,,,XGBoost
+Usage de stupéfiants,R84,Auvergne-RA,2025,294697.9,,,XGBoost
+Usage de stupéfiants,R84,Auvergne-RA,2026,294697.9,,,XGBoost
+Usage de stupéfiants,R84,Auvergne-RA,2027,305848.6,,,XGBoost
+Usage de stupéfiants,R84,Auvergne-RA,2028,324611.8,,,XGBoost
+Usage de stupéfiants,R84,Auvergne-RA,2029,356963.1,,,XGBoost
+Usage de stupéfiants,R84,Auvergne-RA,2030,356963.1,,,XGBoost
+Usage de stupéfiants,R84,Auvergne-RA,2022,320541.0,,,LightGBM
+Usage de stupéfiants,R84,Auvergne-RA,2023,320541.0,,,LightGBM
+Usage de stupéfiants,R84,Auvergne-RA,2024,320541.0,,,LightGBM
+Usage de stupéfiants,R84,Auvergne-RA,2025,320541.0,,,LightGBM
+Usage de stupéfiants,R84,Auvergne-RA,2026,320541.0,,,LightGBM
+Usage de stupéfiants,R84,Auvergne-RA,2027,320541.0,,,LightGBM
+Usage de stupéfiants,R84,Auvergne-RA,2028,320541.0,,,LightGBM
+Usage de stupéfiants,R84,Auvergne-RA,2029,320541.0,,,LightGBM
+Usage de stupéfiants,R84,Auvergne-RA,2030,320541.0,,,LightGBM
+Usage de stupéfiants,R93,PACA,2022,115761.5,,,XGBoost
+Usage de stupéfiants,R93,PACA,2023,110838.6,,,XGBoost
+Usage de stupéfiants,R93,PACA,2024,110838.6,,,XGBoost
+Usage de stupéfiants,R93,PACA,2025,110838.6,,,XGBoost
+Usage de stupéfiants,R93,PACA,2026,110838.6,,,XGBoost
+Usage de stupéfiants,R93,PACA,2027,114911.1,,,XGBoost
+Usage de stupéfiants,R93,PACA,2028,120568.1,,,XGBoost
+Usage de stupéfiants,R93,PACA,2029,140946.1,,,XGBoost
+Usage de stupéfiants,R93,PACA,2030,140946.1,,,XGBoost
+Usage de stupéfiants,R93,PACA,2022,121822.5,,,LightGBM
+Usage de stupéfiants,R93,PACA,2023,121822.5,,,LightGBM
+Usage de stupéfiants,R93,PACA,2024,121822.5,,,LightGBM
+Usage de stupéfiants,R93,PACA,2025,121822.5,,,LightGBM
+Usage de stupéfiants,R93,PACA,2026,121822.5,,,LightGBM
+Usage de stupéfiants,R93,PACA,2027,121822.5,,,LightGBM
+Usage de stupéfiants,R93,PACA,2028,121822.5,,,LightGBM
+Usage de stupéfiants,R93,PACA,2029,121822.5,,,LightGBM
+Usage de stupéfiants,R93,PACA,2030,121822.5,,,LightGBM
+Usage de stupéfiants,R94,Corse,2022,2614.3,,,XGBoost
+Usage de stupéfiants,R94,Corse,2023,2134.3,,,XGBoost
+Usage de stupéfiants,R94,Corse,2024,2134.3,,,XGBoost
+Usage de stupéfiants,R94,Corse,2025,2134.3,,,XGBoost
+Usage de stupéfiants,R94,Corse,2026,2134.3,,,XGBoost
+Usage de stupéfiants,R94,Corse,2027,2101.2,,,XGBoost
+Usage de stupéfiants,R94,Corse,2028,2495.6,,,XGBoost
+Usage de stupéfiants,R94,Corse,2029,2614.3,,,XGBoost
+Usage de stupéfiants,R94,Corse,2030,2614.3,,,XGBoost
+Usage de stupéfiants,R94,Corse,2022,2336.5,,,LightGBM
+Usage de stupéfiants,R94,Corse,2023,2336.5,,,LightGBM
+Usage de stupéfiants,R94,Corse,2024,2336.5,,,LightGBM
+Usage de stupéfiants,R94,Corse,2025,2336.5,,,LightGBM
+Usage de stupéfiants,R94,Corse,2026,2336.5,,,LightGBM
+Usage de stupéfiants,R94,Corse,2027,2336.5,,,LightGBM
+Usage de stupéfiants,R94,Corse,2028,2336.5,,,LightGBM
+Usage de stupéfiants,R94,Corse,2029,2336.5,,,LightGBM
+Usage de stupéfiants,R94,Corse,2030,2336.5,,,LightGBM
+Cambriolages de logement,R01,Guadeloupe,2022,1060.8,,,XGBoost
+Cambriolages de logement,R01,Guadeloupe,2023,2560.9,,,XGBoost
+Cambriolages de logement,R01,Guadeloupe,2024,2560.9,,,XGBoost
+Cambriolages de logement,R01,Guadeloupe,2025,2560.9,,,XGBoost
+Cambriolages de logement,R01,Guadeloupe,2026,2560.9,,,XGBoost
+Cambriolages de logement,R01,Guadeloupe,2027,2404.0,,,XGBoost
+Cambriolages de logement,R01,Guadeloupe,2028,1354.2,,,XGBoost
+Cambriolages de logement,R01,Guadeloupe,2029,1060.8,,,XGBoost
+Cambriolages de logement,R01,Guadeloupe,2030,1060.8,,,XGBoost
+Cambriolages de logement,R01,Guadeloupe,2022,1844.8,,,LightGBM
+Cambriolages de logement,R01,Guadeloupe,2023,1844.8,,,LightGBM
+Cambriolages de logement,R01,Guadeloupe,2024,1844.8,,,LightGBM
+Cambriolages de logement,R01,Guadeloupe,2025,1844.8,,,LightGBM
+Cambriolages de logement,R01,Guadeloupe,2026,1844.8,,,LightGBM
+Cambriolages de logement,R01,Guadeloupe,2027,1844.8,,,LightGBM
+Cambriolages de logement,R01,Guadeloupe,2028,1844.8,,,LightGBM
+Cambriolages de logement,R01,Guadeloupe,2029,1844.8,,,LightGBM
+Cambriolages de logement,R01,Guadeloupe,2030,1844.8,,,LightGBM
+Cambriolages de logement,R02,Martinique,2022,1382.7,,,XGBoost
+Cambriolages de logement,R02,Martinique,2023,1382.7,,,XGBoost
+Cambriolages de logement,R02,Martinique,2024,1428.9,,,XGBoost
+Cambriolages de logement,R02,Martinique,2025,1428.9,,,XGBoost
+Cambriolages de logement,R02,Martinique,2026,1428.9,,,XGBoost
+Cambriolages de logement,R02,Martinique,2027,1290.9,,,XGBoost
+Cambriolages de logement,R02,Martinique,2028,1290.9,,,XGBoost
+Cambriolages de logement,R02,Martinique,2029,1382.7,,,XGBoost
+Cambriolages de logement,R02,Martinique,2030,1382.7,,,XGBoost
+Cambriolages de logement,R02,Martinique,2022,1242.5,,,LightGBM
+Cambriolages de logement,R02,Martinique,2023,1242.5,,,LightGBM
+Cambriolages de logement,R02,Martinique,2024,1242.5,,,LightGBM
+Cambriolages de logement,R02,Martinique,2025,1242.5,,,LightGBM
+Cambriolages de logement,R02,Martinique,2026,1242.5,,,LightGBM
+Cambriolages de logement,R02,Martinique,2027,1242.5,,,LightGBM
+Cambriolages de logement,R02,Martinique,2028,1242.5,,,LightGBM
+Cambriolages de logement,R02,Martinique,2029,1242.5,,,LightGBM
+Cambriolages de logement,R02,Martinique,2030,1242.5,,,LightGBM
+Cambriolages de logement,R03,Guyane,2022,1279.0,,,XGBoost
+Cambriolages de logement,R03,Guyane,2023,1352.8,,,XGBoost
+Cambriolages de logement,R03,Guyane,2024,1352.8,,,XGBoost
+Cambriolages de logement,R03,Guyane,2025,1352.8,,,XGBoost
+Cambriolages de logement,R03,Guyane,2026,1352.8,,,XGBoost
+Cambriolages de logement,R03,Guyane,2027,1435.1,,,XGBoost
+Cambriolages de logement,R03,Guyane,2028,1279.0,,,XGBoost
+Cambriolages de logement,R03,Guyane,2029,1054.3,,,XGBoost
+Cambriolages de logement,R03,Guyane,2030,1054.3,,,XGBoost
+Cambriolages de logement,R03,Guyane,2022,1280.2,,,LightGBM
+Cambriolages de logement,R03,Guyane,2023,1280.2,,,LightGBM
+Cambriolages de logement,R03,Guyane,2024,1280.2,,,LightGBM
+Cambriolages de logement,R03,Guyane,2025,1280.2,,,LightGBM
+Cambriolages de logement,R03,Guyane,2026,1280.2,,,LightGBM
+Cambriolages de logement,R03,Guyane,2027,1280.2,,,LightGBM
+Cambriolages de logement,R03,Guyane,2028,1280.2,,,LightGBM
+Cambriolages de logement,R03,Guyane,2029,1280.2,,,LightGBM
+Cambriolages de logement,R03,Guyane,2030,1280.2,,,LightGBM
+Cambriolages de logement,R04,La Réunion,2022,1457.1,,,XGBoost
+Cambriolages de logement,R04,La Réunion,2023,2117.0,,,XGBoost
+Cambriolages de logement,R04,La Réunion,2024,2117.0,,,XGBoost
+Cambriolages de logement,R04,La Réunion,2025,2117.0,,,XGBoost
+Cambriolages de logement,R04,La Réunion,2026,2117.0,,,XGBoost
+Cambriolages de logement,R04,La Réunion,2027,1924.5,,,XGBoost
+Cambriolages de logement,R04,La Réunion,2028,1679.5,,,XGBoost
+Cambriolages de logement,R04,La Réunion,2029,1457.1,,,XGBoost
+Cambriolages de logement,R04,La Réunion,2030,1457.1,,,XGBoost
+Cambriolages de logement,R04,La Réunion,2022,1794.5,,,LightGBM
+Cambriolages de logement,R04,La Réunion,2023,1794.5,,,LightGBM
+Cambriolages de logement,R04,La Réunion,2024,1794.5,,,LightGBM
+Cambriolages de logement,R04,La Réunion,2025,1794.5,,,LightGBM
+Cambriolages de logement,R04,La Réunion,2026,1794.5,,,LightGBM
+Cambriolages de logement,R04,La Réunion,2027,1794.5,,,LightGBM
+Cambriolages de logement,R04,La Réunion,2028,1794.5,,,LightGBM
+Cambriolages de logement,R04,La Réunion,2029,1794.5,,,LightGBM
+Cambriolages de logement,R04,La Réunion,2030,1794.5,,,LightGBM
+Cambriolages de logement,R06,Mayotte,2022,218.2,,,XGBoost
+Cambriolages de logement,R06,Mayotte,2023,336.0,,,XGBoost
+Cambriolages de logement,R06,Mayotte,2024,579.5,,,XGBoost
+Cambriolages de logement,R06,Mayotte,2025,579.5,,,XGBoost
+Cambriolages de logement,R06,Mayotte,2026,579.5,,,XGBoost
+Cambriolages de logement,R06,Mayotte,2027,336.0,,,XGBoost
+Cambriolages de logement,R06,Mayotte,2028,182.8,,,XGBoost
+Cambriolages de logement,R06,Mayotte,2029,218.2,,,XGBoost
+Cambriolages de logement,R06,Mayotte,2030,218.2,,,XGBoost
+Cambriolages de logement,R06,Mayotte,2022,329.2,,,LightGBM
+Cambriolages de logement,R06,Mayotte,2023,329.2,,,LightGBM
+Cambriolages de logement,R06,Mayotte,2024,329.2,,,LightGBM
+Cambriolages de logement,R06,Mayotte,2025,329.2,,,LightGBM
+Cambriolages de logement,R06,Mayotte,2026,329.2,,,LightGBM
+Cambriolages de logement,R06,Mayotte,2027,329.2,,,LightGBM
+Cambriolages de logement,R06,Mayotte,2028,329.2,,,LightGBM
+Cambriolages de logement,R06,Mayotte,2029,329.2,,,LightGBM
+Cambriolages de logement,R06,Mayotte,2030,329.2,,,LightGBM
+Cambriolages de logement,R11,Île-de-France,2022,398970.9,,,XGBoost
+Cambriolages de logement,R11,Île-de-France,2023,391125.3,,,XGBoost
+Cambriolages de logement,R11,Île-de-France,2024,391125.3,,,XGBoost
+Cambriolages de logement,R11,Île-de-France,2025,391125.3,,,XGBoost
+Cambriolages de logement,R11,Île-de-France,2026,391125.3,,,XGBoost
+Cambriolages de logement,R11,Île-de-France,2027,393951.6,,,XGBoost
+Cambriolages de logement,R11,Île-de-France,2028,399635.7,,,XGBoost
+Cambriolages de logement,R11,Île-de-France,2029,398970.9,,,XGBoost
+Cambriolages de logement,R11,Île-de-France,2030,398970.9,,,XGBoost
+Cambriolages de logement,R11,Île-de-France,2022,395918.0,,,LightGBM
+Cambriolages de logement,R11,Île-de-France,2023,395918.0,,,LightGBM
+Cambriolages de logement,R11,Île-de-France,2024,395918.0,,,LightGBM
+Cambriolages de logement,R11,Île-de-France,2025,395918.0,,,LightGBM
+Cambriolages de logement,R11,Île-de-France,2026,395918.0,,,LightGBM
+Cambriolages de logement,R11,Île-de-France,2027,395918.0,,,LightGBM
+Cambriolages de logement,R11,Île-de-France,2028,395918.0,,,LightGBM
+Cambriolages de logement,R11,Île-de-France,2029,395918.0,,,LightGBM
+Cambriolages de logement,R11,Île-de-France,2030,395918.0,,,LightGBM
+Cambriolages de logement,R24,Centre-Val de Loire,2022,44298.5,,,XGBoost
+Cambriolages de logement,R24,Centre-Val de Loire,2023,49920.8,,,XGBoost
+Cambriolages de logement,R24,Centre-Val de Loire,2024,49920.8,,,XGBoost
+Cambriolages de logement,R24,Centre-Val de Loire,2025,49920.8,,,XGBoost
+Cambriolages de logement,R24,Centre-Val de Loire,2026,49920.8,,,XGBoost
+Cambriolages de logement,R24,Centre-Val de Loire,2027,51992.0,,,XGBoost
+Cambriolages de logement,R24,Centre-Val de Loire,2028,47435.8,,,XGBoost
+Cambriolages de logement,R24,Centre-Val de Loire,2029,44298.5,,,XGBoost
+Cambriolages de logement,R24,Centre-Val de Loire,2030,44298.5,,,XGBoost
+Cambriolages de logement,R24,Centre-Val de Loire,2022,48411.0,,,LightGBM
+Cambriolages de logement,R24,Centre-Val de Loire,2023,48411.0,,,LightGBM
+Cambriolages de logement,R24,Centre-Val de Loire,2024,48411.0,,,LightGBM
+Cambriolages de logement,R24,Centre-Val de Loire,2025,48411.0,,,LightGBM
+Cambriolages de logement,R24,Centre-Val de Loire,2026,48411.0,,,LightGBM
+Cambriolages de logement,R24,Centre-Val de Loire,2027,48411.0,,,LightGBM
+Cambriolages de logement,R24,Centre-Val de Loire,2028,48411.0,,,LightGBM
+Cambriolages de logement,R24,Centre-Val de Loire,2029,48411.0,,,LightGBM
+Cambriolages de logement,R24,Centre-Val de Loire,2030,48411.0,,,LightGBM
+Cambriolages de logement,R27,Bourgogne-FC,2022,62266.5,,,XGBoost
+Cambriolages de logement,R27,Bourgogne-FC,2023,62266.5,,,XGBoost
+Cambriolages de logement,R27,Bourgogne-FC,2024,61468.8,,,XGBoost
+Cambriolages de logement,R27,Bourgogne-FC,2025,61468.8,,,XGBoost
+Cambriolages de logement,R27,Bourgogne-FC,2026,61468.8,,,XGBoost
+Cambriolages de logement,R27,Bourgogne-FC,2027,57161.2,,,XGBoost
+Cambriolages de logement,R27,Bourgogne-FC,2028,59236.2,,,XGBoost
+Cambriolages de logement,R27,Bourgogne-FC,2029,62266.5,,,XGBoost
+Cambriolages de logement,R27,Bourgogne-FC,2030,62266.5,,,XGBoost
+Cambriolages de logement,R27,Bourgogne-FC,2022,60032.0,,,LightGBM
+Cambriolages de logement,R27,Bourgogne-FC,2023,60032.0,,,LightGBM
+Cambriolages de logement,R27,Bourgogne-FC,2024,60032.0,,,LightGBM
+Cambriolages de logement,R27,Bourgogne-FC,2025,60032.0,,,LightGBM
+Cambriolages de logement,R27,Bourgogne-FC,2026,60032.0,,,LightGBM
+Cambriolages de logement,R27,Bourgogne-FC,2027,60032.0,,,LightGBM
+Cambriolages de logement,R27,Bourgogne-FC,2028,60032.0,,,LightGBM
+Cambriolages de logement,R27,Bourgogne-FC,2029,60032.0,,,LightGBM
+Cambriolages de logement,R27,Bourgogne-FC,2030,60032.0,,,LightGBM
+Cambriolages de logement,R28,Normandie,2022,41606.3,,,XGBoost
+Cambriolages de logement,R28,Normandie,2023,41606.3,,,XGBoost
+Cambriolages de logement,R28,Normandie,2024,41606.3,,,XGBoost
+Cambriolages de logement,R28,Normandie,2025,41606.3,,,XGBoost
+Cambriolages de logement,R28,Normandie,2026,41606.3,,,XGBoost
+Cambriolages de logement,R28,Normandie,2027,40537.7,,,XGBoost
+Cambriolages de logement,R28,Normandie,2028,40429.4,,,XGBoost
+Cambriolages de logement,R28,Normandie,2029,38022.7,,,XGBoost
+Cambriolages de logement,R28,Normandie,2030,38022.7,,,XGBoost
+Cambriolages de logement,R28,Normandie,2022,40148.8,,,LightGBM
+Cambriolages de logement,R28,Normandie,2023,40148.8,,,LightGBM
+Cambriolages de logement,R28,Normandie,2024,40148.8,,,LightGBM
+Cambriolages de logement,R28,Normandie,2025,40148.8,,,LightGBM
+Cambriolages de logement,R28,Normandie,2026,40148.8,,,LightGBM
+Cambriolages de logement,R28,Normandie,2027,40148.8,,,LightGBM
+Cambriolages de logement,R28,Normandie,2028,40148.8,,,LightGBM
+Cambriolages de logement,R28,Normandie,2029,40148.8,,,LightGBM
+Cambriolages de logement,R28,Normandie,2030,40148.8,,,LightGBM
+Cambriolages de logement,R32,Hauts-de-France,2022,106809.0,,,XGBoost
+Cambriolages de logement,R32,Hauts-de-France,2023,106809.0,,,XGBoost
+Cambriolages de logement,R32,Hauts-de-France,2024,107036.0,,,XGBoost
+Cambriolages de logement,R32,Hauts-de-France,2025,107036.0,,,XGBoost
+Cambriolages de logement,R32,Hauts-de-France,2026,107036.0,,,XGBoost
+Cambriolages de logement,R32,Hauts-de-France,2027,108944.7,,,XGBoost
+Cambriolages de logement,R32,Hauts-de-France,2028,108944.7,,,XGBoost
+Cambriolages de logement,R32,Hauts-de-France,2029,106809.0,,,XGBoost
+Cambriolages de logement,R32,Hauts-de-France,2030,106809.0,,,XGBoost
+Cambriolages de logement,R32,Hauts-de-France,2022,106372.5,,,LightGBM
+Cambriolages de logement,R32,Hauts-de-France,2023,106372.5,,,LightGBM
+Cambriolages de logement,R32,Hauts-de-France,2024,106372.5,,,LightGBM
+Cambriolages de logement,R32,Hauts-de-France,2025,106372.5,,,LightGBM
+Cambriolages de logement,R32,Hauts-de-France,2026,106372.5,,,LightGBM
+Cambriolages de logement,R32,Hauts-de-France,2027,106372.5,,,LightGBM
+Cambriolages de logement,R32,Hauts-de-France,2028,106372.5,,,LightGBM
+Cambriolages de logement,R32,Hauts-de-France,2029,106372.5,,,LightGBM
+Cambriolages de logement,R32,Hauts-de-France,2030,106372.5,,,LightGBM
+Cambriolages de logement,R44,Grand Est,2022,143767.3,,,XGBoost
+Cambriolages de logement,R44,Grand Est,2023,154550.1,,,XGBoost
+Cambriolages de logement,R44,Grand Est,2024,154550.1,,,XGBoost
+Cambriolages de logement,R44,Grand Est,2025,154550.1,,,XGBoost
+Cambriolages de logement,R44,Grand Est,2026,154550.1,,,XGBoost
+Cambriolages de logement,R44,Grand Est,2027,151129.3,,,XGBoost
+Cambriolages de logement,R44,Grand Est,2028,142660.2,,,XGBoost
+Cambriolages de logement,R44,Grand Est,2029,143767.3,,,XGBoost
+Cambriolages de logement,R44,Grand Est,2030,143767.3,,,XGBoost
+Cambriolages de logement,R44,Grand Est,2022,148030.0,,,LightGBM
+Cambriolages de logement,R44,Grand Est,2023,148030.0,,,LightGBM
+Cambriolages de logement,R44,Grand Est,2024,148030.0,,,LightGBM
+Cambriolages de logement,R44,Grand Est,2025,148030.0,,,LightGBM
+Cambriolages de logement,R44,Grand Est,2026,148030.0,,,LightGBM
+Cambriolages de logement,R44,Grand Est,2027,148030.0,,,LightGBM
+Cambriolages de logement,R44,Grand Est,2028,148030.0,,,LightGBM
+Cambriolages de logement,R44,Grand Est,2029,148030.0,,,LightGBM
+Cambriolages de logement,R44,Grand Est,2030,148030.0,,,LightGBM
+Cambriolages de logement,R52,Pays de la Loire,2022,57923.4,,,XGBoost
+Cambriolages de logement,R52,Pays de la Loire,2023,54672.6,,,XGBoost
+Cambriolages de logement,R52,Pays de la Loire,2024,54672.6,,,XGBoost
+Cambriolages de logement,R52,Pays de la Loire,2025,54672.6,,,XGBoost
+Cambriolages de logement,R52,Pays de la Loire,2026,54672.6,,,XGBoost
+Cambriolages de logement,R52,Pays de la Loire,2027,55047.0,,,XGBoost
+Cambriolages de logement,R52,Pays de la Loire,2028,56228.5,,,XGBoost
+Cambriolages de logement,R52,Pays de la Loire,2029,57923.4,,,XGBoost
+Cambriolages de logement,R52,Pays de la Loire,2030,57923.4,,,XGBoost
+Cambriolages de logement,R52,Pays de la Loire,2022,55968.8,,,LightGBM
+Cambriolages de logement,R52,Pays de la Loire,2023,55968.8,,,LightGBM
+Cambriolages de logement,R52,Pays de la Loire,2024,55968.8,,,LightGBM
+Cambriolages de logement,R52,Pays de la Loire,2025,55968.8,,,LightGBM
+Cambriolages de logement,R52,Pays de la Loire,2026,55968.8,,,LightGBM
+Cambriolages de logement,R52,Pays de la Loire,2027,55968.8,,,LightGBM
+Cambriolages de logement,R52,Pays de la Loire,2028,55968.8,,,LightGBM
+Cambriolages de logement,R52,Pays de la Loire,2029,55968.8,,,LightGBM
+Cambriolages de logement,R52,Pays de la Loire,2030,55968.8,,,LightGBM
+Cambriolages de logement,R53,Bretagne,2022,27571.7,,,XGBoost
+Cambriolages de logement,R53,Bretagne,2023,27571.7,,,XGBoost
+Cambriolages de logement,R53,Bretagne,2024,27726.0,,,XGBoost
+Cambriolages de logement,R53,Bretagne,2025,27726.0,,,XGBoost
+Cambriolages de logement,R53,Bretagne,2026,27726.0,,,XGBoost
+Cambriolages de logement,R53,Bretagne,2027,31120.0,,,XGBoost
+Cambriolages de logement,R53,Bretagne,2028,30221.0,,,XGBoost
+Cambriolages de logement,R53,Bretagne,2029,27571.7,,,XGBoost
+Cambriolages de logement,R53,Bretagne,2030,27571.7,,,XGBoost
+Cambriolages de logement,R53,Bretagne,2022,29161.0,,,LightGBM
+Cambriolages de logement,R53,Bretagne,2023,29161.0,,,LightGBM
+Cambriolages de logement,R53,Bretagne,2024,29161.0,,,LightGBM
+Cambriolages de logement,R53,Bretagne,2025,29161.0,,,LightGBM
+Cambriolages de logement,R53,Bretagne,2026,29161.0,,,LightGBM
+Cambriolages de logement,R53,Bretagne,2027,29161.0,,,LightGBM
+Cambriolages de logement,R53,Bretagne,2028,29161.0,,,LightGBM
+Cambriolages de logement,R53,Bretagne,2029,29161.0,,,LightGBM
+Cambriolages de logement,R53,Bretagne,2030,29161.0,,,LightGBM
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2022,236582.7,,,XGBoost
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2023,236582.7,,,XGBoost
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2024,235115.7,,,XGBoost
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2025,235115.7,,,XGBoost
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2026,235115.7,,,XGBoost
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2027,236484.1,,,XGBoost
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2028,236484.1,,,XGBoost
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2029,241286.9,,,XGBoost
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2030,241286.9,,,XGBoost
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2022,243942.0,,,LightGBM
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2023,243942.0,,,LightGBM
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2024,243942.0,,,LightGBM
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2025,243942.0,,,LightGBM
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2026,243942.0,,,LightGBM
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2027,243942.0,,,LightGBM
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2028,243942.0,,,LightGBM
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2029,243942.0,,,LightGBM
+Cambriolages de logement,R75,Nouvelle-Aquitaine,2030,243942.0,,,LightGBM
+Cambriolages de logement,R76,Occitanie,2022,324699.3,,,XGBoost
+Cambriolages de logement,R76,Occitanie,2023,386235.2,,,XGBoost
+Cambriolages de logement,R76,Occitanie,2024,386235.2,,,XGBoost
+Cambriolages de logement,R76,Occitanie,2025,386235.2,,,XGBoost
+Cambriolages de logement,R76,Occitanie,2026,386235.2,,,XGBoost
+Cambriolages de logement,R76,Occitanie,2027,374910.5,,,XGBoost
+Cambriolages de logement,R76,Occitanie,2028,324109.4,,,XGBoost
+Cambriolages de logement,R76,Occitanie,2029,324699.3,,,XGBoost
+Cambriolages de logement,R76,Occitanie,2030,324699.3,,,XGBoost
+Cambriolages de logement,R76,Occitanie,2022,352521.0,,,LightGBM
+Cambriolages de logement,R76,Occitanie,2023,352521.0,,,LightGBM
+Cambriolages de logement,R76,Occitanie,2024,352521.0,,,LightGBM
+Cambriolages de logement,R76,Occitanie,2025,352521.0,,,LightGBM
+Cambriolages de logement,R76,Occitanie,2026,352521.0,,,LightGBM
+Cambriolages de logement,R76,Occitanie,2027,352521.0,,,LightGBM
+Cambriolages de logement,R76,Occitanie,2028,352521.0,,,LightGBM
+Cambriolages de logement,R76,Occitanie,2029,352521.0,,,LightGBM
+Cambriolages de logement,R76,Occitanie,2030,352521.0,,,LightGBM
+Cambriolages de logement,R84,Auvergne-RA,2022,399347.1,,,XGBoost
+Cambriolages de logement,R84,Auvergne-RA,2023,432417.8,,,XGBoost
+Cambriolages de logement,R84,Auvergne-RA,2024,432417.8,,,XGBoost
+Cambriolages de logement,R84,Auvergne-RA,2025,432417.8,,,XGBoost
+Cambriolages de logement,R84,Auvergne-RA,2026,432417.8,,,XGBoost
+Cambriolages de logement,R84,Auvergne-RA,2027,443514.9,,,XGBoost
+Cambriolages de logement,R84,Auvergne-RA,2028,393710.8,,,XGBoost
+Cambriolages de logement,R84,Auvergne-RA,2029,399347.1,,,XGBoost
+Cambriolages de logement,R84,Auvergne-RA,2030,399347.1,,,XGBoost
+Cambriolages de logement,R84,Auvergne-RA,2022,417255.0,,,LightGBM
+Cambriolages de logement,R84,Auvergne-RA,2023,417255.0,,,LightGBM
+Cambriolages de logement,R84,Auvergne-RA,2024,417255.0,,,LightGBM
+Cambriolages de logement,R84,Auvergne-RA,2025,417255.0,,,LightGBM
+Cambriolages de logement,R84,Auvergne-RA,2026,417255.0,,,LightGBM
+Cambriolages de logement,R84,Auvergne-RA,2027,417255.0,,,LightGBM
+Cambriolages de logement,R84,Auvergne-RA,2028,417255.0,,,LightGBM
+Cambriolages de logement,R84,Auvergne-RA,2029,417255.0,,,LightGBM
+Cambriolages de logement,R84,Auvergne-RA,2030,417255.0,,,LightGBM
+Cambriolages de logement,R93,PACA,2022,156071.5,,,XGBoost
+Cambriolages de logement,R93,PACA,2023,156071.5,,,XGBoost
+Cambriolages de logement,R93,PACA,2024,155889.2,,,XGBoost
+Cambriolages de logement,R93,PACA,2025,155889.2,,,XGBoost
+Cambriolages de logement,R93,PACA,2026,155889.2,,,XGBoost
+Cambriolages de logement,R93,PACA,2027,160549.3,,,XGBoost
+Cambriolages de logement,R93,PACA,2028,160549.3,,,XGBoost
+Cambriolages de logement,R93,PACA,2029,156071.5,,,XGBoost
+Cambriolages de logement,R93,PACA,2030,156071.5,,,XGBoost
+Cambriolages de logement,R93,PACA,2022,161493.0,,,LightGBM
+Cambriolages de logement,R93,PACA,2023,161493.0,,,LightGBM
+Cambriolages de logement,R93,PACA,2024,161493.0,,,LightGBM
+Cambriolages de logement,R93,PACA,2025,161493.0,,,LightGBM
+Cambriolages de logement,R93,PACA,2026,161493.0,,,LightGBM
+Cambriolages de logement,R93,PACA,2027,161493.0,,,LightGBM
+Cambriolages de logement,R93,PACA,2028,161493.0,,,LightGBM
+Cambriolages de logement,R93,PACA,2029,161493.0,,,LightGBM
+Cambriolages de logement,R93,PACA,2030,161493.0,,,LightGBM
+Cambriolages de logement,R94,Corse,2022,829.8,,,XGBoost
+Cambriolages de logement,R94,Corse,2023,1313.6,,,XGBoost
+Cambriolages de logement,R94,Corse,2024,1313.6,,,XGBoost
+Cambriolages de logement,R94,Corse,2025,1313.6,,,XGBoost
+Cambriolages de logement,R94,Corse,2026,1313.6,,,XGBoost
+Cambriolages de logement,R94,Corse,2027,1384.5,,,XGBoost
+Cambriolages de logement,R94,Corse,2028,982.5,,,XGBoost
+Cambriolages de logement,R94,Corse,2029,829.8,,,XGBoost
+Cambriolages de logement,R94,Corse,2030,829.8,,,XGBoost
+Cambriolages de logement,R94,Corse,2022,1127.5,,,LightGBM
+Cambriolages de logement,R94,Corse,2023,1127.5,,,LightGBM
+Cambriolages de logement,R94,Corse,2024,1127.5,,,LightGBM
+Cambriolages de logement,R94,Corse,2025,1127.5,,,LightGBM
+Cambriolages de logement,R94,Corse,2026,1127.5,,,LightGBM
+Cambriolages de logement,R94,Corse,2027,1127.5,,,LightGBM
+Cambriolages de logement,R94,Corse,2028,1127.5,,,LightGBM
+Cambriolages de logement,R94,Corse,2029,1127.5,,,LightGBM
+Cambriolages de logement,R94,Corse,2030,1127.5,,,LightGBM
+Vols sans violence contre des personnes,R01,Guadeloupe,2022,937.2,,,XGBoost
+Vols sans violence contre des personnes,R01,Guadeloupe,2023,1139.8,,,XGBoost
+Vols sans violence contre des personnes,R01,Guadeloupe,2024,1599.3,,,XGBoost
+Vols sans violence contre des personnes,R01,Guadeloupe,2025,1599.3,,,XGBoost
+Vols sans violence contre des personnes,R01,Guadeloupe,2026,1599.3,,,XGBoost
+Vols sans violence contre des personnes,R01,Guadeloupe,2027,1143.0,,,XGBoost
+Vols sans violence contre des personnes,R01,Guadeloupe,2028,940.5,,,XGBoost
+Vols sans violence contre des personnes,R01,Guadeloupe,2029,937.2,,,XGBoost
+Vols sans violence contre des personnes,R01,Guadeloupe,2030,937.2,,,XGBoost
+Vols sans violence contre des personnes,R01,Guadeloupe,2022,1151.2,,,LightGBM
+Vols sans violence contre des personnes,R01,Guadeloupe,2023,1151.2,,,LightGBM
+Vols sans violence contre des personnes,R01,Guadeloupe,2024,1151.2,,,LightGBM
+Vols sans violence contre des personnes,R01,Guadeloupe,2025,1151.2,,,LightGBM
+Vols sans violence contre des personnes,R01,Guadeloupe,2026,1151.2,,,LightGBM
+Vols sans violence contre des personnes,R01,Guadeloupe,2027,1151.2,,,LightGBM
+Vols sans violence contre des personnes,R01,Guadeloupe,2028,1151.2,,,LightGBM
+Vols sans violence contre des personnes,R01,Guadeloupe,2029,1151.2,,,LightGBM
+Vols sans violence contre des personnes,R01,Guadeloupe,2030,1151.2,,,LightGBM
+Vols sans violence contre des personnes,R02,Martinique,2022,699.1,,,XGBoost
+Vols sans violence contre des personnes,R02,Martinique,2023,819.3,,,XGBoost
+Vols sans violence contre des personnes,R02,Martinique,2024,819.3,,,XGBoost
+Vols sans violence contre des personnes,R02,Martinique,2025,819.3,,,XGBoost
+Vols sans violence contre des personnes,R02,Martinique,2026,819.3,,,XGBoost
+Vols sans violence contre des personnes,R02,Martinique,2027,755.8,,,XGBoost
+Vols sans violence contre des personnes,R02,Martinique,2028,699.1,,,XGBoost
+Vols sans violence contre des personnes,R02,Martinique,2029,557.9,,,XGBoost
+Vols sans violence contre des personnes,R02,Martinique,2030,557.9,,,XGBoost
+Vols sans violence contre des personnes,R02,Martinique,2022,708.0,,,LightGBM
+Vols sans violence contre des personnes,R02,Martinique,2023,708.0,,,LightGBM
+Vols sans violence contre des personnes,R02,Martinique,2024,708.0,,,LightGBM
+Vols sans violence contre des personnes,R02,Martinique,2025,708.0,,,LightGBM
+Vols sans violence contre des personnes,R02,Martinique,2026,708.0,,,LightGBM
+Vols sans violence contre des personnes,R02,Martinique,2027,708.0,,,LightGBM
+Vols sans violence contre des personnes,R02,Martinique,2028,708.0,,,LightGBM
+Vols sans violence contre des personnes,R02,Martinique,2029,708.0,,,LightGBM
+Vols sans violence contre des personnes,R02,Martinique,2030,708.0,,,LightGBM
+Vols sans violence contre des personnes,R03,Guyane,2022,1496.7,,,XGBoost
+Vols sans violence contre des personnes,R03,Guyane,2023,2243.7,,,XGBoost
+Vols sans violence contre des personnes,R03,Guyane,2024,2243.7,,,XGBoost
+Vols sans violence contre des personnes,R03,Guyane,2025,2243.7,,,XGBoost
+Vols sans violence contre des personnes,R03,Guyane,2026,2243.7,,,XGBoost
+Vols sans violence contre des personnes,R03,Guyane,2027,1799.4,,,XGBoost
+Vols sans violence contre des personnes,R03,Guyane,2028,1240.8,,,XGBoost
+Vols sans violence contre des personnes,R03,Guyane,2029,1496.7,,,XGBoost
+Vols sans violence contre des personnes,R03,Guyane,2030,1496.7,,,XGBoost
+Vols sans violence contre des personnes,R03,Guyane,2022,1695.2,,,LightGBM
+Vols sans violence contre des personnes,R03,Guyane,2023,1695.2,,,LightGBM
+Vols sans violence contre des personnes,R03,Guyane,2024,1695.2,,,LightGBM
+Vols sans violence contre des personnes,R03,Guyane,2025,1695.2,,,LightGBM
+Vols sans violence contre des personnes,R03,Guyane,2026,1695.2,,,LightGBM
+Vols sans violence contre des personnes,R03,Guyane,2027,1695.2,,,LightGBM
+Vols sans violence contre des personnes,R03,Guyane,2028,1695.2,,,LightGBM
+Vols sans violence contre des personnes,R03,Guyane,2029,1695.2,,,LightGBM
+Vols sans violence contre des personnes,R03,Guyane,2030,1695.2,,,LightGBM
+Vols sans violence contre des personnes,R04,La Réunion,2022,719.1,,,XGBoost
+Vols sans violence contre des personnes,R04,La Réunion,2023,1433.8,,,XGBoost
+Vols sans violence contre des personnes,R04,La Réunion,2024,1433.8,,,XGBoost
+Vols sans violence contre des personnes,R04,La Réunion,2025,1433.8,,,XGBoost
+Vols sans violence contre des personnes,R04,La Réunion,2026,1433.8,,,XGBoost
+Vols sans violence contre des personnes,R04,La Réunion,2027,1120.7,,,XGBoost
+Vols sans violence contre des personnes,R04,La Réunion,2028,995.4,,,XGBoost
+Vols sans violence contre des personnes,R04,La Réunion,2029,719.1,,,XGBoost
+Vols sans violence contre des personnes,R04,La Réunion,2030,719.1,,,XGBoost
+Vols sans violence contre des personnes,R04,La Réunion,2022,1067.2,,,LightGBM
+Vols sans violence contre des personnes,R04,La Réunion,2023,1067.2,,,LightGBM
+Vols sans violence contre des personnes,R04,La Réunion,2024,1067.2,,,LightGBM
+Vols sans violence contre des personnes,R04,La Réunion,2025,1067.2,,,LightGBM
+Vols sans violence contre des personnes,R04,La Réunion,2026,1067.2,,,LightGBM
+Vols sans violence contre des personnes,R04,La Réunion,2027,1067.2,,,LightGBM
+Vols sans violence contre des personnes,R04,La Réunion,2028,1067.2,,,LightGBM
+Vols sans violence contre des personnes,R04,La Réunion,2029,1067.2,,,LightGBM
+Vols sans violence contre des personnes,R04,La Réunion,2030,1067.2,,,LightGBM
+Vols sans violence contre des personnes,R06,Mayotte,2022,319.3,,,XGBoost
+Vols sans violence contre des personnes,R06,Mayotte,2023,756.3,,,XGBoost
+Vols sans violence contre des personnes,R06,Mayotte,2024,756.3,,,XGBoost
+Vols sans violence contre des personnes,R06,Mayotte,2025,756.3,,,XGBoost
+Vols sans violence contre des personnes,R06,Mayotte,2026,756.3,,,XGBoost
+Vols sans violence contre des personnes,R06,Mayotte,2027,514.7,,,XGBoost
+Vols sans violence contre des personnes,R06,Mayotte,2028,285.0,,,XGBoost
+Vols sans violence contre des personnes,R06,Mayotte,2029,319.3,,,XGBoost
+Vols sans violence contre des personnes,R06,Mayotte,2030,319.3,,,XGBoost
+Vols sans violence contre des personnes,R06,Mayotte,2022,469.0,,,LightGBM
+Vols sans violence contre des personnes,R06,Mayotte,2023,469.0,,,LightGBM
+Vols sans violence contre des personnes,R06,Mayotte,2024,469.0,,,LightGBM
+Vols sans violence contre des personnes,R06,Mayotte,2025,469.0,,,LightGBM
+Vols sans violence contre des personnes,R06,Mayotte,2026,469.0,,,LightGBM
+Vols sans violence contre des personnes,R06,Mayotte,2027,469.0,,,LightGBM
+Vols sans violence contre des personnes,R06,Mayotte,2028,469.0,,,LightGBM
+Vols sans violence contre des personnes,R06,Mayotte,2029,469.0,,,LightGBM
+Vols sans violence contre des personnes,R06,Mayotte,2030,469.0,,,LightGBM
+Vols sans violence contre des personnes,R11,Île-de-France,2022,323344.8,,,XGBoost
+Vols sans violence contre des personnes,R11,Île-de-France,2023,368617.1,,,XGBoost
+Vols sans violence contre des personnes,R11,Île-de-France,2024,368617.1,,,XGBoost
+Vols sans violence contre des personnes,R11,Île-de-France,2025,368617.1,,,XGBoost
+Vols sans violence contre des personnes,R11,Île-de-France,2026,368617.1,,,XGBoost
+Vols sans violence contre des personnes,R11,Île-de-France,2027,356872.5,,,XGBoost
+Vols sans violence contre des personnes,R11,Île-de-France,2028,327020.2,,,XGBoost
+Vols sans violence contre des personnes,R11,Île-de-France,2029,323344.8,,,XGBoost
+Vols sans violence contre des personnes,R11,Île-de-France,2030,323344.8,,,XGBoost
+Vols sans violence contre des personnes,R11,Île-de-France,2022,343976.0,,,LightGBM
+Vols sans violence contre des personnes,R11,Île-de-France,2023,343976.0,,,LightGBM
+Vols sans violence contre des personnes,R11,Île-de-France,2024,343976.0,,,LightGBM
+Vols sans violence contre des personnes,R11,Île-de-France,2025,343976.0,,,LightGBM
+Vols sans violence contre des personnes,R11,Île-de-France,2026,343976.0,,,LightGBM
+Vols sans violence contre des personnes,R11,Île-de-France,2027,343976.0,,,LightGBM
+Vols sans violence contre des personnes,R11,Île-de-France,2028,343976.0,,,LightGBM
+Vols sans violence contre des personnes,R11,Île-de-France,2029,343976.0,,,LightGBM
+Vols sans violence contre des personnes,R11,Île-de-France,2030,343976.0,,,LightGBM
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2022,9580.3,,,XGBoost
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2023,10289.9,,,XGBoost
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2024,11256.2,,,XGBoost
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2025,11256.2,,,XGBoost
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2026,11256.2,,,XGBoost
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2027,10289.9,,,XGBoost
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2028,9985.1,,,XGBoost
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2029,9580.3,,,XGBoost
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2030,9580.3,,,XGBoost
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2022,10278.0,,,LightGBM
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2023,10278.0,,,LightGBM
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2024,10278.0,,,LightGBM
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2025,10278.0,,,LightGBM
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2026,10278.0,,,LightGBM
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2027,10278.0,,,LightGBM
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2028,10278.0,,,LightGBM
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2029,10278.0,,,LightGBM
+Vols sans violence contre des personnes,R24,Centre-Val de Loire,2030,10278.0,,,LightGBM
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2022,8565.3,,,XGBoost
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2023,9535.5,,,XGBoost
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2024,9535.5,,,XGBoost
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2025,9535.5,,,XGBoost
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2026,9535.5,,,XGBoost
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2027,10418.2,,,XGBoost
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2028,9273.0,,,XGBoost
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2029,8565.3,,,XGBoost
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2030,8565.3,,,XGBoost
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2022,9448.0,,,LightGBM
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2023,9448.0,,,LightGBM
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2024,9448.0,,,LightGBM
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2025,9448.0,,,LightGBM
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2026,9448.0,,,LightGBM
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2027,9448.0,,,LightGBM
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2028,9448.0,,,LightGBM
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2029,9448.0,,,LightGBM
+Vols sans violence contre des personnes,R27,Bourgogne-FC,2030,9448.0,,,LightGBM
+Vols sans violence contre des personnes,R28,Normandie,2022,12184.7,,,XGBoost
+Vols sans violence contre des personnes,R28,Normandie,2023,12184.7,,,XGBoost
+Vols sans violence contre des personnes,R28,Normandie,2024,12269.0,,,XGBoost
+Vols sans violence contre des personnes,R28,Normandie,2025,12269.0,,,XGBoost
+Vols sans violence contre des personnes,R28,Normandie,2026,12269.0,,,XGBoost
+Vols sans violence contre des personnes,R28,Normandie,2027,11941.0,,,XGBoost
+Vols sans violence contre des personnes,R28,Normandie,2028,12020.2,,,XGBoost
+Vols sans violence contre des personnes,R28,Normandie,2029,12184.7,,,XGBoost
+Vols sans violence contre des personnes,R28,Normandie,2030,12184.7,,,XGBoost
+Vols sans violence contre des personnes,R28,Normandie,2022,12103.8,,,LightGBM
+Vols sans violence contre des personnes,R28,Normandie,2023,12103.8,,,LightGBM
+Vols sans violence contre des personnes,R28,Normandie,2024,12103.8,,,LightGBM
+Vols sans violence contre des personnes,R28,Normandie,2025,12103.8,,,LightGBM
+Vols sans violence contre des personnes,R28,Normandie,2026,12103.8,,,LightGBM
+Vols sans violence contre des personnes,R28,Normandie,2027,12103.8,,,LightGBM
+Vols sans violence contre des personnes,R28,Normandie,2028,12103.8,,,LightGBM
+Vols sans violence contre des personnes,R28,Normandie,2029,12103.8,,,LightGBM
+Vols sans violence contre des personnes,R28,Normandie,2030,12103.8,,,LightGBM
+Vols sans violence contre des personnes,R32,Hauts-de-France,2022,31659.3,,,XGBoost
+Vols sans violence contre des personnes,R32,Hauts-de-France,2023,40545.8,,,XGBoost
+Vols sans violence contre des personnes,R32,Hauts-de-France,2024,40545.8,,,XGBoost
+Vols sans violence contre des personnes,R32,Hauts-de-France,2025,40545.8,,,XGBoost
+Vols sans violence contre des personnes,R32,Hauts-de-France,2026,40545.8,,,XGBoost
+Vols sans violence contre des personnes,R32,Hauts-de-France,2027,36286.2,,,XGBoost
+Vols sans violence contre des personnes,R32,Hauts-de-France,2028,34101.4,,,XGBoost
+Vols sans violence contre des personnes,R32,Hauts-de-France,2029,31659.3,,,XGBoost
+Vols sans violence contre des personnes,R32,Hauts-de-France,2030,31659.3,,,XGBoost
+Vols sans violence contre des personnes,R32,Hauts-de-France,2022,35648.8,,,LightGBM
+Vols sans violence contre des personnes,R32,Hauts-de-France,2023,35648.8,,,LightGBM
+Vols sans violence contre des personnes,R32,Hauts-de-France,2024,35648.8,,,LightGBM
+Vols sans violence contre des personnes,R32,Hauts-de-France,2025,35648.8,,,LightGBM
+Vols sans violence contre des personnes,R32,Hauts-de-France,2026,35648.8,,,LightGBM
+Vols sans violence contre des personnes,R32,Hauts-de-France,2027,35648.8,,,LightGBM
+Vols sans violence contre des personnes,R32,Hauts-de-France,2028,35648.8,,,LightGBM
+Vols sans violence contre des personnes,R32,Hauts-de-France,2029,35648.8,,,LightGBM
+Vols sans violence contre des personnes,R32,Hauts-de-France,2030,35648.8,,,LightGBM
+Vols sans violence contre des personnes,R44,Grand Est,2022,29105.1,,,XGBoost
+Vols sans violence contre des personnes,R44,Grand Est,2023,32806.7,,,XGBoost
+Vols sans violence contre des personnes,R44,Grand Est,2024,32806.7,,,XGBoost
+Vols sans violence contre des personnes,R44,Grand Est,2025,32806.7,,,XGBoost
+Vols sans violence contre des personnes,R44,Grand Est,2026,32806.7,,,XGBoost
+Vols sans violence contre des personnes,R44,Grand Est,2027,33736.9,,,XGBoost
+Vols sans violence contre des personnes,R44,Grand Est,2028,30733.8,,,XGBoost
+Vols sans violence contre des personnes,R44,Grand Est,2029,29105.1,,,XGBoost
+Vols sans violence contre des personnes,R44,Grand Est,2030,29105.1,,,XGBoost
+Vols sans violence contre des personnes,R44,Grand Est,2022,31595.0,,,LightGBM
+Vols sans violence contre des personnes,R44,Grand Est,2023,31595.0,,,LightGBM
+Vols sans violence contre des personnes,R44,Grand Est,2024,31595.0,,,LightGBM
+Vols sans violence contre des personnes,R44,Grand Est,2025,31595.0,,,LightGBM
+Vols sans violence contre des personnes,R44,Grand Est,2026,31595.0,,,LightGBM
+Vols sans violence contre des personnes,R44,Grand Est,2027,31595.0,,,LightGBM
+Vols sans violence contre des personnes,R44,Grand Est,2028,31595.0,,,LightGBM
+Vols sans violence contre des personnes,R44,Grand Est,2029,31595.0,,,LightGBM
+Vols sans violence contre des personnes,R44,Grand Est,2030,31595.0,,,LightGBM
+Vols sans violence contre des personnes,R52,Pays de la Loire,2022,11861.7,,,XGBoost
+Vols sans violence contre des personnes,R52,Pays de la Loire,2023,11861.7,,,XGBoost
+Vols sans violence contre des personnes,R52,Pays de la Loire,2024,11861.7,,,XGBoost
+Vols sans violence contre des personnes,R52,Pays de la Loire,2025,11861.7,,,XGBoost
+Vols sans violence contre des personnes,R52,Pays de la Loire,2026,11861.7,,,XGBoost
+Vols sans violence contre des personnes,R52,Pays de la Loire,2027,13328.1,,,XGBoost
+Vols sans violence contre des personnes,R52,Pays de la Loire,2028,13625.8,,,XGBoost
+Vols sans violence contre des personnes,R52,Pays de la Loire,2029,16494.1,,,XGBoost
+Vols sans violence contre des personnes,R52,Pays de la Loire,2030,16494.1,,,XGBoost
+Vols sans violence contre des personnes,R52,Pays de la Loire,2022,13827.5,,,LightGBM
+Vols sans violence contre des personnes,R52,Pays de la Loire,2023,13827.5,,,LightGBM
+Vols sans violence contre des personnes,R52,Pays de la Loire,2024,13827.5,,,LightGBM
+Vols sans violence contre des personnes,R52,Pays de la Loire,2025,13827.5,,,LightGBM
+Vols sans violence contre des personnes,R52,Pays de la Loire,2026,13827.5,,,LightGBM
+Vols sans violence contre des personnes,R52,Pays de la Loire,2027,13827.5,,,LightGBM
+Vols sans violence contre des personnes,R52,Pays de la Loire,2028,13827.5,,,LightGBM
+Vols sans violence contre des personnes,R52,Pays de la Loire,2029,13827.5,,,LightGBM
+Vols sans violence contre des personnes,R52,Pays de la Loire,2030,13827.5,,,LightGBM
+Vols sans violence contre des personnes,R53,Bretagne,2022,6886.6,,,XGBoost
+Vols sans violence contre des personnes,R53,Bretagne,2023,7721.6,,,XGBoost
+Vols sans violence contre des personnes,R53,Bretagne,2024,7721.6,,,XGBoost
+Vols sans violence contre des personnes,R53,Bretagne,2025,7721.6,,,XGBoost
+Vols sans violence contre des personnes,R53,Bretagne,2026,7721.6,,,XGBoost
+Vols sans violence contre des personnes,R53,Bretagne,2027,7439.4,,,XGBoost
+Vols sans violence contre des personnes,R53,Bretagne,2028,7268.4,,,XGBoost
+Vols sans violence contre des personnes,R53,Bretagne,2029,6886.6,,,XGBoost
+Vols sans violence contre des personnes,R53,Bretagne,2030,6886.6,,,XGBoost
+Vols sans violence contre des personnes,R53,Bretagne,2022,7329.0,,,LightGBM
+Vols sans violence contre des personnes,R53,Bretagne,2023,7329.0,,,LightGBM
+Vols sans violence contre des personnes,R53,Bretagne,2024,7329.0,,,LightGBM
+Vols sans violence contre des personnes,R53,Bretagne,2025,7329.0,,,LightGBM
+Vols sans violence contre des personnes,R53,Bretagne,2026,7329.0,,,LightGBM
+Vols sans violence contre des personnes,R53,Bretagne,2027,7329.0,,,LightGBM
+Vols sans violence contre des personnes,R53,Bretagne,2028,7329.0,,,LightGBM
+Vols sans violence contre des personnes,R53,Bretagne,2029,7329.0,,,LightGBM
+Vols sans violence contre des personnes,R53,Bretagne,2030,7329.0,,,LightGBM
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2022,44368.5,,,XGBoost
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2023,44368.5,,,XGBoost
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2024,44368.5,,,XGBoost
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2025,44368.5,,,XGBoost
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2026,44368.5,,,XGBoost
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2027,44493.9,,,XGBoost
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2028,44485.1,,,XGBoost
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2029,47041.2,,,XGBoost
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2030,47041.2,,,XGBoost
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2022,45228.0,,,LightGBM
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2023,45228.0,,,LightGBM
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2024,45228.0,,,LightGBM
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2025,45228.0,,,LightGBM
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2026,45228.0,,,LightGBM
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2027,45228.0,,,LightGBM
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2028,45228.0,,,LightGBM
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2029,45228.0,,,LightGBM
+Vols sans violence contre des personnes,R75,Nouvelle-Aquitaine,2030,45228.0,,,LightGBM
+Vols sans violence contre des personnes,R76,Occitanie,2022,75975.3,,,XGBoost
+Vols sans violence contre des personnes,R76,Occitanie,2023,97075.7,,,XGBoost
+Vols sans violence contre des personnes,R76,Occitanie,2024,97075.7,,,XGBoost
+Vols sans violence contre des personnes,R76,Occitanie,2025,97075.7,,,XGBoost
+Vols sans violence contre des personnes,R76,Occitanie,2026,97075.7,,,XGBoost
+Vols sans violence contre des personnes,R76,Occitanie,2027,93259.3,,,XGBoost
+Vols sans violence contre des personnes,R76,Occitanie,2028,82203.7,,,XGBoost
+Vols sans violence contre des personnes,R76,Occitanie,2029,75975.3,,,XGBoost
+Vols sans violence contre des personnes,R76,Occitanie,2030,75975.3,,,XGBoost
+Vols sans violence contre des personnes,R76,Occitanie,2022,87126.0,,,LightGBM
+Vols sans violence contre des personnes,R76,Occitanie,2023,87126.0,,,LightGBM
+Vols sans violence contre des personnes,R76,Occitanie,2024,87126.0,,,LightGBM
+Vols sans violence contre des personnes,R76,Occitanie,2025,87126.0,,,LightGBM
+Vols sans violence contre des personnes,R76,Occitanie,2026,87126.0,,,LightGBM
+Vols sans violence contre des personnes,R76,Occitanie,2027,87126.0,,,LightGBM
+Vols sans violence contre des personnes,R76,Occitanie,2028,87126.0,,,LightGBM
+Vols sans violence contre des personnes,R76,Occitanie,2029,87126.0,,,LightGBM
+Vols sans violence contre des personnes,R76,Occitanie,2030,87126.0,,,LightGBM
+Vols sans violence contre des personnes,R84,Auvergne-RA,2022,85451.2,,,XGBoost
+Vols sans violence contre des personnes,R84,Auvergne-RA,2023,96245.1,,,XGBoost
+Vols sans violence contre des personnes,R84,Auvergne-RA,2024,96245.1,,,XGBoost
+Vols sans violence contre des personnes,R84,Auvergne-RA,2025,96245.1,,,XGBoost
+Vols sans violence contre des personnes,R84,Auvergne-RA,2026,96245.1,,,XGBoost
+Vols sans violence contre des personnes,R84,Auvergne-RA,2027,94036.4,,,XGBoost
+Vols sans violence contre des personnes,R84,Auvergne-RA,2028,89120.3,,,XGBoost
+Vols sans violence contre des personnes,R84,Auvergne-RA,2029,85451.2,,,XGBoost
+Vols sans violence contre des personnes,R84,Auvergne-RA,2030,85451.2,,,XGBoost
+Vols sans violence contre des personnes,R84,Auvergne-RA,2022,91212.0,,,LightGBM
+Vols sans violence contre des personnes,R84,Auvergne-RA,2023,91212.0,,,LightGBM
+Vols sans violence contre des personnes,R84,Auvergne-RA,2024,91212.0,,,LightGBM
+Vols sans violence contre des personnes,R84,Auvergne-RA,2025,91212.0,,,LightGBM
+Vols sans violence contre des personnes,R84,Auvergne-RA,2026,91212.0,,,LightGBM
+Vols sans violence contre des personnes,R84,Auvergne-RA,2027,91212.0,,,LightGBM
+Vols sans violence contre des personnes,R84,Auvergne-RA,2028,91212.0,,,LightGBM
+Vols sans violence contre des personnes,R84,Auvergne-RA,2029,91212.0,,,LightGBM
+Vols sans violence contre des personnes,R84,Auvergne-RA,2030,91212.0,,,LightGBM
+Vols sans violence contre des personnes,R93,PACA,2022,47835.9,,,XGBoost
+Vols sans violence contre des personnes,R93,PACA,2023,49940.6,,,XGBoost
+Vols sans violence contre des personnes,R93,PACA,2024,59484.0,,,XGBoost
+Vols sans violence contre des personnes,R93,PACA,2025,59484.0,,,XGBoost
+Vols sans violence contre des personnes,R93,PACA,2026,59484.0,,,XGBoost
+Vols sans violence contre des personnes,R93,PACA,2027,51607.8,,,XGBoost
+Vols sans violence contre des personnes,R93,PACA,2028,50785.4,,,XGBoost
+Vols sans violence contre des personnes,R93,PACA,2029,47835.9,,,XGBoost
+Vols sans violence contre des personnes,R93,PACA,2030,47835.9,,,XGBoost
+Vols sans violence contre des personnes,R93,PACA,2022,52429.5,,,LightGBM
+Vols sans violence contre des personnes,R93,PACA,2023,52429.5,,,LightGBM
+Vols sans violence contre des personnes,R93,PACA,2024,52429.5,,,LightGBM
+Vols sans violence contre des personnes,R93,PACA,2025,52429.5,,,LightGBM
+Vols sans violence contre des personnes,R93,PACA,2026,52429.5,,,LightGBM
+Vols sans violence contre des personnes,R93,PACA,2027,52429.5,,,LightGBM
+Vols sans violence contre des personnes,R93,PACA,2028,52429.5,,,LightGBM
+Vols sans violence contre des personnes,R93,PACA,2029,52429.5,,,LightGBM
+Vols sans violence contre des personnes,R93,PACA,2030,52429.5,,,LightGBM
+Vols sans violence contre des personnes,R94,Corse,2022,228.0,,,XGBoost
+Vols sans violence contre des personnes,R94,Corse,2023,248.0,,,XGBoost
+Vols sans violence contre des personnes,R94,Corse,2024,248.0,,,XGBoost
+Vols sans violence contre des personnes,R94,Corse,2025,248.0,,,XGBoost
+Vols sans violence contre des personnes,R94,Corse,2026,248.0,,,XGBoost
+Vols sans violence contre des personnes,R94,Corse,2027,259.9,,,XGBoost
+Vols sans violence contre des personnes,R94,Corse,2028,222.1,,,XGBoost
+Vols sans violence contre des personnes,R94,Corse,2029,228.0,,,XGBoost
+Vols sans violence contre des personnes,R94,Corse,2030,228.0,,,XGBoost
+Vols sans violence contre des personnes,R94,Corse,2022,239.5,,,LightGBM
+Vols sans violence contre des personnes,R94,Corse,2023,239.5,,,LightGBM
+Vols sans violence contre des personnes,R94,Corse,2024,239.5,,,LightGBM
+Vols sans violence contre des personnes,R94,Corse,2025,239.5,,,LightGBM
+Vols sans violence contre des personnes,R94,Corse,2026,239.5,,,LightGBM
+Vols sans violence contre des personnes,R94,Corse,2027,239.5,,,LightGBM
+Vols sans violence contre des personnes,R94,Corse,2028,239.5,,,LightGBM
+Vols sans violence contre des personnes,R94,Corse,2029,239.5,,,LightGBM
+Vols sans violence contre des personnes,R94,Corse,2030,239.5,,,LightGBM
+Destructions et dégradations volontaires,R01,Guadeloupe,2022,99.9,,,XGBoost
+Destructions et dégradations volontaires,R01,Guadeloupe,2023,70.1,,,XGBoost
+Destructions et dégradations volontaires,R01,Guadeloupe,2024,70.1,,,XGBoost
+Destructions et dégradations volontaires,R01,Guadeloupe,2025,70.1,,,XGBoost
+Destructions et dégradations volontaires,R01,Guadeloupe,2026,70.1,,,XGBoost
+Destructions et dégradations volontaires,R01,Guadeloupe,2027,84.0,,,XGBoost
+Destructions et dégradations volontaires,R01,Guadeloupe,2028,86.0,,,XGBoost
+Destructions et dégradations volontaires,R01,Guadeloupe,2029,99.9,,,XGBoost
+Destructions et dégradations volontaires,R01,Guadeloupe,2030,99.9,,,XGBoost
+Destructions et dégradations volontaires,R01,Guadeloupe,2022,85.0,,,LightGBM
+Destructions et dégradations volontaires,R01,Guadeloupe,2023,85.0,,,LightGBM
+Destructions et dégradations volontaires,R01,Guadeloupe,2024,85.0,,,LightGBM
+Destructions et dégradations volontaires,R01,Guadeloupe,2025,85.0,,,LightGBM
+Destructions et dégradations volontaires,R01,Guadeloupe,2026,85.0,,,LightGBM
+Destructions et dégradations volontaires,R01,Guadeloupe,2027,85.0,,,LightGBM
+Destructions et dégradations volontaires,R01,Guadeloupe,2028,85.0,,,LightGBM
+Destructions et dégradations volontaires,R01,Guadeloupe,2029,85.0,,,LightGBM
+Destructions et dégradations volontaires,R01,Guadeloupe,2030,85.0,,,LightGBM
+Destructions et dégradations volontaires,R02,Martinique,2022,42.0,,,XGBoost
+Destructions et dégradations volontaires,R02,Martinique,2023,42.0,,,XGBoost
+Destructions et dégradations volontaires,R02,Martinique,2024,42.0,,,XGBoost
+Destructions et dégradations volontaires,R02,Martinique,2025,42.0,,,XGBoost
+Destructions et dégradations volontaires,R02,Martinique,2026,42.0,,,XGBoost
+Destructions et dégradations volontaires,R02,Martinique,2027,31.1,,,XGBoost
+Destructions et dégradations volontaires,R02,Martinique,2028,31.1,,,XGBoost
+Destructions et dégradations volontaires,R02,Martinique,2029,42.0,,,XGBoost
+Destructions et dégradations volontaires,R02,Martinique,2030,42.0,,,XGBoost
+Destructions et dégradations volontaires,R02,Martinique,2022,44.0,,,LightGBM
+Destructions et dégradations volontaires,R02,Martinique,2023,44.0,,,LightGBM
+Destructions et dégradations volontaires,R02,Martinique,2024,44.0,,,LightGBM
+Destructions et dégradations volontaires,R02,Martinique,2025,44.0,,,LightGBM
+Destructions et dégradations volontaires,R02,Martinique,2026,44.0,,,LightGBM
+Destructions et dégradations volontaires,R02,Martinique,2027,44.0,,,LightGBM
+Destructions et dégradations volontaires,R02,Martinique,2028,44.0,,,LightGBM
+Destructions et dégradations volontaires,R02,Martinique,2029,44.0,,,LightGBM
+Destructions et dégradations volontaires,R02,Martinique,2030,44.0,,,LightGBM
+Destructions et dégradations volontaires,R03,Guyane,2022,52.0,,,XGBoost
+Destructions et dégradations volontaires,R03,Guyane,2023,51.1,,,XGBoost
+Destructions et dégradations volontaires,R03,Guyane,2024,46.0,,,XGBoost
+Destructions et dégradations volontaires,R03,Guyane,2025,46.0,,,XGBoost
+Destructions et dégradations volontaires,R03,Guyane,2026,46.0,,,XGBoost
+Destructions et dégradations volontaires,R03,Guyane,2027,47.2,,,XGBoost
+Destructions et dégradations volontaires,R03,Guyane,2028,49.0,,,XGBoost
+Destructions et dégradations volontaires,R03,Guyane,2029,52.0,,,XGBoost
+Destructions et dégradations volontaires,R03,Guyane,2030,52.0,,,XGBoost
+Destructions et dégradations volontaires,R03,Guyane,2022,46.5,,,LightGBM
+Destructions et dégradations volontaires,R03,Guyane,2023,46.5,,,LightGBM
+Destructions et dégradations volontaires,R03,Guyane,2024,46.5,,,LightGBM
+Destructions et dégradations volontaires,R03,Guyane,2025,46.5,,,LightGBM
+Destructions et dégradations volontaires,R03,Guyane,2026,46.5,,,LightGBM
+Destructions et dégradations volontaires,R03,Guyane,2027,46.5,,,LightGBM
+Destructions et dégradations volontaires,R03,Guyane,2028,46.5,,,LightGBM
+Destructions et dégradations volontaires,R03,Guyane,2029,46.5,,,LightGBM
+Destructions et dégradations volontaires,R03,Guyane,2030,46.5,,,LightGBM
+Destructions et dégradations volontaires,R04,La Réunion,2022,340.0,,,XGBoost
+Destructions et dégradations volontaires,R04,La Réunion,2023,340.0,,,XGBoost
+Destructions et dégradations volontaires,R04,La Réunion,2024,340.0,,,XGBoost
+Destructions et dégradations volontaires,R04,La Réunion,2025,340.0,,,XGBoost
+Destructions et dégradations volontaires,R04,La Réunion,2026,340.0,,,XGBoost
+Destructions et dégradations volontaires,R04,La Réunion,2027,343.9,,,XGBoost
+Destructions et dégradations volontaires,R04,La Réunion,2028,343.9,,,XGBoost
+Destructions et dégradations volontaires,R04,La Réunion,2029,317.7,,,XGBoost
+Destructions et dégradations volontaires,R04,La Réunion,2030,317.7,,,XGBoost
+Destructions et dégradations volontaires,R04,La Réunion,2022,318.8,,,LightGBM
+Destructions et dégradations volontaires,R04,La Réunion,2023,318.8,,,LightGBM
+Destructions et dégradations volontaires,R04,La Réunion,2024,318.8,,,LightGBM
+Destructions et dégradations volontaires,R04,La Réunion,2025,318.8,,,LightGBM
+Destructions et dégradations volontaires,R04,La Réunion,2026,318.8,,,LightGBM
+Destructions et dégradations volontaires,R04,La Réunion,2027,318.8,,,LightGBM
+Destructions et dégradations volontaires,R04,La Réunion,2028,318.8,,,LightGBM
+Destructions et dégradations volontaires,R04,La Réunion,2029,318.8,,,LightGBM
+Destructions et dégradations volontaires,R04,La Réunion,2030,318.8,,,LightGBM
+Destructions et dégradations volontaires,R06,Mayotte,2022,17.0,,,XGBoost
+Destructions et dégradations volontaires,R06,Mayotte,2023,16.3,,,XGBoost
+Destructions et dégradations volontaires,R06,Mayotte,2024,22.0,,,XGBoost
+Destructions et dégradations volontaires,R06,Mayotte,2025,22.0,,,XGBoost
+Destructions et dégradations volontaires,R06,Mayotte,2026,22.0,,,XGBoost
+Destructions et dégradations volontaires,R06,Mayotte,2027,16.3,,,XGBoost
+Destructions et dégradations volontaires,R06,Mayotte,2028,17.0,,,XGBoost
+Destructions et dégradations volontaires,R06,Mayotte,2029,17.0,,,XGBoost
+Destructions et dégradations volontaires,R06,Mayotte,2030,17.0,,,XGBoost
+Destructions et dégradations volontaires,R06,Mayotte,2022,17.5,,,LightGBM
+Destructions et dégradations volontaires,R06,Mayotte,2023,17.5,,,LightGBM
+Destructions et dégradations volontaires,R06,Mayotte,2024,17.5,,,LightGBM
+Destructions et dégradations volontaires,R06,Mayotte,2025,17.5,,,LightGBM
+Destructions et dégradations volontaires,R06,Mayotte,2026,17.5,,,LightGBM
+Destructions et dégradations volontaires,R06,Mayotte,2027,17.5,,,LightGBM
+Destructions et dégradations volontaires,R06,Mayotte,2028,17.5,,,LightGBM
+Destructions et dégradations volontaires,R06,Mayotte,2029,17.5,,,LightGBM
+Destructions et dégradations volontaires,R06,Mayotte,2030,17.5,,,LightGBM
+Destructions et dégradations volontaires,R11,Île-de-France,2022,43147.8,,,XGBoost
+Destructions et dégradations volontaires,R11,Île-de-France,2023,43147.8,,,XGBoost
+Destructions et dégradations volontaires,R11,Île-de-France,2024,41663.2,,,XGBoost
+Destructions et dégradations volontaires,R11,Île-de-France,2025,41663.2,,,XGBoost
+Destructions et dégradations volontaires,R11,Île-de-France,2026,41663.2,,,XGBoost
+Destructions et dégradations volontaires,R11,Île-de-France,2027,43714.6,,,XGBoost
+Destructions et dégradations volontaires,R11,Île-de-France,2028,48056.7,,,XGBoost
+Destructions et dégradations volontaires,R11,Île-de-France,2029,43147.8,,,XGBoost
+Destructions et dégradations volontaires,R11,Île-de-France,2030,43147.8,,,XGBoost
+Destructions et dégradations volontaires,R11,Île-de-France,2022,44146.0,,,LightGBM
+Destructions et dégradations volontaires,R11,Île-de-France,2023,44146.0,,,LightGBM
+Destructions et dégradations volontaires,R11,Île-de-France,2024,44146.0,,,LightGBM
+Destructions et dégradations volontaires,R11,Île-de-France,2025,44146.0,,,LightGBM
+Destructions et dégradations volontaires,R11,Île-de-France,2026,44146.0,,,LightGBM
+Destructions et dégradations volontaires,R11,Île-de-France,2027,44146.0,,,LightGBM
+Destructions et dégradations volontaires,R11,Île-de-France,2028,44146.0,,,LightGBM
+Destructions et dégradations volontaires,R11,Île-de-France,2029,44146.0,,,LightGBM
+Destructions et dégradations volontaires,R11,Île-de-France,2030,44146.0,,,LightGBM
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2022,6442.7,,,XGBoost
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2023,6442.7,,,XGBoost
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2024,6442.7,,,XGBoost
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2025,6442.7,,,XGBoost
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2026,6442.7,,,XGBoost
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2027,6341.7,,,XGBoost
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2028,6341.7,,,XGBoost
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2029,6442.7,,,XGBoost
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2030,6442.7,,,XGBoost
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2022,6229.5,,,LightGBM
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2023,6229.5,,,LightGBM
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2024,6229.5,,,LightGBM
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2025,6229.5,,,LightGBM
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2026,6229.5,,,LightGBM
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2027,6229.5,,,LightGBM
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2028,6229.5,,,LightGBM
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2029,6229.5,,,LightGBM
+Destructions et dégradations volontaires,R24,Centre-Val de Loire,2030,6229.5,,,LightGBM
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2022,11393.8,,,XGBoost
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2023,11370.7,,,XGBoost
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2024,8841.0,,,XGBoost
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2025,8841.0,,,XGBoost
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2026,8841.0,,,XGBoost
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2027,10551.6,,,XGBoost
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2028,10654.4,,,XGBoost
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2029,11393.8,,,XGBoost
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2030,11393.8,,,XGBoost
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2022,10360.0,,,LightGBM
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2023,10360.0,,,LightGBM
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2024,10360.0,,,LightGBM
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2025,10360.0,,,LightGBM
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2026,10360.0,,,LightGBM
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2027,10360.0,,,LightGBM
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2028,10360.0,,,LightGBM
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2029,10360.0,,,LightGBM
+Destructions et dégradations volontaires,R27,Bourgogne-FC,2030,10360.0,,,LightGBM
+Destructions et dégradations volontaires,R28,Normandie,2022,7209.9,,,XGBoost
+Destructions et dégradations volontaires,R28,Normandie,2023,7321.3,,,XGBoost
+Destructions et dégradations volontaires,R28,Normandie,2024,6583.0,,,XGBoost
+Destructions et dégradations volontaires,R28,Normandie,2025,6583.0,,,XGBoost
+Destructions et dégradations volontaires,R28,Normandie,2026,6583.0,,,XGBoost
+Destructions et dégradations volontaires,R28,Normandie,2027,7323.5,,,XGBoost
+Destructions et dégradations volontaires,R28,Normandie,2028,7219.6,,,XGBoost
+Destructions et dégradations volontaires,R28,Normandie,2029,7209.9,,,XGBoost
+Destructions et dégradations volontaires,R28,Normandie,2030,7209.9,,,XGBoost
+Destructions et dégradations volontaires,R28,Normandie,2022,7083.8,,,LightGBM
+Destructions et dégradations volontaires,R28,Normandie,2023,7083.8,,,LightGBM
+Destructions et dégradations volontaires,R28,Normandie,2024,7083.8,,,LightGBM
+Destructions et dégradations volontaires,R28,Normandie,2025,7083.8,,,LightGBM
+Destructions et dégradations volontaires,R28,Normandie,2026,7083.8,,,LightGBM
+Destructions et dégradations volontaires,R28,Normandie,2027,7083.8,,,LightGBM
+Destructions et dégradations volontaires,R28,Normandie,2028,7083.8,,,LightGBM
+Destructions et dégradations volontaires,R28,Normandie,2029,7083.8,,,LightGBM
+Destructions et dégradations volontaires,R28,Normandie,2030,7083.8,,,LightGBM
+Destructions et dégradations volontaires,R32,Hauts-de-France,2022,21940.8,,,XGBoost
+Destructions et dégradations volontaires,R32,Hauts-de-France,2023,23739.8,,,XGBoost
+Destructions et dégradations volontaires,R32,Hauts-de-France,2024,23739.8,,,XGBoost
+Destructions et dégradations volontaires,R32,Hauts-de-France,2025,23739.8,,,XGBoost
+Destructions et dégradations volontaires,R32,Hauts-de-France,2026,23739.8,,,XGBoost
+Destructions et dégradations volontaires,R32,Hauts-de-France,2027,23343.7,,,XGBoost
+Destructions et dégradations volontaires,R32,Hauts-de-France,2028,22551.5,,,XGBoost
+Destructions et dégradations volontaires,R32,Hauts-de-France,2029,21940.8,,,XGBoost
+Destructions et dégradations volontaires,R32,Hauts-de-France,2030,21940.8,,,XGBoost
+Destructions et dégradations volontaires,R32,Hauts-de-France,2022,22893.8,,,LightGBM
+Destructions et dégradations volontaires,R32,Hauts-de-France,2023,22893.8,,,LightGBM
+Destructions et dégradations volontaires,R32,Hauts-de-France,2024,22893.8,,,LightGBM
+Destructions et dégradations volontaires,R32,Hauts-de-France,2025,22893.8,,,LightGBM
+Destructions et dégradations volontaires,R32,Hauts-de-France,2026,22893.8,,,LightGBM
+Destructions et dégradations volontaires,R32,Hauts-de-France,2027,22893.8,,,LightGBM
+Destructions et dégradations volontaires,R32,Hauts-de-France,2028,22893.8,,,LightGBM
+Destructions et dégradations volontaires,R32,Hauts-de-France,2029,22893.8,,,LightGBM
+Destructions et dégradations volontaires,R32,Hauts-de-France,2030,22893.8,,,LightGBM
+Destructions et dégradations volontaires,R44,Grand Est,2022,36960.0,,,XGBoost
+Destructions et dégradations volontaires,R44,Grand Est,2023,30190.3,,,XGBoost
+Destructions et dégradations volontaires,R44,Grand Est,2024,30190.3,,,XGBoost
+Destructions et dégradations volontaires,R44,Grand Est,2025,30190.3,,,XGBoost
+Destructions et dégradations volontaires,R44,Grand Est,2026,30190.3,,,XGBoost
+Destructions et dégradations volontaires,R44,Grand Est,2027,33371.4,,,XGBoost
+Destructions et dégradations volontaires,R44,Grand Est,2028,33888.3,,,XGBoost
+Destructions et dégradations volontaires,R44,Grand Est,2029,36960.0,,,XGBoost
+Destructions et dégradations volontaires,R44,Grand Est,2030,36960.0,,,XGBoost
+Destructions et dégradations volontaires,R44,Grand Est,2022,33602.5,,,LightGBM
+Destructions et dégradations volontaires,R44,Grand Est,2023,33602.5,,,LightGBM
+Destructions et dégradations volontaires,R44,Grand Est,2024,33602.5,,,LightGBM
+Destructions et dégradations volontaires,R44,Grand Est,2025,33602.5,,,LightGBM
+Destructions et dégradations volontaires,R44,Grand Est,2026,33602.5,,,LightGBM
+Destructions et dégradations volontaires,R44,Grand Est,2027,33602.5,,,LightGBM
+Destructions et dégradations volontaires,R44,Grand Est,2028,33602.5,,,LightGBM
+Destructions et dégradations volontaires,R44,Grand Est,2029,33602.5,,,LightGBM
+Destructions et dégradations volontaires,R44,Grand Est,2030,33602.5,,,LightGBM
+Destructions et dégradations volontaires,R52,Pays de la Loire,2022,6655.6,,,XGBoost
+Destructions et dégradations volontaires,R52,Pays de la Loire,2023,6655.6,,,XGBoost
+Destructions et dégradations volontaires,R52,Pays de la Loire,2024,6865.2,,,XGBoost
+Destructions et dégradations volontaires,R52,Pays de la Loire,2025,6865.2,,,XGBoost
+Destructions et dégradations volontaires,R52,Pays de la Loire,2026,6865.2,,,XGBoost
+Destructions et dégradations volontaires,R52,Pays de la Loire,2027,6547.4,,,XGBoost
+Destructions et dégradations volontaires,R52,Pays de la Loire,2028,6547.4,,,XGBoost
+Destructions et dégradations volontaires,R52,Pays de la Loire,2029,6655.6,,,XGBoost
+Destructions et dégradations volontaires,R52,Pays de la Loire,2030,6655.6,,,XGBoost
+Destructions et dégradations volontaires,R52,Pays de la Loire,2022,6955.0,,,LightGBM
+Destructions et dégradations volontaires,R52,Pays de la Loire,2023,6955.0,,,LightGBM
+Destructions et dégradations volontaires,R52,Pays de la Loire,2024,6955.0,,,LightGBM
+Destructions et dégradations volontaires,R52,Pays de la Loire,2025,6955.0,,,LightGBM
+Destructions et dégradations volontaires,R52,Pays de la Loire,2026,6955.0,,,LightGBM
+Destructions et dégradations volontaires,R52,Pays de la Loire,2027,6955.0,,,LightGBM
+Destructions et dégradations volontaires,R52,Pays de la Loire,2028,6955.0,,,LightGBM
+Destructions et dégradations volontaires,R52,Pays de la Loire,2029,6955.0,,,LightGBM
+Destructions et dégradations volontaires,R52,Pays de la Loire,2030,6955.0,,,LightGBM
+Destructions et dégradations volontaires,R53,Bretagne,2022,3502.0,,,XGBoost
+Destructions et dégradations volontaires,R53,Bretagne,2023,3502.0,,,XGBoost
+Destructions et dégradations volontaires,R53,Bretagne,2024,2694.8,,,XGBoost
+Destructions et dégradations volontaires,R53,Bretagne,2025,2694.8,,,XGBoost
+Destructions et dégradations volontaires,R53,Bretagne,2026,2694.8,,,XGBoost
+Destructions et dégradations volontaires,R53,Bretagne,2027,3311.5,,,XGBoost
+Destructions et dégradations volontaires,R53,Bretagne,2028,3249.3,,,XGBoost
+Destructions et dégradations volontaires,R53,Bretagne,2029,3502.0,,,XGBoost
+Destructions et dégradations volontaires,R53,Bretagne,2030,3502.0,,,XGBoost
+Destructions et dégradations volontaires,R53,Bretagne,2022,3169.0,,,LightGBM
+Destructions et dégradations volontaires,R53,Bretagne,2023,3169.0,,,LightGBM
+Destructions et dégradations volontaires,R53,Bretagne,2024,3169.0,,,LightGBM
+Destructions et dégradations volontaires,R53,Bretagne,2025,3169.0,,,LightGBM
+Destructions et dégradations volontaires,R53,Bretagne,2026,3169.0,,,LightGBM
+Destructions et dégradations volontaires,R53,Bretagne,2027,3169.0,,,LightGBM
+Destructions et dégradations volontaires,R53,Bretagne,2028,3169.0,,,LightGBM
+Destructions et dégradations volontaires,R53,Bretagne,2029,3169.0,,,LightGBM
+Destructions et dégradations volontaires,R53,Bretagne,2030,3169.0,,,LightGBM
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2022,15775.8,,,XGBoost
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2023,15775.8,,,XGBoost
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2024,15775.8,,,XGBoost
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2025,15775.8,,,XGBoost
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2026,15775.8,,,XGBoost
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2027,16393.9,,,XGBoost
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2028,16393.9,,,XGBoost
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2029,15775.8,,,XGBoost
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2030,15775.8,,,XGBoost
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2022,17037.0,,,LightGBM
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2023,17037.0,,,LightGBM
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2024,17037.0,,,LightGBM
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2025,17037.0,,,LightGBM
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2026,17037.0,,,LightGBM
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2027,17037.0,,,LightGBM
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2028,17037.0,,,LightGBM
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2029,17037.0,,,LightGBM
+Destructions et dégradations volontaires,R75,Nouvelle-Aquitaine,2030,17037.0,,,LightGBM
+Destructions et dégradations volontaires,R76,Occitanie,2022,31201.5,,,XGBoost
+Destructions et dégradations volontaires,R76,Occitanie,2023,31201.5,,,XGBoost
+Destructions et dégradations volontaires,R76,Occitanie,2024,26768.9,,,XGBoost
+Destructions et dégradations volontaires,R76,Occitanie,2025,26768.9,,,XGBoost
+Destructions et dégradations volontaires,R76,Occitanie,2026,26768.9,,,XGBoost
+Destructions et dégradations volontaires,R76,Occitanie,2027,29689.4,,,XGBoost
+Destructions et dégradations volontaires,R76,Occitanie,2028,29392.4,,,XGBoost
+Destructions et dégradations volontaires,R76,Occitanie,2029,31201.5,,,XGBoost
+Destructions et dégradations volontaires,R76,Occitanie,2030,31201.5,,,XGBoost
+Destructions et dégradations volontaires,R76,Occitanie,2022,29263.0,,,LightGBM
+Destructions et dégradations volontaires,R76,Occitanie,2023,29263.0,,,LightGBM
+Destructions et dégradations volontaires,R76,Occitanie,2024,29263.0,,,LightGBM
+Destructions et dégradations volontaires,R76,Occitanie,2025,29263.0,,,LightGBM
+Destructions et dégradations volontaires,R76,Occitanie,2026,29263.0,,,LightGBM
+Destructions et dégradations volontaires,R76,Occitanie,2027,29263.0,,,LightGBM
+Destructions et dégradations volontaires,R76,Occitanie,2028,29263.0,,,LightGBM
+Destructions et dégradations volontaires,R76,Occitanie,2029,29263.0,,,LightGBM
+Destructions et dégradations volontaires,R76,Occitanie,2030,29263.0,,,LightGBM
+Destructions et dégradations volontaires,R84,Auvergne-RA,2022,64122.2,,,XGBoost
+Destructions et dégradations volontaires,R84,Auvergne-RA,2023,53833.4,,,XGBoost
+Destructions et dégradations volontaires,R84,Auvergne-RA,2024,53833.4,,,XGBoost
+Destructions et dégradations volontaires,R84,Auvergne-RA,2025,53833.4,,,XGBoost
+Destructions et dégradations volontaires,R84,Auvergne-RA,2026,53833.4,,,XGBoost
+Destructions et dégradations volontaires,R84,Auvergne-RA,2027,57117.3,,,XGBoost
+Destructions et dégradations volontaires,R84,Auvergne-RA,2028,64620.8,,,XGBoost
+Destructions et dégradations volontaires,R84,Auvergne-RA,2029,64122.2,,,XGBoost
+Destructions et dégradations volontaires,R84,Auvergne-RA,2030,64122.2,,,XGBoost
+Destructions et dégradations volontaires,R84,Auvergne-RA,2022,59919.0,,,LightGBM
+Destructions et dégradations volontaires,R84,Auvergne-RA,2023,59919.0,,,LightGBM
+Destructions et dégradations volontaires,R84,Auvergne-RA,2024,59919.0,,,LightGBM
+Destructions et dégradations volontaires,R84,Auvergne-RA,2025,59919.0,,,LightGBM
+Destructions et dégradations volontaires,R84,Auvergne-RA,2026,59919.0,,,LightGBM
+Destructions et dégradations volontaires,R84,Auvergne-RA,2027,59919.0,,,LightGBM
+Destructions et dégradations volontaires,R84,Auvergne-RA,2028,59919.0,,,LightGBM
+Destructions et dégradations volontaires,R84,Auvergne-RA,2029,59919.0,,,LightGBM
+Destructions et dégradations volontaires,R84,Auvergne-RA,2030,59919.0,,,LightGBM
+Destructions et dégradations volontaires,R93,PACA,2022,11436.4,,,XGBoost
+Destructions et dégradations volontaires,R93,PACA,2023,11897.1,,,XGBoost
+Destructions et dégradations volontaires,R93,PACA,2024,11897.1,,,XGBoost
+Destructions et dégradations volontaires,R93,PACA,2025,11897.1,,,XGBoost
+Destructions et dégradations volontaires,R93,PACA,2026,11897.1,,,XGBoost
+Destructions et dégradations volontaires,R93,PACA,2027,11891.8,,,XGBoost
+Destructions et dégradations volontaires,R93,PACA,2028,11359.7,,,XGBoost
+Destructions et dégradations volontaires,R93,PACA,2029,11436.4,,,XGBoost
+Destructions et dégradations volontaires,R93,PACA,2030,11436.4,,,XGBoost
+Destructions et dégradations volontaires,R93,PACA,2022,11646.0,,,LightGBM
+Destructions et dégradations volontaires,R93,PACA,2023,11646.0,,,LightGBM
+Destructions et dégradations volontaires,R93,PACA,2024,11646.0,,,LightGBM
+Destructions et dégradations volontaires,R93,PACA,2025,11646.0,,,LightGBM
+Destructions et dégradations volontaires,R93,PACA,2026,11646.0,,,LightGBM
+Destructions et dégradations volontaires,R93,PACA,2027,11646.0,,,LightGBM
+Destructions et dégradations volontaires,R93,PACA,2028,11646.0,,,LightGBM
+Destructions et dégradations volontaires,R93,PACA,2029,11646.0,,,LightGBM
+Destructions et dégradations volontaires,R93,PACA,2030,11646.0,,,LightGBM
+Destructions et dégradations volontaires,R94,Corse,2022,594.6,,,XGBoost
+Destructions et dégradations volontaires,R94,Corse,2023,672.0,,,XGBoost
+Destructions et dégradations volontaires,R94,Corse,2024,672.0,,,XGBoost
+Destructions et dégradations volontaires,R94,Corse,2025,672.0,,,XGBoost
+Destructions et dégradations volontaires,R94,Corse,2026,672.0,,,XGBoost
+Destructions et dégradations volontaires,R94,Corse,2027,628.2,,,XGBoost
+Destructions et dégradations volontaires,R94,Corse,2028,564.7,,,XGBoost
+Destructions et dégradations volontaires,R94,Corse,2029,860.9,,,XGBoost
+Destructions et dégradations volontaires,R94,Corse,2030,860.9,,,XGBoost
+Destructions et dégradations volontaires,R94,Corse,2022,681.5,,,LightGBM
+Destructions et dégradations volontaires,R94,Corse,2023,681.5,,,LightGBM
+Destructions et dégradations volontaires,R94,Corse,2024,681.5,,,LightGBM
+Destructions et dégradations volontaires,R94,Corse,2025,681.5,,,LightGBM
+Destructions et dégradations volontaires,R94,Corse,2026,681.5,,,LightGBM
+Destructions et dégradations volontaires,R94,Corse,2027,681.5,,,LightGBM
+Destructions et dégradations volontaires,R94,Corse,2028,681.5,,,LightGBM
+Destructions et dégradations volontaires,R94,Corse,2029,681.5,,,LightGBM
+Destructions et dégradations volontaires,R94,Corse,2030,681.5,,,LightGBM
+Violences sexuelles,R01,Guadeloupe,2022,138.8,,,XGBoost
+Violences sexuelles,R01,Guadeloupe,2023,137.0,,,XGBoost
+Violences sexuelles,R01,Guadeloupe,2024,137.0,,,XGBoost
+Violences sexuelles,R01,Guadeloupe,2025,137.0,,,XGBoost
+Violences sexuelles,R01,Guadeloupe,2026,137.0,,,XGBoost
+Violences sexuelles,R01,Guadeloupe,2027,137.2,,,XGBoost
+Violences sexuelles,R01,Guadeloupe,2028,139.0,,,XGBoost
+Violences sexuelles,R01,Guadeloupe,2029,160.9,,,XGBoost
+Violences sexuelles,R01,Guadeloupe,2030,160.9,,,XGBoost
+Violences sexuelles,R01,Guadeloupe,2022,142.8,,,LightGBM
+Violences sexuelles,R01,Guadeloupe,2023,142.8,,,LightGBM
+Violences sexuelles,R01,Guadeloupe,2024,142.8,,,LightGBM
+Violences sexuelles,R01,Guadeloupe,2025,142.8,,,LightGBM
+Violences sexuelles,R01,Guadeloupe,2026,142.8,,,LightGBM
+Violences sexuelles,R01,Guadeloupe,2027,142.8,,,LightGBM
+Violences sexuelles,R01,Guadeloupe,2028,142.8,,,LightGBM
+Violences sexuelles,R01,Guadeloupe,2029,142.8,,,LightGBM
+Violences sexuelles,R01,Guadeloupe,2030,142.8,,,LightGBM
+Violences sexuelles,R02,Martinique,2022,147.0,,,XGBoost
+Violences sexuelles,R02,Martinique,2023,125.1,,,XGBoost
+Violences sexuelles,R02,Martinique,2024,125.1,,,XGBoost
+Violences sexuelles,R02,Martinique,2025,125.1,,,XGBoost
+Violences sexuelles,R02,Martinique,2026,125.1,,,XGBoost
+Violences sexuelles,R02,Martinique,2027,136.0,,,XGBoost
+Violences sexuelles,R02,Martinique,2028,147.0,,,XGBoost
+Violences sexuelles,R02,Martinique,2029,183.8,,,XGBoost
+Violences sexuelles,R02,Martinique,2030,183.8,,,XGBoost
+Violences sexuelles,R02,Martinique,2022,148.0,,,LightGBM
+Violences sexuelles,R02,Martinique,2023,148.0,,,LightGBM
+Violences sexuelles,R02,Martinique,2024,148.0,,,LightGBM
+Violences sexuelles,R02,Martinique,2025,148.0,,,LightGBM
+Violences sexuelles,R02,Martinique,2026,148.0,,,LightGBM
+Violences sexuelles,R02,Martinique,2027,148.0,,,LightGBM
+Violences sexuelles,R02,Martinique,2028,148.0,,,LightGBM
+Violences sexuelles,R02,Martinique,2029,148.0,,,LightGBM
+Violences sexuelles,R02,Martinique,2030,148.0,,,LightGBM
+Violences sexuelles,R03,Guyane,2022,188.2,,,XGBoost
+Violences sexuelles,R03,Guyane,2023,176.2,,,XGBoost
+Violences sexuelles,R03,Guyane,2024,176.2,,,XGBoost
+Violences sexuelles,R03,Guyane,2025,176.2,,,XGBoost
+Violences sexuelles,R03,Guyane,2026,176.2,,,XGBoost
+Violences sexuelles,R03,Guyane,2027,188.0,,,XGBoost
+Violences sexuelles,R03,Guyane,2028,203.0,,,XGBoost
+Violences sexuelles,R03,Guyane,2029,253.7,,,XGBoost
+Violences sexuelles,R03,Guyane,2030,253.7,,,XGBoost
+Violences sexuelles,R03,Guyane,2022,205.2,,,LightGBM
+Violences sexuelles,R03,Guyane,2023,205.2,,,LightGBM
+Violences sexuelles,R03,Guyane,2024,205.2,,,LightGBM
+Violences sexuelles,R03,Guyane,2025,205.2,,,LightGBM
+Violences sexuelles,R03,Guyane,2026,205.2,,,LightGBM
+Violences sexuelles,R03,Guyane,2027,205.2,,,LightGBM
+Violences sexuelles,R03,Guyane,2028,205.2,,,LightGBM
+Violences sexuelles,R03,Guyane,2029,205.2,,,LightGBM
+Violences sexuelles,R03,Guyane,2030,205.2,,,LightGBM
+Violences sexuelles,R04,La Réunion,2022,317.3,,,XGBoost
+Violences sexuelles,R04,La Réunion,2023,317.3,,,XGBoost
+Violences sexuelles,R04,La Réunion,2024,317.3,,,XGBoost
+Violences sexuelles,R04,La Réunion,2025,317.3,,,XGBoost
+Violences sexuelles,R04,La Réunion,2026,317.3,,,XGBoost
+Violences sexuelles,R04,La Réunion,2027,357.0,,,XGBoost
+Violences sexuelles,R04,La Réunion,2028,358.0,,,XGBoost
+Violences sexuelles,R04,La Réunion,2029,410.7,,,XGBoost
+Violences sexuelles,R04,La Réunion,2030,410.7,,,XGBoost
+Violences sexuelles,R04,La Réunion,2022,360.8,,,LightGBM
+Violences sexuelles,R04,La Réunion,2023,360.8,,,LightGBM
+Violences sexuelles,R04,La Réunion,2024,360.8,,,LightGBM
+Violences sexuelles,R04,La Réunion,2025,360.8,,,LightGBM
+Violences sexuelles,R04,La Réunion,2026,360.8,,,LightGBM
+Violences sexuelles,R04,La Réunion,2027,360.8,,,LightGBM
+Violences sexuelles,R04,La Réunion,2028,360.8,,,LightGBM
+Violences sexuelles,R04,La Réunion,2029,360.8,,,LightGBM
+Violences sexuelles,R04,La Réunion,2030,360.8,,,LightGBM
+Violences sexuelles,R06,Mayotte,2022,52.0,,,XGBoost
+Violences sexuelles,R06,Mayotte,2023,42.0,,,XGBoost
+Violences sexuelles,R06,Mayotte,2024,75.9,,,XGBoost
+Violences sexuelles,R06,Mayotte,2025,75.9,,,XGBoost
+Violences sexuelles,R06,Mayotte,2026,75.9,,,XGBoost
+Violences sexuelles,R06,Mayotte,2027,38.1,,,XGBoost
+Violences sexuelles,R06,Mayotte,2028,46.0,,,XGBoost
+Violences sexuelles,R06,Mayotte,2029,52.0,,,XGBoost
+Violences sexuelles,R06,Mayotte,2030,52.0,,,XGBoost
+Violences sexuelles,R06,Mayotte,2022,53.0,,,LightGBM
+Violences sexuelles,R06,Mayotte,2023,53.0,,,LightGBM
+Violences sexuelles,R06,Mayotte,2024,53.0,,,LightGBM
+Violences sexuelles,R06,Mayotte,2025,53.0,,,LightGBM
+Violences sexuelles,R06,Mayotte,2026,53.0,,,LightGBM
+Violences sexuelles,R06,Mayotte,2027,53.0,,,LightGBM
+Violences sexuelles,R06,Mayotte,2028,53.0,,,LightGBM
+Violences sexuelles,R06,Mayotte,2029,53.0,,,LightGBM
+Violences sexuelles,R06,Mayotte,2030,53.0,,,LightGBM
+Violences sexuelles,R11,Île-de-France,2022,36130.2,,,XGBoost
+Violences sexuelles,R11,Île-de-France,2023,20003.1,,,XGBoost
+Violences sexuelles,R11,Île-de-France,2024,20003.1,,,XGBoost
+Violences sexuelles,R11,Île-de-France,2025,20003.1,,,XGBoost
+Violences sexuelles,R11,Île-de-France,2026,20003.1,,,XGBoost
+Violences sexuelles,R11,Île-de-France,2027,26961.7,,,XGBoost
+Violences sexuelles,R11,Île-de-France,2028,31260.1,,,XGBoost
+Violences sexuelles,R11,Île-de-France,2029,36130.2,,,XGBoost
+Violences sexuelles,R11,Île-de-France,2030,36130.2,,,XGBoost
+Violences sexuelles,R11,Île-de-France,2022,28588.0,,,LightGBM
+Violences sexuelles,R11,Île-de-France,2023,28588.0,,,LightGBM
+Violences sexuelles,R11,Île-de-France,2024,28588.0,,,LightGBM
+Violences sexuelles,R11,Île-de-France,2025,28588.0,,,LightGBM
+Violences sexuelles,R11,Île-de-France,2026,28588.0,,,LightGBM
+Violences sexuelles,R11,Île-de-France,2027,28588.0,,,LightGBM
+Violences sexuelles,R11,Île-de-France,2028,28588.0,,,LightGBM
+Violences sexuelles,R11,Île-de-France,2029,28588.0,,,LightGBM
+Violences sexuelles,R11,Île-de-France,2030,28588.0,,,LightGBM
+Violences sexuelles,R24,Centre-Val de Loire,2022,5728.8,,,XGBoost
+Violences sexuelles,R24,Centre-Val de Loire,2023,3593.6,,,XGBoost
+Violences sexuelles,R24,Centre-Val de Loire,2024,3593.6,,,XGBoost
+Violences sexuelles,R24,Centre-Val de Loire,2025,3593.6,,,XGBoost
+Violences sexuelles,R24,Centre-Val de Loire,2026,3593.6,,,XGBoost
+Violences sexuelles,R24,Centre-Val de Loire,2027,3919.4,,,XGBoost
+Violences sexuelles,R24,Centre-Val de Loire,2028,4864.2,,,XGBoost
+Violences sexuelles,R24,Centre-Val de Loire,2029,5728.8,,,XGBoost
+Violences sexuelles,R24,Centre-Val de Loire,2030,5728.8,,,XGBoost
+Violences sexuelles,R24,Centre-Val de Loire,2022,4527.0,,,LightGBM
+Violences sexuelles,R24,Centre-Val de Loire,2023,4527.0,,,LightGBM
+Violences sexuelles,R24,Centre-Val de Loire,2024,4527.0,,,LightGBM
+Violences sexuelles,R24,Centre-Val de Loire,2025,4527.0,,,LightGBM
+Violences sexuelles,R24,Centre-Val de Loire,2026,4527.0,,,LightGBM
+Violences sexuelles,R24,Centre-Val de Loire,2027,4527.0,,,LightGBM
+Violences sexuelles,R24,Centre-Val de Loire,2028,4527.0,,,LightGBM
+Violences sexuelles,R24,Centre-Val de Loire,2029,4527.0,,,LightGBM
+Violences sexuelles,R24,Centre-Val de Loire,2030,4527.0,,,LightGBM
+Violences sexuelles,R27,Bourgogne-FC,2022,7166.7,,,XGBoost
+Violences sexuelles,R27,Bourgogne-FC,2023,3978.0,,,XGBoost
+Violences sexuelles,R27,Bourgogne-FC,2024,3978.0,,,XGBoost
+Violences sexuelles,R27,Bourgogne-FC,2025,3978.0,,,XGBoost
+Violences sexuelles,R27,Bourgogne-FC,2026,3978.0,,,XGBoost
+Violences sexuelles,R27,Bourgogne-FC,2027,5194.4,,,XGBoost
+Violences sexuelles,R27,Bourgogne-FC,2028,6269.6,,,XGBoost
+Violences sexuelles,R27,Bourgogne-FC,2029,7166.7,,,XGBoost
+Violences sexuelles,R27,Bourgogne-FC,2030,7166.7,,,XGBoost
+Violences sexuelles,R27,Bourgogne-FC,2022,5652.0,,,LightGBM
+Violences sexuelles,R27,Bourgogne-FC,2023,5652.0,,,LightGBM
+Violences sexuelles,R27,Bourgogne-FC,2024,5652.0,,,LightGBM
+Violences sexuelles,R27,Bourgogne-FC,2025,5652.0,,,LightGBM
+Violences sexuelles,R27,Bourgogne-FC,2026,5652.0,,,LightGBM
+Violences sexuelles,R27,Bourgogne-FC,2027,5652.0,,,LightGBM
+Violences sexuelles,R27,Bourgogne-FC,2028,5652.0,,,LightGBM
+Violences sexuelles,R27,Bourgogne-FC,2029,5652.0,,,LightGBM
+Violences sexuelles,R27,Bourgogne-FC,2030,5652.0,,,LightGBM
+Violences sexuelles,R28,Normandie,2022,6521.7,,,XGBoost
+Violences sexuelles,R28,Normandie,2023,3828.0,,,XGBoost
+Violences sexuelles,R28,Normandie,2024,3828.0,,,XGBoost
+Violences sexuelles,R28,Normandie,2025,3828.0,,,XGBoost
+Violences sexuelles,R28,Normandie,2026,3828.0,,,XGBoost
+Violences sexuelles,R28,Normandie,2027,4696.9,,,XGBoost
+Violences sexuelles,R28,Normandie,2028,5497.8,,,XGBoost
+Violences sexuelles,R28,Normandie,2029,6521.7,,,XGBoost
+Violences sexuelles,R28,Normandie,2030,6521.7,,,XGBoost
+Violences sexuelles,R28,Normandie,2022,5136.2,,,LightGBM
+Violences sexuelles,R28,Normandie,2023,5136.2,,,LightGBM
+Violences sexuelles,R28,Normandie,2024,5136.2,,,LightGBM
+Violences sexuelles,R28,Normandie,2025,5136.2,,,LightGBM
+Violences sexuelles,R28,Normandie,2026,5136.2,,,LightGBM
+Violences sexuelles,R28,Normandie,2027,5136.2,,,LightGBM
+Violences sexuelles,R28,Normandie,2028,5136.2,,,LightGBM
+Violences sexuelles,R28,Normandie,2029,5136.2,,,LightGBM
+Violences sexuelles,R28,Normandie,2030,5136.2,,,LightGBM
+Violences sexuelles,R32,Hauts-de-France,2022,11792.5,,,XGBoost
+Violences sexuelles,R32,Hauts-de-France,2023,5748.6,,,XGBoost
+Violences sexuelles,R32,Hauts-de-France,2024,5748.6,,,XGBoost
+Violences sexuelles,R32,Hauts-de-France,2025,5748.6,,,XGBoost
+Violences sexuelles,R32,Hauts-de-France,2026,5748.6,,,XGBoost
+Violences sexuelles,R32,Hauts-de-France,2027,8293.4,,,XGBoost
+Violences sexuelles,R32,Hauts-de-France,2028,9655.9,,,XGBoost
+Violences sexuelles,R32,Hauts-de-France,2029,11792.5,,,XGBoost
+Violences sexuelles,R32,Hauts-de-France,2030,11792.5,,,XGBoost
+Violences sexuelles,R32,Hauts-de-France,2022,8872.5,,,LightGBM
+Violences sexuelles,R32,Hauts-de-France,2023,8872.5,,,LightGBM
+Violences sexuelles,R32,Hauts-de-France,2024,8872.5,,,LightGBM
+Violences sexuelles,R32,Hauts-de-France,2025,8872.5,,,LightGBM
+Violences sexuelles,R32,Hauts-de-France,2026,8872.5,,,LightGBM
+Violences sexuelles,R32,Hauts-de-France,2027,8872.5,,,LightGBM
+Violences sexuelles,R32,Hauts-de-France,2028,8872.5,,,LightGBM
+Violences sexuelles,R32,Hauts-de-France,2029,8872.5,,,LightGBM
+Violences sexuelles,R32,Hauts-de-France,2030,8872.5,,,LightGBM
+Violences sexuelles,R44,Grand Est,2022,16958.3,,,XGBoost
+Violences sexuelles,R44,Grand Est,2023,9940.4,,,XGBoost
+Violences sexuelles,R44,Grand Est,2024,9940.4,,,XGBoost
+Violences sexuelles,R44,Grand Est,2025,9940.4,,,XGBoost
+Violences sexuelles,R44,Grand Est,2026,9940.4,,,XGBoost
+Violences sexuelles,R44,Grand Est,2027,12255.1,,,XGBoost
+Violences sexuelles,R44,Grand Est,2028,14135.2,,,XGBoost
+Violences sexuelles,R44,Grand Est,2029,16958.3,,,XGBoost
+Violences sexuelles,R44,Grand Est,2030,16958.3,,,XGBoost
+Violences sexuelles,R44,Grand Est,2022,13322.5,,,LightGBM
+Violences sexuelles,R44,Grand Est,2023,13322.5,,,LightGBM
+Violences sexuelles,R44,Grand Est,2024,13322.5,,,LightGBM
+Violences sexuelles,R44,Grand Est,2025,13322.5,,,LightGBM
+Violences sexuelles,R44,Grand Est,2026,13322.5,,,LightGBM
+Violences sexuelles,R44,Grand Est,2027,13322.5,,,LightGBM
+Violences sexuelles,R44,Grand Est,2028,13322.5,,,LightGBM
+Violences sexuelles,R44,Grand Est,2029,13322.5,,,LightGBM
+Violences sexuelles,R44,Grand Est,2030,13322.5,,,LightGBM
+Violences sexuelles,R52,Pays de la Loire,2022,6820.9,,,XGBoost
+Violences sexuelles,R52,Pays de la Loire,2023,4142.0,,,XGBoost
+Violences sexuelles,R52,Pays de la Loire,2024,4142.0,,,XGBoost
+Violences sexuelles,R52,Pays de la Loire,2025,4142.0,,,XGBoost
+Violences sexuelles,R52,Pays de la Loire,2026,4142.0,,,XGBoost
+Violences sexuelles,R52,Pays de la Loire,2027,4731.7,,,XGBoost
+Violences sexuelles,R52,Pays de la Loire,2028,5449.0,,,XGBoost
+Violences sexuelles,R52,Pays de la Loire,2029,6820.9,,,XGBoost
+Violences sexuelles,R52,Pays de la Loire,2030,6820.9,,,XGBoost
+Violences sexuelles,R52,Pays de la Loire,2022,5286.2,,,LightGBM
+Violences sexuelles,R52,Pays de la Loire,2023,5286.2,,,LightGBM
+Violences sexuelles,R52,Pays de la Loire,2024,5286.2,,,LightGBM
+Violences sexuelles,R52,Pays de la Loire,2025,5286.2,,,LightGBM
+Violences sexuelles,R52,Pays de la Loire,2026,5286.2,,,LightGBM
+Violences sexuelles,R52,Pays de la Loire,2027,5286.2,,,LightGBM
+Violences sexuelles,R52,Pays de la Loire,2028,5286.2,,,LightGBM
+Violences sexuelles,R52,Pays de la Loire,2029,5286.2,,,LightGBM
+Violences sexuelles,R52,Pays de la Loire,2030,5286.2,,,LightGBM
+Violences sexuelles,R53,Bretagne,2022,4052.0,,,XGBoost
+Violences sexuelles,R53,Bretagne,2023,2527.5,,,XGBoost
+Violences sexuelles,R53,Bretagne,2024,2527.5,,,XGBoost
+Violences sexuelles,R53,Bretagne,2025,2527.5,,,XGBoost
+Violences sexuelles,R53,Bretagne,2026,2527.5,,,XGBoost
+Violences sexuelles,R53,Bretagne,2027,2620.9,,,XGBoost
+Violences sexuelles,R53,Bretagne,2028,3335.2,,,XGBoost
+Violences sexuelles,R53,Bretagne,2029,4321.3,,,XGBoost
+Violences sexuelles,R53,Bretagne,2030,4321.3,,,XGBoost
+Violences sexuelles,R53,Bretagne,2022,3202.0,,,LightGBM
+Violences sexuelles,R53,Bretagne,2023,3202.0,,,LightGBM
+Violences sexuelles,R53,Bretagne,2024,3202.0,,,LightGBM
+Violences sexuelles,R53,Bretagne,2025,3202.0,,,LightGBM
+Violences sexuelles,R53,Bretagne,2026,3202.0,,,LightGBM
+Violences sexuelles,R53,Bretagne,2027,3202.0,,,LightGBM
+Violences sexuelles,R53,Bretagne,2028,3202.0,,,LightGBM
+Violences sexuelles,R53,Bretagne,2029,3202.0,,,LightGBM
+Violences sexuelles,R53,Bretagne,2030,3202.0,,,LightGBM
+Violences sexuelles,R75,Nouvelle-Aquitaine,2022,24198.4,,,XGBoost
+Violences sexuelles,R75,Nouvelle-Aquitaine,2023,14334.4,,,XGBoost
+Violences sexuelles,R75,Nouvelle-Aquitaine,2024,14334.4,,,XGBoost
+Violences sexuelles,R75,Nouvelle-Aquitaine,2025,14334.4,,,XGBoost
+Violences sexuelles,R75,Nouvelle-Aquitaine,2026,14334.4,,,XGBoost
+Violences sexuelles,R75,Nouvelle-Aquitaine,2027,17791.5,,,XGBoost
+Violences sexuelles,R75,Nouvelle-Aquitaine,2028,21125.0,,,XGBoost
+Violences sexuelles,R75,Nouvelle-Aquitaine,2029,24198.4,,,XGBoost
+Violences sexuelles,R75,Nouvelle-Aquitaine,2030,24198.4,,,XGBoost
+Violences sexuelles,R75,Nouvelle-Aquitaine,2022,19362.0,,,LightGBM
+Violences sexuelles,R75,Nouvelle-Aquitaine,2023,19362.0,,,LightGBM
+Violences sexuelles,R75,Nouvelle-Aquitaine,2024,19362.0,,,LightGBM
+Violences sexuelles,R75,Nouvelle-Aquitaine,2025,19362.0,,,LightGBM
+Violences sexuelles,R75,Nouvelle-Aquitaine,2026,19362.0,,,LightGBM
+Violences sexuelles,R75,Nouvelle-Aquitaine,2027,19362.0,,,LightGBM
+Violences sexuelles,R75,Nouvelle-Aquitaine,2028,19362.0,,,LightGBM
+Violences sexuelles,R75,Nouvelle-Aquitaine,2029,19362.0,,,LightGBM
+Violences sexuelles,R75,Nouvelle-Aquitaine,2030,19362.0,,,LightGBM
+Violences sexuelles,R76,Occitanie,2022,25136.2,,,XGBoost
+Violences sexuelles,R76,Occitanie,2023,14888.2,,,XGBoost
+Violences sexuelles,R76,Occitanie,2024,14888.2,,,XGBoost
+Violences sexuelles,R76,Occitanie,2025,14888.2,,,XGBoost
+Violences sexuelles,R76,Occitanie,2026,14888.2,,,XGBoost
+Violences sexuelles,R76,Occitanie,2027,18532.5,,,XGBoost
+Violences sexuelles,R76,Occitanie,2028,20613.1,,,XGBoost
+Violences sexuelles,R76,Occitanie,2029,25136.2,,,XGBoost
+Violences sexuelles,R76,Occitanie,2030,25136.2,,,XGBoost
+Violences sexuelles,R76,Occitanie,2022,19792.5,,,LightGBM
+Violences sexuelles,R76,Occitanie,2023,19792.5,,,LightGBM
+Violences sexuelles,R76,Occitanie,2024,19792.5,,,LightGBM
+Violences sexuelles,R76,Occitanie,2025,19792.5,,,LightGBM
+Violences sexuelles,R76,Occitanie,2026,19792.5,,,LightGBM
+Violences sexuelles,R76,Occitanie,2027,19792.5,,,LightGBM
+Violences sexuelles,R76,Occitanie,2028,19792.5,,,LightGBM
+Violences sexuelles,R76,Occitanie,2029,19792.5,,,LightGBM
+Violences sexuelles,R76,Occitanie,2030,19792.5,,,LightGBM
+Violences sexuelles,R84,Auvergne-RA,2022,29575.1,,,XGBoost
+Violences sexuelles,R84,Auvergne-RA,2023,15678.5,,,XGBoost
+Violences sexuelles,R84,Auvergne-RA,2024,15678.5,,,XGBoost
+Violences sexuelles,R84,Auvergne-RA,2025,15678.5,,,XGBoost
+Violences sexuelles,R84,Auvergne-RA,2026,15678.5,,,XGBoost
+Violences sexuelles,R84,Auvergne-RA,2027,20974.9,,,XGBoost
+Violences sexuelles,R84,Auvergne-RA,2028,24997.4,,,XGBoost
+Violences sexuelles,R84,Auvergne-RA,2029,29575.1,,,XGBoost
+Violences sexuelles,R84,Auvergne-RA,2030,29575.1,,,XGBoost
+Violences sexuelles,R84,Auvergne-RA,2022,22806.0,,,LightGBM
+Violences sexuelles,R84,Auvergne-RA,2023,22806.0,,,LightGBM
+Violences sexuelles,R84,Auvergne-RA,2024,22806.0,,,LightGBM
+Violences sexuelles,R84,Auvergne-RA,2025,22806.0,,,LightGBM
+Violences sexuelles,R84,Auvergne-RA,2026,22806.0,,,LightGBM
+Violences sexuelles,R84,Auvergne-RA,2027,22806.0,,,LightGBM
+Violences sexuelles,R84,Auvergne-RA,2028,22806.0,,,LightGBM
+Violences sexuelles,R84,Auvergne-RA,2029,22806.0,,,LightGBM
+Violences sexuelles,R84,Auvergne-RA,2030,22806.0,,,LightGBM
+Violences sexuelles,R93,PACA,2022,9216.7,,,XGBoost
+Violences sexuelles,R93,PACA,2023,5435.8,,,XGBoost
+Violences sexuelles,R93,PACA,2024,5435.8,,,XGBoost
+Violences sexuelles,R93,PACA,2025,5435.8,,,XGBoost
+Violences sexuelles,R93,PACA,2026,5435.8,,,XGBoost
+Violences sexuelles,R93,PACA,2027,6627.1,,,XGBoost
+Violences sexuelles,R93,PACA,2028,8193.0,,,XGBoost
+Violences sexuelles,R93,PACA,2029,9216.7,,,XGBoost
+Violences sexuelles,R93,PACA,2030,9216.7,,,XGBoost
+Violences sexuelles,R93,PACA,2022,7368.0,,,LightGBM
+Violences sexuelles,R93,PACA,2023,7368.0,,,LightGBM
+Violences sexuelles,R93,PACA,2024,7368.0,,,LightGBM
+Violences sexuelles,R93,PACA,2025,7368.0,,,LightGBM
+Violences sexuelles,R93,PACA,2026,7368.0,,,LightGBM
+Violences sexuelles,R93,PACA,2027,7368.0,,,LightGBM
+Violences sexuelles,R93,PACA,2028,7368.0,,,LightGBM
+Violences sexuelles,R93,PACA,2029,7368.0,,,LightGBM
+Violences sexuelles,R93,PACA,2030,7368.0,,,LightGBM
+Violences sexuelles,R94,Corse,2022,132.0,,,XGBoost
+Violences sexuelles,R94,Corse,2023,132.0,,,XGBoost
+Violences sexuelles,R94,Corse,2024,132.0,,,XGBoost
+Violences sexuelles,R94,Corse,2025,132.0,,,XGBoost
+Violences sexuelles,R94,Corse,2026,132.0,,,XGBoost
+Violences sexuelles,R94,Corse,2027,112.1,,,XGBoost
+Violences sexuelles,R94,Corse,2028,122.0,,,XGBoost
+Violences sexuelles,R94,Corse,2029,159.8,,,XGBoost
+Violences sexuelles,R94,Corse,2030,159.8,,,XGBoost
+Violences sexuelles,R94,Corse,2022,131.5,,,LightGBM
+Violences sexuelles,R94,Corse,2023,131.5,,,LightGBM
+Violences sexuelles,R94,Corse,2024,131.5,,,LightGBM
+Violences sexuelles,R94,Corse,2025,131.5,,,LightGBM
+Violences sexuelles,R94,Corse,2026,131.5,,,LightGBM
+Violences sexuelles,R94,Corse,2027,131.5,,,LightGBM
+Violences sexuelles,R94,Corse,2028,131.5,,,LightGBM
+Violences sexuelles,R94,Corse,2029,131.5,,,LightGBM
+Violences sexuelles,R94,Corse,2030,131.5,,,LightGBM

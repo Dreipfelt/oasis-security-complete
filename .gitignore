@@ -1,0 +1,68 @@
+# =============================================================================
+# Oasis Security — .gitignore
+# =============================================================================
+
+# ── Environnements virtuels (NE JAMAIS COMMITER) ─────────────────────────────
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+ *.parquet
+ *.csv
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Données brutes (gérer via DVC ou Git LFS si besoin) ──────────────────────
+data/raw/
+# Décommenter si les données sont lourdes ou sensibles :
+# *.parquet
+# *.csv
+data/raw/
+*.parquet
+plots/
+
+# ── MLflow ────────────────────────────────────────────────────────────────────
+mlruns/
+mlflow.db
+
+# ── Secrets & variables d'environnement ──────────────────────────────────────
+.env
+.env.*
+secrets.yaml
+config/secrets/
+secrets
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ── Tests & couverture ────────────────────────────────────────────────────────
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+0_README.md
+

@@ -1,0 +1,4 @@
+mlflow==2.12.1
+psycopg2-binary==2.9.9
+huggingface_hub==0.23.0
+hf-transfer==0.1.6

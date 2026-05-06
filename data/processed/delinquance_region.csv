@@ -1,0 +1,2401 @@
+annee,region,region_nom,nb_faits_A,indicateur
+2012,R01,Guadeloupe,2991.0,Cambriolages de logement
+2012,R02,Martinique,2219.0,Cambriolages de logement
+2012,R03,Guyane,1488.0,Cambriolages de logement
+2012,R04,La Réunion,1602.0,Cambriolages de logement
+2012,R06,Mayotte,547.0,Cambriolages de logement
+2012,R11,Île-de-France,52404.0,Cambriolages de logement
+2012,R24,Centre-Val de Loire,9533.0,Cambriolages de logement
+2012,R27,Bourgogne-FC,7768.0,Cambriolages de logement
+2012,R28,Normandie,7565.0,Cambriolages de logement
+2012,R32,Hauts-de-France,20579.0,Cambriolages de logement
+2012,R44,Grand Est,15085.0,Cambriolages de logement
+2012,R52,Pays de la Loire,10680.0,Cambriolages de logement
+2012,R53,Bretagne,7200.0,Cambriolages de logement
+2012,R75,Nouvelle-Aquitaine,15919.0,Cambriolages de logement
+2012,R76,Occitanie,28161.0,Cambriolages de logement
+2012,R84,Auvergne-RA,28845.0,Cambriolages de logement
+2012,R93,PACA,29041.0,Cambriolages de logement
+2012,R94,Corse,790.0,Cambriolages de logement
+2012,R987,Polynésie,692.0,Cambriolages de logement
+2012,R988,Nouvelle-Calédonie,1065.0,Cambriolages de logement
+2013,R01,Guadeloupe,2976.0,Cambriolages de logement
+2013,R02,Martinique,1817.0,Cambriolages de logement
+2013,R03,Guyane,1617.0,Cambriolages de logement
+2013,R04,La Réunion,1583.0,Cambriolages de logement
+2013,R06,Mayotte,721.0,Cambriolages de logement
+2013,R11,Île-de-France,58560.0,Cambriolages de logement
+2013,R24,Centre-Val de Loire,9936.0,Cambriolages de logement
+2013,R27,Bourgogne-FC,8294.0,Cambriolages de logement
+2013,R28,Normandie,8039.0,Cambriolages de logement
+2013,R32,Hauts-de-France,21599.0,Cambriolages de logement
+2013,R44,Grand Est,15037.0,Cambriolages de logement
+2013,R52,Pays de la Loire,11192.0,Cambriolages de logement
+2013,R53,Bretagne,7753.0,Cambriolages de logement
+2013,R75,Nouvelle-Aquitaine,15989.0,Cambriolages de logement
+2013,R76,Occitanie,26757.0,Cambriolages de logement
+2013,R84,Auvergne-RA,32352.0,Cambriolages de logement
+2013,R93,PACA,27739.0,Cambriolages de logement
+2013,R94,Corse,680.0,Cambriolages de logement
+2013,R987,Polynésie,659.0,Cambriolages de logement
+2013,R988,Nouvelle-Calédonie,1344.0,Cambriolages de logement
+2014,R01,Guadeloupe,2727.0,Cambriolages de logement
+2014,R02,Martinique,1553.0,Cambriolages de logement
+2014,R03,Guyane,1557.0,Cambriolages de logement
+2014,R04,La Réunion,1702.0,Cambriolages de logement
+2014,R06,Mayotte,630.0,Cambriolages de logement
+2014,R11,Île-de-France,54912.0,Cambriolages de logement
+2014,R24,Centre-Val de Loire,7470.0,Cambriolages de logement
+2014,R27,Bourgogne-FC,7545.0,Cambriolages de logement
+2014,R28,Normandie,8203.0,Cambriolages de logement
+2014,R32,Hauts-de-France,21224.0,Cambriolages de logement
+2014,R44,Grand Est,14963.0,Cambriolages de logement
+2014,R52,Pays de la Loire,10311.0,Cambriolages de logement
+2014,R53,Bretagne,6555.0,Cambriolages de logement
+2014,R75,Nouvelle-Aquitaine,16481.0,Cambriolages de logement
+2014,R76,Occitanie,24344.0,Cambriolages de logement
+2014,R84,Auvergne-RA,31323.0,Cambriolages de logement
+2014,R93,PACA,27028.0,Cambriolages de logement
+2014,R94,Corse,503.0,Cambriolages de logement
+2014,R987,Polynésie,630.0,Cambriolages de logement
+2014,R988,Nouvelle-Calédonie,1176.0,Cambriolages de logement
+2015,R01,Guadeloupe,2710.0,Cambriolages de logement
+2015,R02,Martinique,996.0,Cambriolages de logement
+2015,R03,Guyane,1317.0,Cambriolages de logement
+2015,R04,La Réunion,2101.0,Cambriolages de logement
+2015,R06,Mayotte,647.0,Cambriolages de logement
+2015,R11,Île-de-France,51377.0,Cambriolages de logement
+2015,R24,Centre-Val de Loire,7890.0,Cambriolages de logement
+2015,R27,Bourgogne-FC,7538.0,Cambriolages de logement
+2015,R28,Normandie,6953.0,Cambriolages de logement
+2015,R32,Hauts-de-France,21683.0,Cambriolages de logement
+2015,R44,Grand Est,14576.0,Cambriolages de logement
+2015,R52,Pays de la Loire,10475.0,Cambriolages de logement
+2015,R53,Bretagne,6613.0,Cambriolages de logement
+2015,R75,Nouvelle-Aquitaine,18422.0,Cambriolages de logement
+2015,R76,Occitanie,25993.0,Cambriolages de logement
+2015,R84,Auvergne-RA,29832.0,Cambriolages de logement
+2015,R93,PACA,25009.0,Cambriolages de logement
+2015,R94,Corse,660.0,Cambriolages de logement
+2015,R987,Polynésie,737.0,Cambriolages de logement
+2015,R988,Nouvelle-Calédonie,1501.0,Cambriolages de logement
+2016,R01,Guadeloupe,2565.0,Cambriolages de logement
+2016,R02,Martinique,1430.0,Cambriolages de logement
+2016,R03,Guyane,1353.0,Cambriolages de logement
+2016,R04,La Réunion,2119.0,Cambriolages de logement
+2016,R06,Mayotte,581.0,Cambriolages de logement
+2016,R11,Île-de-France,48887.0,Cambriolages de logement
+2016,R24,Centre-Val de Loire,8321.0,Cambriolages de logement
+2016,R27,Bourgogne-FC,7684.0,Cambriolages de logement
+2016,R28,Normandie,8323.0,Cambriolages de logement
+2016,R32,Hauts-de-France,21408.0,Cambriolages de logement
+2016,R44,Grand Est,15459.0,Cambriolages de logement
+2016,R52,Pays de la Loire,10933.0,Cambriolages de logement
+2016,R53,Bretagne,6931.0,Cambriolages de logement
+2016,R75,Nouvelle-Aquitaine,19589.0,Cambriolages de logement
+2016,R76,Occitanie,29726.0,Cambriolages de logement
+2016,R84,Auvergne-RA,36038.0,Cambriolages de logement
+2016,R93,PACA,25978.0,Cambriolages de logement
+2016,R94,Corse,657.0,Cambriolages de logement
+2016,R987,Polynésie,766.0,Cambriolages de logement
+2016,R988,Nouvelle-Calédonie,1583.0,Cambriolages de logement
+2017,R01,Guadeloupe,2405.0,Cambriolages de logement
+2017,R02,Martinique,1291.0,Cambriolages de logement
+2017,R03,Guyane,1436.0,Cambriolages de logement
+2017,R04,La Réunion,1925.0,Cambriolages de logement
+2017,R06,Mayotte,336.0,Cambriolages de logement
+2017,R11,Île-de-France,49243.0,Cambriolages de logement
+2017,R24,Centre-Val de Loire,8669.0,Cambriolages de logement
+2017,R27,Bourgogne-FC,7143.0,Cambriolages de logement
+2017,R28,Normandie,8108.0,Cambriolages de logement
+2017,R32,Hauts-de-France,21792.0,Cambriolages de logement
+2017,R44,Grand Est,15114.0,Cambriolages de logement
+2017,R52,Pays de la Loire,11009.0,Cambriolages de logement
+2017,R53,Bretagne,7783.0,Cambriolages de logement
+2017,R75,Nouvelle-Aquitaine,21912.0,Cambriolages de logement
+2017,R76,Occitanie,28843.0,Cambriolages de logement
+2017,R84,Auvergne-RA,36973.0,Cambriolages de logement
+2017,R93,PACA,28915.0,Cambriolages de logement
+2017,R94,Corse,693.0,Cambriolages de logement
+2017,R987,Polynésie,655.0,Cambriolages de logement
+2017,R988,Nouvelle-Calédonie,1396.0,Cambriolages de logement
+2018,R01,Guadeloupe,1353.0,Cambriolages de logement
+2018,R02,Martinique,866.0,Cambriolages de logement
+2018,R03,Guyane,1279.0,Cambriolages de logement
+2018,R04,La Réunion,1679.0,Cambriolages de logement
+2018,R06,Mayotte,182.0,Cambriolages de logement
+2018,R11,Île-de-France,49957.0,Cambriolages de logement
+2018,R24,Centre-Val de Loire,7905.0,Cambriolages de logement
+2018,R27,Bourgogne-FC,7404.0,Cambriolages de logement
+2018,R28,Normandie,8086.0,Cambriolages de logement
+2018,R32,Hauts-de-France,20536.0,Cambriolages de logement
+2018,R44,Grand Est,14263.0,Cambriolages de logement
+2018,R52,Pays de la Loire,11246.0,Cambriolages de logement
+2018,R53,Bretagne,7556.0,Cambriolages de logement
+2018,R75,Nouvelle-Aquitaine,19706.0,Cambriolages de logement
+2018,R76,Occitanie,24924.0,Cambriolages de logement
+2018,R84,Auvergne-RA,32798.0,Cambriolages de logement
+2018,R93,PACA,26758.0,Cambriolages de logement
+2018,R94,Corse,491.0,Cambriolages de logement
+2018,R987,Polynésie,622.0,Cambriolages de logement
+2018,R988,Nouvelle-Calédonie,1467.0,Cambriolages de logement
+2019,R01,Guadeloupe,1056.0,Cambriolages de logement
+2019,R02,Martinique,1383.0,Cambriolages de logement
+2019,R03,Guyane,1053.0,Cambriolages de logement
+2019,R04,La Réunion,1455.0,Cambriolages de logement
+2019,R06,Mayotte,218.0,Cambriolages de logement
+2019,R11,Île-de-France,49872.0,Cambriolages de logement
+2019,R24,Centre-Val de Loire,7379.0,Cambriolages de logement
+2019,R27,Bourgogne-FC,7785.0,Cambriolages de logement
+2019,R28,Normandie,7602.0,Cambriolages de logement
+2019,R32,Hauts-de-France,21362.0,Cambriolages de logement
+2019,R44,Grand Est,14376.0,Cambriolages de logement
+2019,R52,Pays de la Loire,11587.0,Cambriolages de logement
+2019,R53,Bretagne,6891.0,Cambriolages de logement
+2019,R75,Nouvelle-Aquitaine,20107.0,Cambriolages de logement
+2019,R76,Occitanie,24975.0,Cambriolages de logement
+2019,R84,Auvergne-RA,33276.0,Cambriolages de logement
+2019,R93,PACA,26011.0,Cambriolages de logement
+2019,R94,Corse,414.0,Cambriolages de logement
+2019,R987,Polynésie,648.0,Cambriolages de logement
+2019,R988,Nouvelle-Calédonie,1495.0,Cambriolages de logement
+2020,R01,Guadeloupe,999.0,Cambriolages de logement
+2020,R02,Martinique,794.0,Cambriolages de logement
+2020,R03,Guyane,861.0,Cambriolages de logement
+2020,R04,La Réunion,1008.0,Cambriolages de logement
+2020,R06,Mayotte,158.0,Cambriolages de logement
+2020,R11,Île-de-France,40794.0,Cambriolages de logement
+2020,R24,Centre-Val de Loire,5852.0,Cambriolages de logement
+2020,R27,Bourgogne-FC,5680.0,Cambriolages de logement
+2020,R28,Normandie,6274.0,Cambriolages de logement
+2020,R32,Hauts-de-France,17261.0,Cambriolages de logement
+2020,R44,Grand Est,10772.0,Cambriolages de logement
+2020,R52,Pays de la Loire,10390.0,Cambriolages de logement
+2020,R53,Bretagne,5876.0,Cambriolages de logement
+2020,R75,Nouvelle-Aquitaine,17912.0,Cambriolages de logement
+2020,R76,Occitanie,19096.0,Cambriolages de logement
+2020,R84,Auvergne-RA,25390.0,Cambriolages de logement
+2020,R93,PACA,19769.0,Cambriolages de logement
+2020,R94,Corse,377.0,Cambriolages de logement
+2020,R987,Polynésie,410.0,Cambriolages de logement
+2020,R988,Nouvelle-Calédonie,1153.0,Cambriolages de logement
+2021,R01,Guadeloupe,936.0,Cambriolages de logement
+2021,R02,Martinique,611.0,Cambriolages de logement
+2021,R03,Guyane,1117.0,Cambriolages de logement
+2021,R04,La Réunion,861.0,Cambriolages de logement
+2021,R06,Mayotte,281.0,Cambriolages de logement
+2021,R11,Île-de-France,40163.0,Cambriolages de logement
+2021,R24,Centre-Val de Loire,6031.0,Cambriolages de logement
+2021,R27,Bourgogne-FC,5378.0,Cambriolages de logement
+2021,R28,Normandie,5826.0,Cambriolages de logement
+2021,R32,Hauts-de-France,15816.0,Cambriolages de logement
+2021,R44,Grand Est,10042.0,Cambriolages de logement
+2021,R52,Pays de la Loire,9942.0,Cambriolages de logement
+2021,R53,Bretagne,5856.0,Cambriolages de logement
+2021,R75,Nouvelle-Aquitaine,17998.0,Cambriolages de logement
+2021,R76,Occitanie,18434.0,Cambriolages de logement
+2021,R84,Auvergne-RA,27424.0,Cambriolages de logement
+2021,R93,PACA,22896.0,Cambriolages de logement
+2021,R94,Corse,349.0,Cambriolages de logement
+2021,R987,Polynésie,344.0,Cambriolages de logement
+2021,R988,Nouvelle-Calédonie,1212.0,Cambriolages de logement
+2012,R01,Guadeloupe,287.0,Coups et blessures volontaires
+2012,R02,Martinique,275.0,Coups et blessures volontaires
+2012,R03,Guyane,345.0,Coups et blessures volontaires
+2012,R04,La Réunion,316.0,Coups et blessures volontaires
+2012,R06,Mayotte,0.0,Coups et blessures volontaires
+2012,R11,Île-de-France,9631.0,Coups et blessures volontaires
+2012,R24,Centre-Val de Loire,1054.0,Coups et blessures volontaires
+2012,R27,Bourgogne-FC,1312.0,Coups et blessures volontaires
+2012,R28,Normandie,1195.0,Coups et blessures volontaires
+2012,R32,Hauts-de-France,2990.0,Coups et blessures volontaires
+2012,R44,Grand Est,2401.0,Coups et blessures volontaires
+2012,R52,Pays de la Loire,1232.0,Coups et blessures volontaires
+2012,R53,Bretagne,1068.0,Coups et blessures volontaires
+2012,R75,Nouvelle-Aquitaine,2635.0,Coups et blessures volontaires
+2012,R76,Occitanie,2545.0,Coups et blessures volontaires
+2012,R84,Auvergne-RA,3818.0,Coups et blessures volontaires
+2012,R93,PACA,3214.0,Coups et blessures volontaires
+2012,R94,Corse,147.0,Coups et blessures volontaires
+2012,R987,Polynésie,189.0,Coups et blessures volontaires
+2012,R988,Nouvelle-Calédonie,211.0,Coups et blessures volontaires
+2013,R01,Guadeloupe,376.0,Coups et blessures volontaires
+2013,R02,Martinique,357.0,Coups et blessures volontaires
+2013,R03,Guyane,330.0,Coups et blessures volontaires
+2013,R04,La Réunion,390.0,Coups et blessures volontaires
+2013,R06,Mayotte,0.0,Coups et blessures volontaires
+2013,R11,Île-de-France,10350.0,Coups et blessures volontaires
+2013,R24,Centre-Val de Loire,1090.0,Coups et blessures volontaires
+2013,R27,Bourgogne-FC,1149.0,Coups et blessures volontaires
+2013,R28,Normandie,1235.0,Coups et blessures volontaires
+2013,R32,Hauts-de-France,3352.0,Coups et blessures volontaires
+2013,R44,Grand Est,2302.0,Coups et blessures volontaires
+2013,R52,Pays de la Loire,1206.0,Coups et blessures volontaires
+2013,R53,Bretagne,942.0,Coups et blessures volontaires
+2013,R75,Nouvelle-Aquitaine,2456.0,Coups et blessures volontaires
+2013,R76,Occitanie,3136.0,Coups et blessures volontaires
+2013,R84,Auvergne-RA,4872.0,Coups et blessures volontaires
+2013,R93,PACA,3364.0,Coups et blessures volontaires
+2013,R94,Corse,147.0,Coups et blessures volontaires
+2013,R987,Polynésie,231.0,Coups et blessures volontaires
+2013,R988,Nouvelle-Calédonie,278.0,Coups et blessures volontaires
+2014,R01,Guadeloupe,408.0,Coups et blessures volontaires
+2014,R02,Martinique,321.0,Coups et blessures volontaires
+2014,R03,Guyane,398.0,Coups et blessures volontaires
+2014,R04,La Réunion,403.0,Coups et blessures volontaires
+2014,R06,Mayotte,46.0,Coups et blessures volontaires
+2014,R11,Île-de-France,10855.0,Coups et blessures volontaires
+2014,R24,Centre-Val de Loire,1107.0,Coups et blessures volontaires
+2014,R27,Bourgogne-FC,1178.0,Coups et blessures volontaires
+2014,R28,Normandie,1317.0,Coups et blessures volontaires
+2014,R32,Hauts-de-France,3659.0,Coups et blessures volontaires
+2014,R44,Grand Est,3087.0,Coups et blessures volontaires
+2014,R52,Pays de la Loire,1752.0,Coups et blessures volontaires
+2014,R53,Bretagne,1074.0,Coups et blessures volontaires
+2014,R75,Nouvelle-Aquitaine,3002.0,Coups et blessures volontaires
+2014,R76,Occitanie,2808.0,Coups et blessures volontaires
+2014,R84,Auvergne-RA,5052.0,Coups et blessures volontaires
+2014,R93,PACA,2930.0,Coups et blessures volontaires
+2014,R94,Corse,169.0,Coups et blessures volontaires
+2014,R987,Polynésie,365.0,Coups et blessures volontaires
+2014,R988,Nouvelle-Calédonie,271.0,Coups et blessures volontaires
+2015,R01,Guadeloupe,478.0,Coups et blessures volontaires
+2015,R02,Martinique,305.0,Coups et blessures volontaires
+2015,R03,Guyane,415.0,Coups et blessures volontaires
+2015,R04,La Réunion,337.0,Coups et blessures volontaires
+2015,R06,Mayotte,56.0,Coups et blessures volontaires
+2015,R11,Île-de-France,10805.0,Coups et blessures volontaires
+2015,R24,Centre-Val de Loire,1157.0,Coups et blessures volontaires
+2015,R27,Bourgogne-FC,1466.0,Coups et blessures volontaires
+2015,R28,Normandie,1316.0,Coups et blessures volontaires
+2015,R32,Hauts-de-France,3162.0,Coups et blessures volontaires
+2015,R44,Grand Est,2951.0,Coups et blessures volontaires
+2015,R52,Pays de la Loire,1751.0,Coups et blessures volontaires
+2015,R53,Bretagne,1107.0,Coups et blessures volontaires
+2015,R75,Nouvelle-Aquitaine,3002.0,Coups et blessures volontaires
+2015,R76,Occitanie,3185.0,Coups et blessures volontaires
+2015,R84,Auvergne-RA,4672.0,Coups et blessures volontaires
+2015,R93,PACA,3345.0,Coups et blessures volontaires
+2015,R94,Corse,219.0,Coups et blessures volontaires
+2015,R987,Polynésie,395.0,Coups et blessures volontaires
+2015,R988,Nouvelle-Calédonie,260.0,Coups et blessures volontaires
+2016,R01,Guadeloupe,356.0,Coups et blessures volontaires
+2016,R02,Martinique,323.0,Coups et blessures volontaires
+2016,R03,Guyane,412.0,Coups et blessures volontaires
+2016,R04,La Réunion,359.0,Coups et blessures volontaires
+2016,R06,Mayotte,61.0,Coups et blessures volontaires
+2016,R11,Île-de-France,9839.0,Coups et blessures volontaires
+2016,R24,Centre-Val de Loire,1182.0,Coups et blessures volontaires
+2016,R27,Bourgogne-FC,1351.0,Coups et blessures volontaires
+2016,R28,Normandie,1255.0,Coups et blessures volontaires
+2016,R32,Hauts-de-France,3841.0,Coups et blessures volontaires
+2016,R44,Grand Est,2562.0,Coups et blessures volontaires
+2016,R52,Pays de la Loire,1712.0,Coups et blessures volontaires
+2016,R53,Bretagne,1132.0,Coups et blessures volontaires
+2016,R75,Nouvelle-Aquitaine,3080.0,Coups et blessures volontaires
+2016,R76,Occitanie,3015.0,Coups et blessures volontaires
+2016,R84,Auvergne-RA,4223.0,Coups et blessures volontaires
+2016,R93,PACA,3281.0,Coups et blessures volontaires
+2016,R94,Corse,162.0,Coups et blessures volontaires
+2016,R987,Polynésie,338.0,Coups et blessures volontaires
+2016,R988,Nouvelle-Calédonie,196.0,Coups et blessures volontaires
+2017,R01,Guadeloupe,437.0,Coups et blessures volontaires
+2017,R02,Martinique,258.0,Coups et blessures volontaires
+2017,R03,Guyane,330.0,Coups et blessures volontaires
+2017,R04,La Réunion,407.0,Coups et blessures volontaires
+2017,R06,Mayotte,96.0,Coups et blessures volontaires
+2017,R11,Île-de-France,12624.0,Coups et blessures volontaires
+2017,R24,Centre-Val de Loire,1123.0,Coups et blessures volontaires
+2017,R27,Bourgogne-FC,1328.0,Coups et blessures volontaires
+2017,R28,Normandie,1352.0,Coups et blessures volontaires
+2017,R32,Hauts-de-France,3804.0,Coups et blessures volontaires
+2017,R44,Grand Est,2754.0,Coups et blessures volontaires
+2017,R52,Pays de la Loire,1924.0,Coups et blessures volontaires
+2017,R53,Bretagne,1349.0,Coups et blessures volontaires
+2017,R75,Nouvelle-Aquitaine,3160.0,Coups et blessures volontaires
+2017,R76,Occitanie,3278.0,Coups et blessures volontaires
+2017,R84,Auvergne-RA,5165.0,Coups et blessures volontaires
+2017,R93,PACA,3467.0,Coups et blessures volontaires
+2017,R94,Corse,242.0,Coups et blessures volontaires
+2017,R987,Polynésie,244.0,Coups et blessures volontaires
+2017,R988,Nouvelle-Calédonie,407.0,Coups et blessures volontaires
+2018,R01,Guadeloupe,434.0,Coups et blessures volontaires
+2018,R02,Martinique,199.0,Coups et blessures volontaires
+2018,R03,Guyane,326.0,Coups et blessures volontaires
+2018,R04,La Réunion,330.0,Coups et blessures volontaires
+2018,R06,Mayotte,140.0,Coups et blessures volontaires
+2018,R11,Île-de-France,13005.0,Coups et blessures volontaires
+2018,R24,Centre-Val de Loire,1304.0,Coups et blessures volontaires
+2018,R27,Bourgogne-FC,1257.0,Coups et blessures volontaires
+2018,R28,Normandie,1388.0,Coups et blessures volontaires
+2018,R32,Hauts-de-France,3715.0,Coups et blessures volontaires
+2018,R44,Grand Est,2647.0,Coups et blessures volontaires
+2018,R52,Pays de la Loire,1738.0,Coups et blessures volontaires
+2018,R53,Bretagne,1468.0,Coups et blessures volontaires
+2018,R75,Nouvelle-Aquitaine,3159.0,Coups et blessures volontaires
+2018,R76,Occitanie,3399.0,Coups et blessures volontaires
+2018,R84,Auvergne-RA,5409.0,Coups et blessures volontaires
+2018,R93,PACA,3443.0,Coups et blessures volontaires
+2018,R94,Corse,129.0,Coups et blessures volontaires
+2018,R987,Polynésie,283.0,Coups et blessures volontaires
+2018,R988,Nouvelle-Calédonie,385.0,Coups et blessures volontaires
+2019,R01,Guadeloupe,462.0,Coups et blessures volontaires
+2019,R02,Martinique,207.0,Coups et blessures volontaires
+2019,R03,Guyane,312.0,Coups et blessures volontaires
+2019,R04,La Réunion,275.0,Coups et blessures volontaires
+2019,R06,Mayotte,92.0,Coups et blessures volontaires
+2019,R11,Île-de-France,13485.0,Coups et blessures volontaires
+2019,R24,Centre-Val de Loire,1095.0,Coups et blessures volontaires
+2019,R27,Bourgogne-FC,1135.0,Coups et blessures volontaires
+2019,R28,Normandie,1454.0,Coups et blessures volontaires
+2019,R32,Hauts-de-France,3490.0,Coups et blessures volontaires
+2019,R44,Grand Est,2563.0,Coups et blessures volontaires
+2019,R52,Pays de la Loire,1761.0,Coups et blessures volontaires
+2019,R53,Bretagne,1294.0,Coups et blessures volontaires
+2019,R75,Nouvelle-Aquitaine,2970.0,Coups et blessures volontaires
+2019,R76,Occitanie,3286.0,Coups et blessures volontaires
+2019,R84,Auvergne-RA,5095.0,Coups et blessures volontaires
+2019,R93,PACA,3272.0,Coups et blessures volontaires
+2019,R94,Corse,135.0,Coups et blessures volontaires
+2019,R987,Polynésie,246.0,Coups et blessures volontaires
+2019,R988,Nouvelle-Calédonie,471.0,Coups et blessures volontaires
+2020,R01,Guadeloupe,332.0,Coups et blessures volontaires
+2020,R02,Martinique,215.0,Coups et blessures volontaires
+2020,R03,Guyane,283.0,Coups et blessures volontaires
+2020,R04,La Réunion,224.0,Coups et blessures volontaires
+2020,R06,Mayotte,91.0,Coups et blessures volontaires
+2020,R11,Île-de-France,11709.0,Coups et blessures volontaires
+2020,R24,Centre-Val de Loire,927.0,Coups et blessures volontaires
+2020,R27,Bourgogne-FC,952.0,Coups et blessures volontaires
+2020,R28,Normandie,1146.0,Coups et blessures volontaires
+2020,R32,Hauts-de-France,2562.0,Coups et blessures volontaires
+2020,R44,Grand Est,2248.0,Coups et blessures volontaires
+2020,R52,Pays de la Loire,1746.0,Coups et blessures volontaires
+2020,R53,Bretagne,1006.0,Coups et blessures volontaires
+2020,R75,Nouvelle-Aquitaine,2619.0,Coups et blessures volontaires
+2020,R76,Occitanie,3129.0,Coups et blessures volontaires
+2020,R84,Auvergne-RA,3895.0,Coups et blessures volontaires
+2020,R93,PACA,2597.0,Coups et blessures volontaires
+2020,R94,Corse,142.0,Coups et blessures volontaires
+2020,R987,Polynésie,214.0,Coups et blessures volontaires
+2020,R988,Nouvelle-Calédonie,340.0,Coups et blessures volontaires
+2021,R01,Guadeloupe,332.0,Coups et blessures volontaires
+2021,R02,Martinique,184.0,Coups et blessures volontaires
+2021,R03,Guyane,264.0,Coups et blessures volontaires
+2021,R04,La Réunion,212.0,Coups et blessures volontaires
+2021,R06,Mayotte,120.0,Coups et blessures volontaires
+2021,R11,Île-de-France,11664.0,Coups et blessures volontaires
+2021,R24,Centre-Val de Loire,857.0,Coups et blessures volontaires
+2021,R27,Bourgogne-FC,985.0,Coups et blessures volontaires
+2021,R28,Normandie,1049.0,Coups et blessures volontaires
+2021,R32,Hauts-de-France,2432.0,Coups et blessures volontaires
+2021,R44,Grand Est,2125.0,Coups et blessures volontaires
+2021,R52,Pays de la Loire,1440.0,Coups et blessures volontaires
+2021,R53,Bretagne,853.0,Coups et blessures volontaires
+2021,R75,Nouvelle-Aquitaine,2356.0,Coups et blessures volontaires
+2021,R76,Occitanie,3110.0,Coups et blessures volontaires
+2021,R84,Auvergne-RA,4280.0,Coups et blessures volontaires
+2021,R93,PACA,2675.0,Coups et blessures volontaires
+2021,R94,Corse,131.0,Coups et blessures volontaires
+2021,R987,Polynésie,148.0,Coups et blessures volontaires
+2021,R988,Nouvelle-Calédonie,292.0,Coups et blessures volontaires
+2012,R01,Guadeloupe,100.0,Violences sexuelles
+2012,R02,Martinique,150.0,Violences sexuelles
+2012,R03,Guyane,122.0,Violences sexuelles
+2012,R04,La Réunion,224.0,Violences sexuelles
+2012,R06,Mayotte,13.0,Violences sexuelles
+2012,R11,Île-de-France,2114.0,Violences sexuelles
+2012,R24,Centre-Val de Loire,373.0,Violences sexuelles
+2012,R27,Bourgogne-FC,440.0,Violences sexuelles
+2012,R28,Normandie,506.0,Violences sexuelles
+2012,R32,Hauts-de-France,1166.0,Violences sexuelles
+2012,R44,Grand Est,778.0,Violences sexuelles
+2012,R52,Pays de la Loire,615.0,Violences sexuelles
+2012,R53,Bretagne,387.0,Violences sexuelles
+2012,R75,Nouvelle-Aquitaine,850.0,Violences sexuelles
+2012,R76,Occitanie,929.0,Violences sexuelles
+2012,R84,Auvergne-RA,1232.0,Violences sexuelles
+2012,R93,PACA,683.0,Violences sexuelles
+2012,R94,Corse,44.0,Violences sexuelles
+2012,R987,Polynésie,83.0,Violences sexuelles
+2012,R988,Nouvelle-Calédonie,62.0,Violences sexuelles
+2013,R01,Guadeloupe,133.0,Violences sexuelles
+2013,R02,Martinique,122.0,Violences sexuelles
+2013,R03,Guyane,160.0,Violences sexuelles
+2013,R04,La Réunion,214.0,Violences sexuelles
+2013,R06,Mayotte,6.0,Violences sexuelles
+2013,R11,Île-de-France,2046.0,Violences sexuelles
+2013,R24,Centre-Val de Loire,426.0,Violences sexuelles
+2013,R27,Bourgogne-FC,442.0,Violences sexuelles
+2013,R28,Normandie,576.0,Violences sexuelles
+2013,R32,Hauts-de-France,1234.0,Violences sexuelles
+2013,R44,Grand Est,771.0,Violences sexuelles
+2013,R52,Pays de la Loire,628.0,Violences sexuelles
+2013,R53,Bretagne,436.0,Violences sexuelles
+2013,R75,Nouvelle-Aquitaine,1020.0,Violences sexuelles
+2013,R76,Occitanie,926.0,Violences sexuelles
+2013,R84,Auvergne-RA,1153.0,Violences sexuelles
+2013,R93,PACA,699.0,Violences sexuelles
+2013,R94,Corse,36.0,Violences sexuelles
+2013,R987,Polynésie,116.0,Violences sexuelles
+2013,R988,Nouvelle-Calédonie,58.0,Violences sexuelles
+2014,R01,Guadeloupe,104.0,Violences sexuelles
+2014,R02,Martinique,128.0,Violences sexuelles
+2014,R03,Guyane,142.0,Violences sexuelles
+2014,R04,La Réunion,203.0,Violences sexuelles
+2014,R06,Mayotte,14.0,Violences sexuelles
+2014,R11,Île-de-France,2256.0,Violences sexuelles
+2014,R24,Centre-Val de Loire,475.0,Violences sexuelles
+2014,R27,Bourgogne-FC,487.0,Violences sexuelles
+2014,R28,Normandie,532.0,Violences sexuelles
+2014,R32,Hauts-de-France,1202.0,Violences sexuelles
+2014,R44,Grand Est,931.0,Violences sexuelles
+2014,R52,Pays de la Loire,739.0,Violences sexuelles
+2014,R53,Bretagne,483.0,Violences sexuelles
+2014,R75,Nouvelle-Aquitaine,1059.0,Violences sexuelles
+2014,R76,Occitanie,997.0,Violences sexuelles
+2014,R84,Auvergne-RA,1296.0,Violences sexuelles
+2014,R93,PACA,851.0,Violences sexuelles
+2014,R94,Corse,28.0,Violences sexuelles
+2014,R987,Polynésie,91.0,Violences sexuelles
+2014,R988,Nouvelle-Calédonie,84.0,Violences sexuelles
+2015,R01,Guadeloupe,133.0,Violences sexuelles
+2015,R02,Martinique,127.0,Violences sexuelles
+2015,R03,Guyane,148.0,Violences sexuelles
+2015,R04,La Réunion,208.0,Violences sexuelles
+2015,R06,Mayotte,49.0,Violences sexuelles
+2015,R11,Île-de-France,2385.0,Violences sexuelles
+2015,R24,Centre-Val de Loire,550.0,Violences sexuelles
+2015,R27,Bourgogne-FC,590.0,Violences sexuelles
+2015,R28,Normandie,682.0,Violences sexuelles
+2015,R32,Hauts-de-France,1284.0,Violences sexuelles
+2015,R44,Grand Est,887.0,Violences sexuelles
+2015,R52,Pays de la Loire,757.0,Violences sexuelles
+2015,R53,Bretagne,470.0,Violences sexuelles
+2015,R75,Nouvelle-Aquitaine,1131.0,Violences sexuelles
+2015,R76,Occitanie,1032.0,Violences sexuelles
+2015,R84,Auvergne-RA,1302.0,Violences sexuelles
+2015,R93,PACA,897.0,Violences sexuelles
+2015,R94,Corse,43.0,Violences sexuelles
+2015,R987,Polynésie,76.0,Violences sexuelles
+2015,R988,Nouvelle-Calédonie,76.0,Violences sexuelles
+2016,R01,Guadeloupe,137.0,Violences sexuelles
+2016,R02,Martinique,125.0,Violences sexuelles
+2016,R03,Guyane,176.0,Violences sexuelles
+2016,R04,La Réunion,317.0,Violences sexuelles
+2016,R06,Mayotte,76.0,Violences sexuelles
+2016,R11,Île-de-France,2494.0,Violences sexuelles
+2016,R24,Centre-Val de Loire,598.0,Violences sexuelles
+2016,R27,Bourgogne-FC,496.0,Violences sexuelles
+2016,R28,Normandie,764.0,Violences sexuelles
+2016,R32,Hauts-de-France,1146.0,Violences sexuelles
+2016,R44,Grand Est,992.0,Violences sexuelles
+2016,R52,Pays de la Loire,827.0,Violences sexuelles
+2016,R53,Bretagne,631.0,Violences sexuelles
+2016,R75,Nouvelle-Aquitaine,1192.0,Violences sexuelles
+2016,R76,Occitanie,1143.0,Violences sexuelles
+2016,R84,Auvergne-RA,1303.0,Violences sexuelles
+2016,R93,PACA,904.0,Violences sexuelles
+2016,R94,Corse,66.0,Violences sexuelles
+2016,R987,Polynésie,96.0,Violences sexuelles
+2016,R988,Nouvelle-Calédonie,71.0,Violences sexuelles
+2017,R01,Guadeloupe,134.0,Violences sexuelles
+2017,R02,Martinique,136.0,Violences sexuelles
+2017,R03,Guyane,188.0,Violences sexuelles
+2017,R04,La Réunion,357.0,Violences sexuelles
+2017,R06,Mayotte,38.0,Violences sexuelles
+2017,R11,Île-de-France,3369.0,Violences sexuelles
+2017,R24,Centre-Val de Loire,653.0,Violences sexuelles
+2017,R27,Bourgogne-FC,649.0,Violences sexuelles
+2017,R28,Normandie,939.0,Violences sexuelles
+2017,R32,Hauts-de-France,1658.0,Violences sexuelles
+2017,R44,Grand Est,1225.0,Violences sexuelles
+2017,R52,Pays de la Loire,946.0,Violences sexuelles
+2017,R53,Bretagne,655.0,Violences sexuelles
+2017,R75,Nouvelle-Aquitaine,1482.0,Violences sexuelles
+2017,R76,Occitanie,1425.0,Violences sexuelles
+2017,R84,Auvergne-RA,1747.0,Violences sexuelles
+2017,R93,PACA,1104.0,Violences sexuelles
+2017,R94,Corse,56.0,Violences sexuelles
+2017,R987,Polynésie,81.0,Violences sexuelles
+2017,R988,Nouvelle-Calédonie,113.0,Violences sexuelles
+2018,R01,Guadeloupe,139.0,Violences sexuelles
+2018,R02,Martinique,147.0,Violences sexuelles
+2018,R03,Guyane,203.0,Violences sexuelles
+2018,R04,La Réunion,358.0,Violences sexuelles
+2018,R06,Mayotte,46.0,Violences sexuelles
+2018,R11,Île-de-France,3909.0,Violences sexuelles
+2018,R24,Centre-Val de Loire,811.0,Violences sexuelles
+2018,R27,Bourgogne-FC,784.0,Violences sexuelles
+2018,R28,Normandie,1100.0,Violences sexuelles
+2018,R32,Hauts-de-France,1932.0,Violences sexuelles
+2018,R44,Grand Est,1414.0,Violences sexuelles
+2018,R52,Pays de la Loire,1090.0,Violences sexuelles
+2018,R53,Bretagne,834.0,Violences sexuelles
+2018,R75,Nouvelle-Aquitaine,1761.0,Violences sexuelles
+2018,R76,Occitanie,1586.0,Violences sexuelles
+2018,R84,Auvergne-RA,2084.0,Violences sexuelles
+2018,R93,PACA,1366.0,Violences sexuelles
+2018,R94,Corse,61.0,Violences sexuelles
+2018,R987,Polynésie,120.0,Violences sexuelles
+2018,R988,Nouvelle-Calédonie,104.0,Violences sexuelles
+2019,R01,Guadeloupe,161.0,Violences sexuelles
+2019,R02,Martinique,184.0,Violences sexuelles
+2019,R03,Guyane,254.0,Violences sexuelles
+2019,R04,La Réunion,411.0,Violences sexuelles
+2019,R06,Mayotte,52.0,Violences sexuelles
+2019,R11,Île-de-France,4522.0,Violences sexuelles
+2019,R24,Centre-Val de Loire,956.0,Violences sexuelles
+2019,R27,Bourgogne-FC,897.0,Violences sexuelles
+2019,R28,Normandie,1306.0,Violences sexuelles
+2019,R32,Hauts-de-France,2362.0,Violences sexuelles
+2019,R44,Grand Est,1698.0,Violences sexuelles
+2019,R52,Pays de la Loire,1366.0,Violences sexuelles
+2019,R53,Bretagne,1082.0,Violences sexuelles
+2019,R75,Nouvelle-Aquitaine,2019.0,Violences sexuelles
+2019,R76,Occitanie,1936.0,Violences sexuelles
+2019,R84,Auvergne-RA,2468.0,Violences sexuelles
+2019,R93,PACA,1538.0,Violences sexuelles
+2019,R94,Corse,80.0,Violences sexuelles
+2019,R987,Polynésie,111.0,Violences sexuelles
+2019,R988,Nouvelle-Calédonie,115.0,Violences sexuelles
+2020,R01,Guadeloupe,170.0,Violences sexuelles
+2020,R02,Martinique,187.0,Violences sexuelles
+2020,R03,Guyane,270.0,Violences sexuelles
+2020,R04,La Réunion,448.0,Violences sexuelles
+2020,R06,Mayotte,48.0,Violences sexuelles
+2020,R11,Île-de-France,4744.0,Violences sexuelles
+2020,R24,Centre-Val de Loire,1127.0,Violences sexuelles
+2020,R27,Bourgogne-FC,990.0,Violences sexuelles
+2020,R28,Normandie,1557.0,Violences sexuelles
+2020,R32,Hauts-de-France,2480.0,Violences sexuelles
+2020,R44,Grand Est,1891.0,Violences sexuelles
+2020,R52,Pays de la Loire,1511.0,Violences sexuelles
+2020,R53,Bretagne,1353.0,Violences sexuelles
+2020,R75,Nouvelle-Aquitaine,2386.0,Violences sexuelles
+2020,R76,Occitanie,2130.0,Violences sexuelles
+2020,R84,Auvergne-RA,2787.0,Violences sexuelles
+2020,R93,PACA,1655.0,Violences sexuelles
+2020,R94,Corse,102.0,Violences sexuelles
+2020,R987,Polynésie,99.0,Violences sexuelles
+2020,R988,Nouvelle-Calédonie,136.0,Violences sexuelles
+2021,R01,Guadeloupe,228.0,Violences sexuelles
+2021,R02,Martinique,257.0,Violences sexuelles
+2021,R03,Guyane,325.0,Violences sexuelles
+2021,R04,La Réunion,566.0,Violences sexuelles
+2021,R06,Mayotte,161.0,Violences sexuelles
+2021,R11,Île-de-France,6378.0,Violences sexuelles
+2021,R24,Centre-Val de Loire,1467.0,Violences sexuelles
+2021,R27,Bourgogne-FC,1213.0,Violences sexuelles
+2021,R28,Normandie,1892.0,Violences sexuelles
+2021,R32,Hauts-de-France,3271.0,Violences sexuelles
+2021,R44,Grand Est,2514.0,Violences sexuelles
+2021,R52,Pays de la Loire,2078.0,Violences sexuelles
+2021,R53,Bretagne,1812.0,Violences sexuelles
+2021,R75,Nouvelle-Aquitaine,3196.0,Violences sexuelles
+2021,R76,Occitanie,2947.0,Violences sexuelles
+2021,R84,Auvergne-RA,3577.0,Violences sexuelles
+2021,R93,PACA,2218.0,Violences sexuelles
+2021,R94,Corse,112.0,Violences sexuelles
+2021,R987,Polynésie,144.0,Violences sexuelles
+2021,R988,Nouvelle-Calédonie,186.0,Violences sexuelles
+2012,R01,Guadeloupe,60.0,Vols avec armes
+2012,R02,Martinique,39.0,Vols avec armes
+2012,R03,Guyane,33.0,Vols avec armes
+2012,R04,La Réunion,11.0,Vols avec armes
+2012,R06,Mayotte,0.0,Vols avec armes
+2012,R11,Île-de-France,872.0,Vols avec armes
+2012,R24,Centre-Val de Loire,92.0,Vols avec armes
+2012,R27,Bourgogne-FC,110.0,Vols avec armes
+2012,R28,Normandie,87.0,Vols avec armes
+2012,R32,Hauts-de-France,393.0,Vols avec armes
+2012,R44,Grand Est,215.0,Vols avec armes
+2012,R52,Pays de la Loire,64.0,Vols avec armes
+2012,R53,Bretagne,79.0,Vols avec armes
+2012,R75,Nouvelle-Aquitaine,124.0,Vols avec armes
+2012,R76,Occitanie,306.0,Vols avec armes
+2012,R84,Auvergne-RA,381.0,Vols avec armes
+2012,R93,PACA,574.0,Vols avec armes
+2012,R94,Corse,18.0,Vols avec armes
+2012,R987,Polynésie,0.0,Vols avec armes
+2012,R988,Nouvelle-Calédonie,0.0,Vols avec armes
+2013,R01,Guadeloupe,109.0,Vols avec armes
+2013,R02,Martinique,48.0,Vols avec armes
+2013,R03,Guyane,43.0,Vols avec armes
+2013,R04,La Réunion,15.0,Vols avec armes
+2013,R06,Mayotte,0.0,Vols avec armes
+2013,R11,Île-de-France,864.0,Vols avec armes
+2013,R24,Centre-Val de Loire,103.0,Vols avec armes
+2013,R27,Bourgogne-FC,83.0,Vols avec armes
+2013,R28,Normandie,103.0,Vols avec armes
+2013,R32,Hauts-de-France,417.0,Vols avec armes
+2013,R44,Grand Est,176.0,Vols avec armes
+2013,R52,Pays de la Loire,85.0,Vols avec armes
+2013,R53,Bretagne,65.0,Vols avec armes
+2013,R75,Nouvelle-Aquitaine,143.0,Vols avec armes
+2013,R76,Occitanie,254.0,Vols avec armes
+2013,R84,Auvergne-RA,345.0,Vols avec armes
+2013,R93,PACA,596.0,Vols avec armes
+2013,R94,Corse,17.0,Vols avec armes
+2013,R987,Polynésie,0.0,Vols avec armes
+2013,R988,Nouvelle-Calédonie,0.0,Vols avec armes
+2014,R01,Guadeloupe,50.0,Vols avec armes
+2014,R02,Martinique,35.0,Vols avec armes
+2014,R03,Guyane,53.0,Vols avec armes
+2014,R04,La Réunion,5.0,Vols avec armes
+2014,R06,Mayotte,2.0,Vols avec armes
+2014,R11,Île-de-France,754.0,Vols avec armes
+2014,R24,Centre-Val de Loire,72.0,Vols avec armes
+2014,R27,Bourgogne-FC,94.0,Vols avec armes
+2014,R28,Normandie,83.0,Vols avec armes
+2014,R32,Hauts-de-France,347.0,Vols avec armes
+2014,R44,Grand Est,138.0,Vols avec armes
+2014,R52,Pays de la Loire,79.0,Vols avec armes
+2014,R53,Bretagne,53.0,Vols avec armes
+2014,R75,Nouvelle-Aquitaine,110.0,Vols avec armes
+2014,R76,Occitanie,204.0,Vols avec armes
+2014,R84,Auvergne-RA,265.0,Vols avec armes
+2014,R93,PACA,359.0,Vols avec armes
+2014,R94,Corse,27.0,Vols avec armes
+2014,R987,Polynésie,0.0,Vols avec armes
+2014,R988,Nouvelle-Calédonie,1.0,Vols avec armes
+2015,R01,Guadeloupe,116.0,Vols avec armes
+2015,R02,Martinique,26.0,Vols avec armes
+2015,R03,Guyane,41.0,Vols avec armes
+2015,R04,La Réunion,14.0,Vols avec armes
+2015,R06,Mayotte,8.0,Vols avec armes
+2015,R11,Île-de-France,689.0,Vols avec armes
+2015,R24,Centre-Val de Loire,64.0,Vols avec armes
+2015,R27,Bourgogne-FC,78.0,Vols avec armes
+2015,R28,Normandie,58.0,Vols avec armes
+2015,R32,Hauts-de-France,253.0,Vols avec armes
+2015,R44,Grand Est,99.0,Vols avec armes
+2015,R52,Pays de la Loire,88.0,Vols avec armes
+2015,R53,Bretagne,41.0,Vols avec armes
+2015,R75,Nouvelle-Aquitaine,95.0,Vols avec armes
+2015,R76,Occitanie,145.0,Vols avec armes
+2015,R84,Auvergne-RA,223.0,Vols avec armes
+2015,R93,PACA,283.0,Vols avec armes
+2015,R94,Corse,5.0,Vols avec armes
+2015,R987,Polynésie,1.0,Vols avec armes
+2015,R988,Nouvelle-Calédonie,5.0,Vols avec armes
+2016,R01,Guadeloupe,180.0,Vols avec armes
+2016,R02,Martinique,25.0,Vols avec armes
+2016,R03,Guyane,57.0,Vols avec armes
+2016,R04,La Réunion,11.0,Vols avec armes
+2016,R06,Mayotte,5.0,Vols avec armes
+2016,R11,Île-de-France,511.0,Vols avec armes
+2016,R24,Centre-Val de Loire,25.0,Vols avec armes
+2016,R27,Bourgogne-FC,57.0,Vols avec armes
+2016,R28,Normandie,46.0,Vols avec armes
+2016,R32,Hauts-de-France,128.0,Vols avec armes
+2016,R44,Grand Est,65.0,Vols avec armes
+2016,R52,Pays de la Loire,47.0,Vols avec armes
+2016,R53,Bretagne,34.0,Vols avec armes
+2016,R75,Nouvelle-Aquitaine,70.0,Vols avec armes
+2016,R76,Occitanie,76.0,Vols avec armes
+2016,R84,Auvergne-RA,194.0,Vols avec armes
+2016,R93,PACA,153.0,Vols avec armes
+2016,R94,Corse,10.0,Vols avec armes
+2016,R987,Polynésie,0.0,Vols avec armes
+2016,R988,Nouvelle-Calédonie,1.0,Vols avec armes
+2017,R01,Guadeloupe,121.0,Vols avec armes
+2017,R02,Martinique,24.0,Vols avec armes
+2017,R03,Guyane,33.0,Vols avec armes
+2017,R04,La Réunion,9.0,Vols avec armes
+2017,R06,Mayotte,1.0,Vols avec armes
+2017,R11,Île-de-France,353.0,Vols avec armes
+2017,R24,Centre-Val de Loire,21.0,Vols avec armes
+2017,R27,Bourgogne-FC,46.0,Vols avec armes
+2017,R28,Normandie,35.0,Vols avec armes
+2017,R32,Hauts-de-France,114.0,Vols avec armes
+2017,R44,Grand Est,56.0,Vols avec armes
+2017,R52,Pays de la Loire,45.0,Vols avec armes
+2017,R53,Bretagne,25.0,Vols avec armes
+2017,R75,Nouvelle-Aquitaine,77.0,Vols avec armes
+2017,R76,Occitanie,92.0,Vols avec armes
+2017,R84,Auvergne-RA,192.0,Vols avec armes
+2017,R93,PACA,165.0,Vols avec armes
+2017,R94,Corse,16.0,Vols avec armes
+2017,R987,Polynésie,0.0,Vols avec armes
+2017,R988,Nouvelle-Calédonie,0.0,Vols avec armes
+2018,R01,Guadeloupe,70.0,Vols avec armes
+2018,R02,Martinique,3.0,Vols avec armes
+2018,R03,Guyane,35.0,Vols avec armes
+2018,R04,La Réunion,10.0,Vols avec armes
+2018,R06,Mayotte,1.0,Vols avec armes
+2018,R11,Île-de-France,267.0,Vols avec armes
+2018,R24,Centre-Val de Loire,21.0,Vols avec armes
+2018,R27,Bourgogne-FC,36.0,Vols avec armes
+2018,R28,Normandie,24.0,Vols avec armes
+2018,R32,Hauts-de-France,94.0,Vols avec armes
+2018,R44,Grand Est,48.0,Vols avec armes
+2018,R52,Pays de la Loire,34.0,Vols avec armes
+2018,R53,Bretagne,21.0,Vols avec armes
+2018,R75,Nouvelle-Aquitaine,51.0,Vols avec armes
+2018,R76,Occitanie,63.0,Vols avec armes
+2018,R84,Auvergne-RA,147.0,Vols avec armes
+2018,R93,PACA,146.0,Vols avec armes
+2018,R94,Corse,7.0,Vols avec armes
+2018,R987,Polynésie,0.0,Vols avec armes
+2018,R988,Nouvelle-Calédonie,2.0,Vols avec armes
+2019,R01,Guadeloupe,81.0,Vols avec armes
+2019,R02,Martinique,13.0,Vols avec armes
+2019,R03,Guyane,20.0,Vols avec armes
+2019,R04,La Réunion,7.0,Vols avec armes
+2019,R06,Mayotte,0.0,Vols avec armes
+2019,R11,Île-de-France,216.0,Vols avec armes
+2019,R24,Centre-Val de Loire,9.0,Vols avec armes
+2019,R27,Bourgogne-FC,67.0,Vols avec armes
+2019,R28,Normandie,17.0,Vols avec armes
+2019,R32,Hauts-de-France,112.0,Vols avec armes
+2019,R44,Grand Est,40.0,Vols avec armes
+2019,R52,Pays de la Loire,24.0,Vols avec armes
+2019,R53,Bretagne,24.0,Vols avec armes
+2019,R75,Nouvelle-Aquitaine,39.0,Vols avec armes
+2019,R76,Occitanie,62.0,Vols avec armes
+2019,R84,Auvergne-RA,132.0,Vols avec armes
+2019,R93,PACA,141.0,Vols avec armes
+2019,R94,Corse,6.0,Vols avec armes
+2019,R987,Polynésie,1.0,Vols avec armes
+2019,R988,Nouvelle-Calédonie,0.0,Vols avec armes
+2020,R01,Guadeloupe,72.0,Vols avec armes
+2020,R02,Martinique,18.0,Vols avec armes
+2020,R03,Guyane,32.0,Vols avec armes
+2020,R04,La Réunion,1.0,Vols avec armes
+2020,R06,Mayotte,1.0,Vols avec armes
+2020,R11,Île-de-France,132.0,Vols avec armes
+2020,R24,Centre-Val de Loire,26.0,Vols avec armes
+2020,R27,Bourgogne-FC,40.0,Vols avec armes
+2020,R28,Normandie,23.0,Vols avec armes
+2020,R32,Hauts-de-France,66.0,Vols avec armes
+2020,R44,Grand Est,43.0,Vols avec armes
+2020,R52,Pays de la Loire,27.0,Vols avec armes
+2020,R53,Bretagne,36.0,Vols avec armes
+2020,R75,Nouvelle-Aquitaine,54.0,Vols avec armes
+2020,R76,Occitanie,51.0,Vols avec armes
+2020,R84,Auvergne-RA,117.0,Vols avec armes
+2020,R93,PACA,102.0,Vols avec armes
+2020,R94,Corse,4.0,Vols avec armes
+2020,R987,Polynésie,2.0,Vols avec armes
+2020,R988,Nouvelle-Calédonie,0.0,Vols avec armes
+2021,R01,Guadeloupe,53.0,Vols avec armes
+2021,R02,Martinique,11.0,Vols avec armes
+2021,R03,Guyane,33.0,Vols avec armes
+2021,R04,La Réunion,3.0,Vols avec armes
+2021,R06,Mayotte,2.0,Vols avec armes
+2021,R11,Île-de-France,119.0,Vols avec armes
+2021,R24,Centre-Val de Loire,20.0,Vols avec armes
+2021,R27,Bourgogne-FC,20.0,Vols avec armes
+2021,R28,Normandie,17.0,Vols avec armes
+2021,R32,Hauts-de-France,36.0,Vols avec armes
+2021,R44,Grand Est,34.0,Vols avec armes
+2021,R52,Pays de la Loire,22.0,Vols avec armes
+2021,R53,Bretagne,15.0,Vols avec armes
+2021,R75,Nouvelle-Aquitaine,34.0,Vols avec armes
+2021,R76,Occitanie,39.0,Vols avec armes
+2021,R84,Auvergne-RA,74.0,Vols avec armes
+2021,R93,PACA,76.0,Vols avec armes
+2021,R94,Corse,3.0,Vols avec armes
+2021,R987,Polynésie,0.0,Vols avec armes
+2021,R988,Nouvelle-Calédonie,1.0,Vols avec armes
+2012,R01,Guadeloupe,24.0,Vols violents sans arme
+2012,R02,Martinique,16.0,Vols violents sans arme
+2012,R03,Guyane,38.0,Vols violents sans arme
+2012,R04,La Réunion,3.0,Vols violents sans arme
+2012,R06,Mayotte,0.0,Vols violents sans arme
+2012,R11,Île-de-France,153.0,Vols violents sans arme
+2012,R24,Centre-Val de Loire,16.0,Vols violents sans arme
+2012,R27,Bourgogne-FC,24.0,Vols violents sans arme
+2012,R28,Normandie,18.0,Vols violents sans arme
+2012,R32,Hauts-de-France,55.0,Vols violents sans arme
+2012,R44,Grand Est,39.0,Vols violents sans arme
+2012,R52,Pays de la Loire,12.0,Vols violents sans arme
+2012,R53,Bretagne,8.0,Vols violents sans arme
+2012,R75,Nouvelle-Aquitaine,30.0,Vols violents sans arme
+2012,R76,Occitanie,87.0,Vols violents sans arme
+2012,R84,Auvergne-RA,73.0,Vols violents sans arme
+2012,R93,PACA,137.0,Vols violents sans arme
+2012,R94,Corse,11.0,Vols violents sans arme
+2012,R987,Polynésie,0.0,Vols violents sans arme
+2012,R988,Nouvelle-Calédonie,0.0,Vols violents sans arme
+2013,R01,Guadeloupe,31.0,Vols violents sans arme
+2013,R02,Martinique,14.0,Vols violents sans arme
+2013,R03,Guyane,26.0,Vols violents sans arme
+2013,R04,La Réunion,7.0,Vols violents sans arme
+2013,R06,Mayotte,0.0,Vols violents sans arme
+2013,R11,Île-de-France,203.0,Vols violents sans arme
+2013,R24,Centre-Val de Loire,19.0,Vols violents sans arme
+2013,R27,Bourgogne-FC,18.0,Vols violents sans arme
+2013,R28,Normandie,19.0,Vols violents sans arme
+2013,R32,Hauts-de-France,84.0,Vols violents sans arme
+2013,R44,Grand Est,27.0,Vols violents sans arme
+2013,R52,Pays de la Loire,17.0,Vols violents sans arme
+2013,R53,Bretagne,14.0,Vols violents sans arme
+2013,R75,Nouvelle-Aquitaine,27.0,Vols violents sans arme
+2013,R76,Occitanie,80.0,Vols violents sans arme
+2013,R84,Auvergne-RA,84.0,Vols violents sans arme
+2013,R93,PACA,143.0,Vols violents sans arme
+2013,R94,Corse,15.0,Vols violents sans arme
+2013,R987,Polynésie,0.0,Vols violents sans arme
+2013,R988,Nouvelle-Calédonie,0.0,Vols violents sans arme
+2014,R01,Guadeloupe,27.0,Vols violents sans arme
+2014,R02,Martinique,10.0,Vols violents sans arme
+2014,R03,Guyane,31.0,Vols violents sans arme
+2014,R04,La Réunion,0.0,Vols violents sans arme
+2014,R06,Mayotte,4.0,Vols violents sans arme
+2014,R11,Île-de-France,212.0,Vols violents sans arme
+2014,R24,Centre-Val de Loire,25.0,Vols violents sans arme
+2014,R27,Bourgogne-FC,28.0,Vols violents sans arme
+2014,R28,Normandie,17.0,Vols violents sans arme
+2014,R32,Hauts-de-France,75.0,Vols violents sans arme
+2014,R44,Grand Est,30.0,Vols violents sans arme
+2014,R52,Pays de la Loire,26.0,Vols violents sans arme
+2014,R53,Bretagne,9.0,Vols violents sans arme
+2014,R75,Nouvelle-Aquitaine,35.0,Vols violents sans arme
+2014,R76,Occitanie,58.0,Vols violents sans arme
+2014,R84,Auvergne-RA,67.0,Vols violents sans arme
+2014,R93,PACA,134.0,Vols violents sans arme
+2014,R94,Corse,9.0,Vols violents sans arme
+2014,R987,Polynésie,0.0,Vols violents sans arme
+2014,R988,Nouvelle-Calédonie,0.0,Vols violents sans arme
+2015,R01,Guadeloupe,36.0,Vols violents sans arme
+2015,R02,Martinique,5.0,Vols violents sans arme
+2015,R03,Guyane,49.0,Vols violents sans arme
+2015,R04,La Réunion,2.0,Vols violents sans arme
+2015,R06,Mayotte,4.0,Vols violents sans arme
+2015,R11,Île-de-France,287.0,Vols violents sans arme
+2015,R24,Centre-Val de Loire,20.0,Vols violents sans arme
+2015,R27,Bourgogne-FC,14.0,Vols violents sans arme
+2015,R28,Normandie,10.0,Vols violents sans arme
+2015,R32,Hauts-de-France,75.0,Vols violents sans arme
+2015,R44,Grand Est,41.0,Vols violents sans arme
+2015,R52,Pays de la Loire,22.0,Vols violents sans arme
+2015,R53,Bretagne,20.0,Vols violents sans arme
+2015,R75,Nouvelle-Aquitaine,40.0,Vols violents sans arme
+2015,R76,Occitanie,87.0,Vols violents sans arme
+2015,R84,Auvergne-RA,56.0,Vols violents sans arme
+2015,R93,PACA,127.0,Vols violents sans arme
+2015,R94,Corse,2.0,Vols violents sans arme
+2015,R987,Polynésie,2.0,Vols violents sans arme
+2015,R988,Nouvelle-Calédonie,2.0,Vols violents sans arme
+2016,R01,Guadeloupe,47.0,Vols violents sans arme
+2016,R02,Martinique,12.0,Vols violents sans arme
+2016,R03,Guyane,36.0,Vols violents sans arme
+2016,R04,La Réunion,2.0,Vols violents sans arme
+2016,R06,Mayotte,1.0,Vols violents sans arme
+2016,R11,Île-de-France,190.0,Vols violents sans arme
+2016,R24,Centre-Val de Loire,12.0,Vols violents sans arme
+2016,R27,Bourgogne-FC,13.0,Vols violents sans arme
+2016,R28,Normandie,17.0,Vols violents sans arme
+2016,R32,Hauts-de-France,52.0,Vols violents sans arme
+2016,R44,Grand Est,27.0,Vols violents sans arme
+2016,R52,Pays de la Loire,27.0,Vols violents sans arme
+2016,R53,Bretagne,20.0,Vols violents sans arme
+2016,R75,Nouvelle-Aquitaine,36.0,Vols violents sans arme
+2016,R76,Occitanie,51.0,Vols violents sans arme
+2016,R84,Auvergne-RA,44.0,Vols violents sans arme
+2016,R93,PACA,86.0,Vols violents sans arme
+2016,R94,Corse,15.0,Vols violents sans arme
+2016,R987,Polynésie,0.0,Vols violents sans arme
+2016,R988,Nouvelle-Calédonie,1.0,Vols violents sans arme
+2017,R01,Guadeloupe,45.0,Vols violents sans arme
+2017,R02,Martinique,7.0,Vols violents sans arme
+2017,R03,Guyane,29.0,Vols violents sans arme
+2017,R04,La Réunion,7.0,Vols violents sans arme
+2017,R06,Mayotte,0.0,Vols violents sans arme
+2017,R11,Île-de-France,176.0,Vols violents sans arme
+2017,R24,Centre-Val de Loire,19.0,Vols violents sans arme
+2017,R27,Bourgogne-FC,17.0,Vols violents sans arme
+2017,R28,Normandie,12.0,Vols violents sans arme
+2017,R32,Hauts-de-France,57.0,Vols violents sans arme
+2017,R44,Grand Est,19.0,Vols violents sans arme
+2017,R52,Pays de la Loire,9.0,Vols violents sans arme
+2017,R53,Bretagne,15.0,Vols violents sans arme
+2017,R75,Nouvelle-Aquitaine,29.0,Vols violents sans arme
+2017,R76,Occitanie,60.0,Vols violents sans arme
+2017,R84,Auvergne-RA,62.0,Vols violents sans arme
+2017,R93,PACA,86.0,Vols violents sans arme
+2017,R94,Corse,5.0,Vols violents sans arme
+2017,R987,Polynésie,0.0,Vols violents sans arme
+2017,R988,Nouvelle-Calédonie,0.0,Vols violents sans arme
+2018,R01,Guadeloupe,24.0,Vols violents sans arme
+2018,R02,Martinique,13.0,Vols violents sans arme
+2018,R03,Guyane,42.0,Vols violents sans arme
+2018,R04,La Réunion,2.0,Vols violents sans arme
+2018,R06,Mayotte,0.0,Vols violents sans arme
+2018,R11,Île-de-France,135.0,Vols violents sans arme
+2018,R24,Centre-Val de Loire,6.0,Vols violents sans arme
+2018,R27,Bourgogne-FC,7.0,Vols violents sans arme
+2018,R28,Normandie,16.0,Vols violents sans arme
+2018,R32,Hauts-de-France,34.0,Vols violents sans arme
+2018,R44,Grand Est,21.0,Vols violents sans arme
+2018,R52,Pays de la Loire,17.0,Vols violents sans arme
+2018,R53,Bretagne,10.0,Vols violents sans arme
+2018,R75,Nouvelle-Aquitaine,27.0,Vols violents sans arme
+2018,R76,Occitanie,45.0,Vols violents sans arme
+2018,R84,Auvergne-RA,49.0,Vols violents sans arme
+2018,R93,PACA,88.0,Vols violents sans arme
+2018,R94,Corse,4.0,Vols violents sans arme
+2018,R987,Polynésie,0.0,Vols violents sans arme
+2018,R988,Nouvelle-Calédonie,0.0,Vols violents sans arme
+2019,R01,Guadeloupe,24.0,Vols violents sans arme
+2019,R02,Martinique,8.0,Vols violents sans arme
+2019,R03,Guyane,43.0,Vols violents sans arme
+2019,R04,La Réunion,3.0,Vols violents sans arme
+2019,R06,Mayotte,0.0,Vols violents sans arme
+2019,R11,Île-de-France,113.0,Vols violents sans arme
+2019,R24,Centre-Val de Loire,16.0,Vols violents sans arme
+2019,R27,Bourgogne-FC,13.0,Vols violents sans arme
+2019,R28,Normandie,15.0,Vols violents sans arme
+2019,R32,Hauts-de-France,42.0,Vols violents sans arme
+2019,R44,Grand Est,17.0,Vols violents sans arme
+2019,R52,Pays de la Loire,11.0,Vols violents sans arme
+2019,R53,Bretagne,9.0,Vols violents sans arme
+2019,R75,Nouvelle-Aquitaine,32.0,Vols violents sans arme
+2019,R76,Occitanie,45.0,Vols violents sans arme
+2019,R84,Auvergne-RA,45.0,Vols violents sans arme
+2019,R93,PACA,61.0,Vols violents sans arme
+2019,R94,Corse,7.0,Vols violents sans arme
+2019,R987,Polynésie,0.0,Vols violents sans arme
+2019,R988,Nouvelle-Calédonie,0.0,Vols violents sans arme
+2020,R01,Guadeloupe,18.0,Vols violents sans arme
+2020,R02,Martinique,15.0,Vols violents sans arme
+2020,R03,Guyane,51.0,Vols violents sans arme
+2020,R04,La Réunion,0.0,Vols violents sans arme
+2020,R06,Mayotte,1.0,Vols violents sans arme
+2020,R11,Île-de-France,119.0,Vols violents sans arme
+2020,R24,Centre-Val de Loire,15.0,Vols violents sans arme
+2020,R27,Bourgogne-FC,8.0,Vols violents sans arme
+2020,R28,Normandie,17.0,Vols violents sans arme
+2020,R32,Hauts-de-France,30.0,Vols violents sans arme
+2020,R44,Grand Est,23.0,Vols violents sans arme
+2020,R52,Pays de la Loire,16.0,Vols violents sans arme
+2020,R53,Bretagne,12.0,Vols violents sans arme
+2020,R75,Nouvelle-Aquitaine,28.0,Vols violents sans arme
+2020,R76,Occitanie,47.0,Vols violents sans arme
+2020,R84,Auvergne-RA,60.0,Vols violents sans arme
+2020,R93,PACA,55.0,Vols violents sans arme
+2020,R94,Corse,4.0,Vols violents sans arme
+2020,R987,Polynésie,0.0,Vols violents sans arme
+2020,R988,Nouvelle-Calédonie,1.0,Vols violents sans arme
+2021,R01,Guadeloupe,27.0,Vols violents sans arme
+2021,R02,Martinique,8.0,Vols violents sans arme
+2021,R03,Guyane,65.0,Vols violents sans arme
+2021,R04,La Réunion,3.0,Vols violents sans arme
+2021,R06,Mayotte,0.0,Vols violents sans arme
+2021,R11,Île-de-France,104.0,Vols violents sans arme
+2021,R24,Centre-Val de Loire,8.0,Vols violents sans arme
+2021,R27,Bourgogne-FC,16.0,Vols violents sans arme
+2021,R28,Normandie,14.0,Vols violents sans arme
+2021,R32,Hauts-de-France,34.0,Vols violents sans arme
+2021,R44,Grand Est,24.0,Vols violents sans arme
+2021,R52,Pays de la Loire,13.0,Vols violents sans arme
+2021,R53,Bretagne,9.0,Vols violents sans arme
+2021,R75,Nouvelle-Aquitaine,28.0,Vols violents sans arme
+2021,R76,Occitanie,28.0,Vols violents sans arme
+2021,R84,Auvergne-RA,35.0,Vols violents sans arme
+2021,R93,PACA,91.0,Vols violents sans arme
+2021,R94,Corse,2.0,Vols violents sans arme
+2021,R987,Polynésie,1.0,Vols violents sans arme
+2021,R988,Nouvelle-Calédonie,0.0,Vols violents sans arme
+2012,R01,Guadeloupe,1405.0,Vols sans violence contre des personnes
+2012,R02,Martinique,1163.0,Vols sans violence contre des personnes
+2012,R03,Guyane,1101.0,Vols sans violence contre des personnes
+2012,R04,La Réunion,881.0,Vols sans violence contre des personnes
+2012,R06,Mayotte,267.0,Vols sans violence contre des personnes
+2012,R11,Île-de-France,55046.0,Vols sans violence contre des personnes
+2012,R24,Centre-Val de Loire,2011.0,Vols sans violence contre des personnes
+2012,R27,Bourgogne-FC,1357.0,Vols sans violence contre des personnes
+2012,R28,Normandie,3122.0,Vols sans violence contre des personnes
+2012,R32,Hauts-de-France,7771.0,Vols sans violence contre des personnes
+2012,R44,Grand Est,4563.0,Vols sans violence contre des personnes
+2012,R52,Pays de la Loire,2173.0,Vols sans violence contre des personnes
+2012,R53,Bretagne,1590.0,Vols sans violence contre des personnes
+2012,R75,Nouvelle-Aquitaine,3861.0,Vols sans violence contre des personnes
+2012,R76,Occitanie,8565.0,Vols sans violence contre des personnes
+2012,R84,Auvergne-RA,7750.0,Vols sans violence contre des personnes
+2012,R93,PACA,19487.0,Vols sans violence contre des personnes
+2012,R94,Corse,212.0,Vols sans violence contre des personnes
+2012,R987,Polynésie,160.0,Vols sans violence contre des personnes
+2012,R988,Nouvelle-Calédonie,120.0,Vols sans violence contre des personnes
+2013,R01,Guadeloupe,1489.0,Vols sans violence contre des personnes
+2013,R02,Martinique,1333.0,Vols sans violence contre des personnes
+2013,R03,Guyane,1461.0,Vols sans violence contre des personnes
+2013,R04,La Réunion,988.0,Vols sans violence contre des personnes
+2013,R06,Mayotte,268.0,Vols sans violence contre des personnes
+2013,R11,Île-de-France,57205.0,Vols sans violence contre des personnes
+2013,R24,Centre-Val de Loire,2057.0,Vols sans violence contre des personnes
+2013,R27,Bourgogne-FC,1348.0,Vols sans violence contre des personnes
+2013,R28,Normandie,3314.0,Vols sans violence contre des personnes
+2013,R32,Hauts-de-France,8865.0,Vols sans violence contre des personnes
+2013,R44,Grand Est,4020.0,Vols sans violence contre des personnes
+2013,R52,Pays de la Loire,2108.0,Vols sans violence contre des personnes
+2013,R53,Bretagne,1694.0,Vols sans violence contre des personnes
+2013,R75,Nouvelle-Aquitaine,4024.0,Vols sans violence contre des personnes
+2013,R76,Occitanie,10317.0,Vols sans violence contre des personnes
+2013,R84,Auvergne-RA,8057.0,Vols sans violence contre des personnes
+2013,R93,PACA,16490.0,Vols sans violence contre des personnes
+2013,R94,Corse,180.0,Vols sans violence contre des personnes
+2013,R987,Polynésie,138.0,Vols sans violence contre des personnes
+2013,R988,Nouvelle-Calédonie,129.0,Vols sans violence contre des personnes
+2014,R01,Guadeloupe,1536.0,Vols sans violence contre des personnes
+2014,R02,Martinique,1175.0,Vols sans violence contre des personnes
+2014,R03,Guyane,1711.0,Vols sans violence contre des personnes
+2014,R04,La Réunion,1169.0,Vols sans violence contre des personnes
+2014,R06,Mayotte,337.0,Vols sans violence contre des personnes
+2014,R11,Île-de-France,51637.0,Vols sans violence contre des personnes
+2014,R24,Centre-Val de Loire,2202.0,Vols sans violence contre des personnes
+2014,R27,Bourgogne-FC,1517.0,Vols sans violence contre des personnes
+2014,R28,Normandie,2850.0,Vols sans violence contre des personnes
+2014,R32,Hauts-de-France,8420.0,Vols sans violence contre des personnes
+2014,R44,Grand Est,4016.0,Vols sans violence contre des personnes
+2014,R52,Pays de la Loire,1942.0,Vols sans violence contre des personnes
+2014,R53,Bretagne,2026.0,Vols sans violence contre des personnes
+2014,R75,Nouvelle-Aquitaine,3931.0,Vols sans violence contre des personnes
+2014,R76,Occitanie,8991.0,Vols sans violence contre des personnes
+2014,R84,Auvergne-RA,7973.0,Vols sans violence contre des personnes
+2014,R93,PACA,13134.0,Vols sans violence contre des personnes
+2014,R94,Corse,173.0,Vols sans violence contre des personnes
+2014,R987,Polynésie,184.0,Vols sans violence contre des personnes
+2014,R988,Nouvelle-Calédonie,134.0,Vols sans violence contre des personnes
+2015,R01,Guadeloupe,1682.0,Vols sans violence contre des personnes
+2015,R02,Martinique,808.0,Vols sans violence contre des personnes
+2015,R03,Guyane,2103.0,Vols sans violence contre des personnes
+2015,R04,La Réunion,1235.0,Vols sans violence contre des personnes
+2015,R06,Mayotte,668.0,Vols sans violence contre des personnes
+2015,R11,Île-de-France,46635.0,Vols sans violence contre des personnes
+2015,R24,Centre-Val de Loire,2006.0,Vols sans violence contre des personnes
+2015,R27,Bourgogne-FC,1470.0,Vols sans violence contre des personnes
+2015,R28,Normandie,2507.0,Vols sans violence contre des personnes
+2015,R32,Hauts-de-France,8349.0,Vols sans violence contre des personnes
+2015,R44,Grand Est,3883.0,Vols sans violence contre des personnes
+2015,R52,Pays de la Loire,2248.0,Vols sans violence contre des personnes
+2015,R53,Bretagne,2075.0,Vols sans violence contre des personnes
+2015,R75,Nouvelle-Aquitaine,3773.0,Vols sans violence contre des personnes
+2015,R76,Occitanie,8197.0,Vols sans violence contre des personnes
+2015,R84,Auvergne-RA,7849.0,Vols sans violence contre des personnes
+2015,R93,PACA,11031.0,Vols sans violence contre des personnes
+2015,R94,Corse,160.0,Vols sans violence contre des personnes
+2015,R987,Polynésie,172.0,Vols sans violence contre des personnes
+2015,R988,Nouvelle-Calédonie,135.0,Vols sans violence contre des personnes
+2016,R01,Guadeloupe,1602.0,Vols sans violence contre des personnes
+2016,R02,Martinique,820.0,Vols sans violence contre des personnes
+2016,R03,Guyane,2247.0,Vols sans violence contre des personnes
+2016,R04,La Réunion,1436.0,Vols sans violence contre des personnes
+2016,R06,Mayotte,758.0,Vols sans violence contre des personnes
+2016,R11,Île-de-France,46096.0,Vols sans violence contre des personnes
+2016,R24,Centre-Val de Loire,1877.0,Vols sans violence contre des personnes
+2016,R27,Bourgogne-FC,1192.0,Vols sans violence contre des personnes
+2016,R28,Normandie,2454.0,Vols sans violence contre des personnes
+2016,R32,Hauts-de-France,8115.0,Vols sans violence contre des personnes
+2016,R44,Grand Est,3281.0,Vols sans violence contre des personnes
+2016,R52,Pays de la Loire,2370.0,Vols sans violence contre des personnes
+2016,R53,Bretagne,1931.0,Vols sans violence contre des personnes
+2016,R75,Nouvelle-Aquitaine,3697.0,Vols sans violence contre des personnes
+2016,R76,Occitanie,7472.0,Vols sans violence contre des personnes
+2016,R84,Auvergne-RA,8023.0,Vols sans violence contre des personnes
+2016,R93,PACA,9921.0,Vols sans violence contre des personnes
+2016,R94,Corse,124.0,Vols sans violence contre des personnes
+2016,R987,Polynésie,115.0,Vols sans violence contre des personnes
+2016,R988,Nouvelle-Calédonie,139.0,Vols sans violence contre des personnes
+2017,R01,Guadeloupe,1143.0,Vols sans violence contre des personnes
+2017,R02,Martinique,756.0,Vols sans violence contre des personnes
+2017,R03,Guyane,1800.0,Vols sans violence contre des personnes
+2017,R04,La Réunion,1121.0,Vols sans violence contre des personnes
+2017,R06,Mayotte,515.0,Vols sans violence contre des personnes
+2017,R11,Île-de-France,44614.0,Vols sans violence contre des personnes
+2017,R24,Centre-Val de Loire,1715.0,Vols sans violence contre des personnes
+2017,R27,Bourgogne-FC,1303.0,Vols sans violence contre des personnes
+2017,R28,Normandie,2388.0,Vols sans violence contre des personnes
+2017,R32,Hauts-de-France,7258.0,Vols sans violence contre des personnes
+2017,R44,Grand Est,3375.0,Vols sans violence contre des personnes
+2017,R52,Pays de la Loire,2665.0,Vols sans violence contre des personnes
+2017,R53,Bretagne,1860.0,Vols sans violence contre des personnes
+2017,R75,Nouvelle-Aquitaine,3751.0,Vols sans violence contre des personnes
+2017,R76,Occitanie,7175.0,Vols sans violence contre des personnes
+2017,R84,Auvergne-RA,7837.0,Vols sans violence contre des personnes
+2017,R93,PACA,8601.0,Vols sans violence contre des personnes
+2017,R94,Corse,130.0,Vols sans violence contre des personnes
+2017,R987,Polynésie,109.0,Vols sans violence contre des personnes
+2017,R988,Nouvelle-Calédonie,157.0,Vols sans violence contre des personnes
+2018,R01,Guadeloupe,923.0,Vols sans violence contre des personnes
+2018,R02,Martinique,699.0,Vols sans violence contre des personnes
+2018,R03,Guyane,1238.0,Vols sans violence contre des personnes
+2018,R04,La Réunion,995.0,Vols sans violence contre des personnes
+2018,R06,Mayotte,284.0,Vols sans violence contre des personnes
+2018,R11,Île-de-France,40874.0,Vols sans violence contre des personnes
+2018,R24,Centre-Val de Loire,1664.0,Vols sans violence contre des personnes
+2018,R27,Bourgogne-FC,1159.0,Vols sans violence contre des personnes
+2018,R28,Normandie,2404.0,Vols sans violence contre des personnes
+2018,R32,Hauts-de-France,6819.0,Vols sans violence contre des personnes
+2018,R44,Grand Est,3073.0,Vols sans violence contre des personnes
+2018,R52,Pays de la Loire,2725.0,Vols sans violence contre des personnes
+2018,R53,Bretagne,1817.0,Vols sans violence contre des personnes
+2018,R75,Nouvelle-Aquitaine,3707.0,Vols sans violence contre des personnes
+2018,R76,Occitanie,6322.0,Vols sans violence contre des personnes
+2018,R84,Auvergne-RA,7426.0,Vols sans violence contre des personnes
+2018,R93,PACA,8463.0,Vols sans violence contre des personnes
+2018,R94,Corse,111.0,Vols sans violence contre des personnes
+2018,R987,Polynésie,121.0,Vols sans violence contre des personnes
+2018,R988,Nouvelle-Calédonie,172.0,Vols sans violence contre des personnes
+2019,R01,Guadeloupe,937.0,Vols sans violence contre des personnes
+2019,R02,Martinique,557.0,Vols sans violence contre des personnes
+2019,R03,Guyane,1496.0,Vols sans violence contre des personnes
+2019,R04,La Réunion,717.0,Vols sans violence contre des personnes
+2019,R06,Mayotte,319.0,Vols sans violence contre des personnes
+2019,R11,Île-de-France,40404.0,Vols sans violence contre des personnes
+2019,R24,Centre-Val de Loire,1596.0,Vols sans violence contre des personnes
+2019,R27,Bourgogne-FC,1070.0,Vols sans violence contre des personnes
+2019,R28,Normandie,2437.0,Vols sans violence contre des personnes
+2019,R32,Hauts-de-France,6327.0,Vols sans violence contre des personnes
+2019,R44,Grand Est,2909.0,Vols sans violence contre des personnes
+2019,R52,Pays de la Loire,3302.0,Vols sans violence contre des personnes
+2019,R53,Bretagne,1721.0,Vols sans violence contre des personnes
+2019,R75,Nouvelle-Aquitaine,3921.0,Vols sans violence contre des personnes
+2019,R76,Occitanie,5839.0,Vols sans violence contre des personnes
+2019,R84,Auvergne-RA,7118.0,Vols sans violence contre des personnes
+2019,R93,PACA,7968.0,Vols sans violence contre des personnes
+2019,R94,Corse,114.0,Vols sans violence contre des personnes
+2019,R987,Polynésie,126.0,Vols sans violence contre des personnes
+2019,R988,Nouvelle-Calédonie,198.0,Vols sans violence contre des personnes
+2020,R01,Guadeloupe,608.0,Vols sans violence contre des personnes
+2020,R02,Martinique,483.0,Vols sans violence contre des personnes
+2020,R03,Guyane,1310.0,Vols sans violence contre des personnes
+2020,R04,La Réunion,473.0,Vols sans violence contre des personnes
+2020,R06,Mayotte,452.0,Vols sans violence contre des personnes
+2020,R11,Île-de-France,33884.0,Vols sans violence contre des personnes
+2020,R24,Centre-Val de Loire,1191.0,Vols sans violence contre des personnes
+2020,R27,Bourgogne-FC,946.0,Vols sans violence contre des personnes
+2020,R28,Normandie,1804.0,Vols sans violence contre des personnes
+2020,R32,Hauts-de-France,4735.0,Vols sans violence contre des personnes
+2020,R44,Grand Est,2309.0,Vols sans violence contre des personnes
+2020,R52,Pays de la Loire,2500.0,Vols sans violence contre des personnes
+2020,R53,Bretagne,1372.0,Vols sans violence contre des personnes
+2020,R75,Nouvelle-Aquitaine,3279.0,Vols sans violence contre des personnes
+2020,R76,Occitanie,4529.0,Vols sans violence contre des personnes
+2020,R84,Auvergne-RA,6288.0,Vols sans violence contre des personnes
+2020,R93,PACA,6476.0,Vols sans violence contre des personnes
+2020,R94,Corse,66.0,Vols sans violence contre des personnes
+2020,R987,Polynésie,99.0,Vols sans violence contre des personnes
+2020,R988,Nouvelle-Calédonie,210.0,Vols sans violence contre des personnes
+2021,R01,Guadeloupe,475.0,Vols sans violence contre des personnes
+2021,R02,Martinique,512.0,Vols sans violence contre des personnes
+2021,R03,Guyane,1754.0,Vols sans violence contre des personnes
+2021,R04,La Réunion,449.0,Vols sans violence contre des personnes
+2021,R06,Mayotte,771.0,Vols sans violence contre des personnes
+2021,R11,Île-de-France,31098.0,Vols sans violence contre des personnes
+2021,R24,Centre-Val de Loire,1231.0,Vols sans violence contre des personnes
+2021,R27,Bourgogne-FC,939.0,Vols sans violence contre des personnes
+2021,R28,Normandie,1576.0,Vols sans violence contre des personnes
+2021,R32,Hauts-de-France,4487.0,Vols sans violence contre des personnes
+2021,R44,Grand Est,2090.0,Vols sans violence contre des personnes
+2021,R52,Pays de la Loire,2157.0,Vols sans violence contre des personnes
+2021,R53,Bretagne,1221.0,Vols sans violence contre des personnes
+2021,R75,Nouvelle-Aquitaine,2976.0,Vols sans violence contre des personnes
+2021,R76,Occitanie,4257.0,Vols sans violence contre des personnes
+2021,R84,Auvergne-RA,7057.0,Vols sans violence contre des personnes
+2021,R93,PACA,5987.0,Vols sans violence contre des personnes
+2021,R94,Corse,76.0,Vols sans violence contre des personnes
+2021,R987,Polynésie,89.0,Vols sans violence contre des personnes
+2021,R988,Nouvelle-Calédonie,167.0,Vols sans violence contre des personnes
+2012,R01,Guadeloupe,85.0,Destructions et dégradations volontaires
+2012,R02,Martinique,43.0,Destructions et dégradations volontaires
+2012,R03,Guyane,27.0,Destructions et dégradations volontaires
+2012,R04,La Réunion,323.0,Destructions et dégradations volontaires
+2012,R06,Mayotte,12.0,Destructions et dégradations volontaires
+2012,R11,Île-de-France,6055.0,Destructions et dégradations volontaires
+2012,R24,Centre-Val de Loire,1225.0,Destructions et dégradations volontaires
+2012,R27,Bourgogne-FC,1222.0,Destructions et dégradations volontaires
+2012,R28,Normandie,1717.0,Destructions et dégradations volontaires
+2012,R32,Hauts-de-France,5286.0,Destructions et dégradations volontaires
+2012,R44,Grand Est,3853.0,Destructions et dégradations volontaires
+2012,R52,Pays de la Loire,1518.0,Destructions et dégradations volontaires
+2012,R53,Bretagne,788.0,Destructions et dégradations volontaires
+2012,R75,Nouvelle-Aquitaine,1356.0,Destructions et dégradations volontaires
+2012,R76,Occitanie,2302.0,Destructions et dégradations volontaires
+2012,R84,Auvergne-RA,5053.0,Destructions et dégradations volontaires
+2012,R93,PACA,2465.0,Destructions et dégradations volontaires
+2012,R94,Corse,230.0,Destructions et dégradations volontaires
+2012,R987,Polynésie,16.0,Destructions et dégradations volontaires
+2012,R988,Nouvelle-Calédonie,184.0,Destructions et dégradations volontaires
+2013,R01,Guadeloupe,85.0,Destructions et dégradations volontaires
+2013,R02,Martinique,37.0,Destructions et dégradations volontaires
+2013,R03,Guyane,25.0,Destructions et dégradations volontaires
+2013,R04,La Réunion,260.0,Destructions et dégradations volontaires
+2013,R06,Mayotte,5.0,Destructions et dégradations volontaires
+2013,R11,Île-de-France,5103.0,Destructions et dégradations volontaires
+2013,R24,Centre-Val de Loire,993.0,Destructions et dégradations volontaires
+2013,R27,Bourgogne-FC,1252.0,Destructions et dégradations volontaires
+2013,R28,Normandie,1598.0,Destructions et dégradations volontaires
+2013,R32,Hauts-de-France,5042.0,Destructions et dégradations volontaires
+2013,R44,Grand Est,3399.0,Destructions et dégradations volontaires
+2013,R52,Pays de la Loire,1417.0,Destructions et dégradations volontaires
+2013,R53,Bretagne,611.0,Destructions et dégradations volontaires
+2013,R75,Nouvelle-Aquitaine,1209.0,Destructions et dégradations volontaires
+2013,R76,Occitanie,2077.0,Destructions et dégradations volontaires
+2013,R84,Auvergne-RA,4492.0,Destructions et dégradations volontaires
+2013,R93,PACA,2352.0,Destructions et dégradations volontaires
+2013,R94,Corse,269.0,Destructions et dégradations volontaires
+2013,R987,Polynésie,16.0,Destructions et dégradations volontaires
+2013,R988,Nouvelle-Calédonie,195.0,Destructions et dégradations volontaires
+2014,R01,Guadeloupe,84.0,Destructions et dégradations volontaires
+2014,R02,Martinique,26.0,Destructions et dégradations volontaires
+2014,R03,Guyane,24.0,Destructions et dégradations volontaires
+2014,R04,La Réunion,248.0,Destructions et dégradations volontaires
+2014,R06,Mayotte,12.0,Destructions et dégradations volontaires
+2014,R11,Île-de-France,5043.0,Destructions et dégradations volontaires
+2014,R24,Centre-Val de Loire,1139.0,Destructions et dégradations volontaires
+2014,R27,Bourgogne-FC,1365.0,Destructions et dégradations volontaires
+2014,R28,Normandie,1493.0,Destructions et dégradations volontaires
+2014,R32,Hauts-de-France,4903.0,Destructions et dégradations volontaires
+2014,R44,Grand Est,3243.0,Destructions et dégradations volontaires
+2014,R52,Pays de la Loire,1276.0,Destructions et dégradations volontaires
+2014,R53,Bretagne,679.0,Destructions et dégradations volontaires
+2014,R75,Nouvelle-Aquitaine,1279.0,Destructions et dégradations volontaires
+2014,R76,Occitanie,2267.0,Destructions et dégradations volontaires
+2014,R84,Auvergne-RA,4328.0,Destructions et dégradations volontaires
+2014,R93,PACA,2324.0,Destructions et dégradations volontaires
+2014,R94,Corse,272.0,Destructions et dégradations volontaires
+2014,R987,Polynésie,10.0,Destructions et dégradations volontaires
+2014,R988,Nouvelle-Calédonie,241.0,Destructions et dégradations volontaires
+2015,R01,Guadeloupe,92.0,Destructions et dégradations volontaires
+2015,R02,Martinique,35.0,Destructions et dégradations volontaires
+2015,R03,Guyane,44.0,Destructions et dégradations volontaires
+2015,R04,La Réunion,265.0,Destructions et dégradations volontaires
+2015,R06,Mayotte,12.0,Destructions et dégradations volontaires
+2015,R11,Île-de-France,5088.0,Destructions et dégradations volontaires
+2015,R24,Centre-Val de Loire,1032.0,Destructions et dégradations volontaires
+2015,R27,Bourgogne-FC,1318.0,Destructions et dégradations volontaires
+2015,R28,Normandie,1539.0,Destructions et dégradations volontaires
+2015,R32,Hauts-de-France,4848.0,Destructions et dégradations volontaires
+2015,R44,Grand Est,3443.0,Destructions et dégradations volontaires
+2015,R52,Pays de la Loire,1477.0,Destructions et dégradations volontaires
+2015,R53,Bretagne,733.0,Destructions et dégradations volontaires
+2015,R75,Nouvelle-Aquitaine,1307.0,Destructions et dégradations volontaires
+2015,R76,Occitanie,2022.0,Destructions et dégradations volontaires
+2015,R84,Auvergne-RA,4595.0,Destructions et dégradations volontaires
+2015,R93,PACA,1991.0,Destructions et dégradations volontaires
+2015,R94,Corse,362.0,Destructions et dégradations volontaires
+2015,R987,Polynésie,14.0,Destructions et dégradations volontaires
+2015,R988,Nouvelle-Calédonie,288.0,Destructions et dégradations volontaires
+2016,R01,Guadeloupe,70.0,Destructions et dégradations volontaires
+2016,R02,Martinique,42.0,Destructions et dégradations volontaires
+2016,R03,Guyane,46.0,Destructions et dégradations volontaires
+2016,R04,La Réunion,340.0,Destructions et dégradations volontaires
+2016,R06,Mayotte,22.0,Destructions et dégradations volontaires
+2016,R11,Île-de-France,5206.0,Destructions et dégradations volontaires
+2016,R24,Centre-Val de Loire,1074.0,Destructions et dégradations volontaires
+2016,R27,Bourgogne-FC,1104.0,Destructions et dégradations volontaires
+2016,R28,Normandie,1316.0,Destructions et dégradations volontaires
+2016,R32,Hauts-de-France,4749.0,Destructions et dégradations volontaires
+2016,R44,Grand Est,3017.0,Destructions et dégradations volontaires
+2016,R52,Pays de la Loire,1373.0,Destructions et dégradations volontaires
+2016,R53,Bretagne,673.0,Destructions et dégradations volontaires
+2016,R75,Nouvelle-Aquitaine,1314.0,Destructions et dégradations volontaires
+2016,R76,Occitanie,2058.0,Destructions et dégradations volontaires
+2016,R84,Auvergne-RA,4483.0,Destructions et dégradations volontaires
+2016,R93,PACA,1983.0,Destructions et dégradations volontaires
+2016,R94,Corse,336.0,Destructions et dégradations volontaires
+2016,R987,Polynésie,17.0,Destructions et dégradations volontaires
+2016,R988,Nouvelle-Calédonie,243.0,Destructions et dégradations volontaires
+2017,R01,Guadeloupe,84.0,Destructions et dégradations volontaires
+2017,R02,Martinique,52.0,Destructions et dégradations volontaires
+2017,R03,Guyane,39.0,Destructions et dégradations volontaires
+2017,R04,La Réunion,275.0,Destructions et dégradations volontaires
+2017,R06,Mayotte,15.0,Destructions et dégradations volontaires
+2017,R11,Île-de-France,5464.0,Destructions et dégradations volontaires
+2017,R24,Centre-Val de Loire,1012.0,Destructions et dégradations volontaires
+2017,R27,Bourgogne-FC,1319.0,Destructions et dégradations volontaires
+2017,R28,Normandie,1465.0,Destructions et dégradations volontaires
+2017,R32,Hauts-de-France,4669.0,Destructions et dégradations volontaires
+2017,R44,Grand Est,3337.0,Destructions et dégradations volontaires
+2017,R52,Pays de la Loire,1309.0,Destructions et dégradations volontaires
+2017,R53,Bretagne,828.0,Destructions et dégradations volontaires
+2017,R75,Nouvelle-Aquitaine,1437.0,Destructions et dégradations volontaires
+2017,R76,Occitanie,2284.0,Destructions et dégradations volontaires
+2017,R84,Auvergne-RA,4759.0,Destructions et dégradations volontaires
+2017,R93,PACA,1982.0,Destructions et dégradations volontaires
+2017,R94,Corse,314.0,Destructions et dégradations volontaires
+2017,R987,Polynésie,10.0,Destructions et dégradations volontaires
+2017,R988,Nouvelle-Calédonie,253.0,Destructions et dégradations volontaires
+2018,R01,Guadeloupe,86.0,Destructions et dégradations volontaires
+2018,R02,Martinique,31.0,Destructions et dégradations volontaires
+2018,R03,Guyane,49.0,Destructions et dégradations volontaires
+2018,R04,La Réunion,344.0,Destructions et dégradations volontaires
+2018,R06,Mayotte,17.0,Destructions et dégradations volontaires
+2018,R11,Île-de-France,6010.0,Destructions et dégradations volontaires
+2018,R24,Centre-Val de Loire,1057.0,Destructions et dégradations volontaires
+2018,R27,Bourgogne-FC,1332.0,Destructions et dégradations volontaires
+2018,R28,Normandie,1444.0,Destructions et dégradations volontaires
+2018,R32,Hauts-de-France,4510.0,Destructions et dégradations volontaires
+2018,R44,Grand Est,3389.0,Destructions et dégradations volontaires
+2018,R52,Pays de la Loire,1551.0,Destructions et dégradations volontaires
+2018,R53,Bretagne,792.0,Destructions et dégradations volontaires
+2018,R75,Nouvelle-Aquitaine,1366.0,Destructions et dégradations volontaires
+2018,R76,Occitanie,2261.0,Destructions et dégradations volontaires
+2018,R84,Auvergne-RA,5387.0,Destructions et dégradations volontaires
+2018,R93,PACA,1893.0,Destructions et dégradations volontaires
+2018,R94,Corse,282.0,Destructions et dégradations volontaires
+2018,R987,Polynésie,19.0,Destructions et dégradations volontaires
+2018,R988,Nouvelle-Calédonie,224.0,Destructions et dégradations volontaires
+2019,R01,Guadeloupe,100.0,Destructions et dégradations volontaires
+2019,R02,Martinique,51.0,Destructions et dégradations volontaires
+2019,R03,Guyane,52.0,Destructions et dégradations volontaires
+2019,R04,La Réunion,316.0,Destructions et dégradations volontaires
+2019,R06,Mayotte,16.0,Destructions et dégradations volontaires
+2019,R11,Île-de-France,5393.0,Destructions et dégradations volontaires
+2019,R24,Centre-Val de Loire,1010.0,Destructions et dégradations volontaires
+2019,R27,Bourgogne-FC,1425.0,Destructions et dégradations volontaires
+2019,R28,Normandie,1442.0,Destructions et dégradations volontaires
+2019,R32,Hauts-de-France,4387.0,Destructions et dégradations volontaires
+2019,R44,Grand Est,3698.0,Destructions et dégradations volontaires
+2019,R52,Pays de la Loire,1331.0,Destructions et dégradations volontaires
+2019,R53,Bretagne,876.0,Destructions et dégradations volontaires
+2019,R75,Nouvelle-Aquitaine,1562.0,Destructions et dégradations volontaires
+2019,R76,Occitanie,2401.0,Destructions et dégradations volontaires
+2019,R84,Auvergne-RA,5344.0,Destructions et dégradations volontaires
+2019,R93,PACA,1906.0,Destructions et dégradations volontaires
+2019,R94,Corse,431.0,Destructions et dégradations volontaires
+2019,R987,Polynésie,17.0,Destructions et dégradations volontaires
+2019,R988,Nouvelle-Calédonie,198.0,Destructions et dégradations volontaires
+2020,R01,Guadeloupe,87.0,Destructions et dégradations volontaires
+2020,R02,Martinique,61.0,Destructions et dégradations volontaires
+2020,R03,Guyane,41.0,Destructions et dégradations volontaires
+2020,R04,La Réunion,334.0,Destructions et dégradations volontaires
+2020,R06,Mayotte,15.0,Destructions et dégradations volontaires
+2020,R11,Île-de-France,4974.0,Destructions et dégradations volontaires
+2020,R24,Centre-Val de Loire,852.0,Destructions et dégradations volontaires
+2020,R27,Bourgogne-FC,1268.0,Destructions et dégradations volontaires
+2020,R28,Normandie,1255.0,Destructions et dégradations volontaires
+2020,R32,Hauts-de-France,3588.0,Destructions et dégradations volontaires
+2020,R44,Grand Est,3072.0,Destructions et dégradations volontaires
+2020,R52,Pays de la Loire,1159.0,Destructions et dégradations volontaires
+2020,R53,Bretagne,741.0,Destructions et dégradations volontaires
+2020,R75,Nouvelle-Aquitaine,1479.0,Destructions et dégradations volontaires
+2020,R76,Occitanie,1955.0,Destructions et dégradations volontaires
+2020,R84,Auvergne-RA,4339.0,Destructions et dégradations volontaires
+2020,R93,PACA,1507.0,Destructions et dégradations volontaires
+2020,R94,Corse,291.0,Destructions et dégradations volontaires
+2020,R987,Polynésie,12.0,Destructions et dégradations volontaires
+2020,R988,Nouvelle-Calédonie,187.0,Destructions et dégradations volontaires
+2021,R01,Guadeloupe,142.0,Destructions et dégradations volontaires
+2021,R02,Martinique,98.0,Destructions et dégradations volontaires
+2021,R03,Guyane,47.0,Destructions et dégradations volontaires
+2021,R04,La Réunion,294.0,Destructions et dégradations volontaires
+2021,R06,Mayotte,53.0,Destructions et dégradations volontaires
+2021,R11,Île-de-France,3999.0,Destructions et dégradations volontaires
+2021,R24,Centre-Val de Loire,777.0,Destructions et dégradations volontaires
+2021,R27,Bourgogne-FC,1263.0,Destructions et dégradations volontaires
+2021,R28,Normandie,1067.0,Destructions et dégradations volontaires
+2021,R32,Hauts-de-France,3279.0,Destructions et dégradations volontaires
+2021,R44,Grand Est,2434.0,Destructions et dégradations volontaires
+2021,R52,Pays de la Loire,1088.0,Destructions et dégradations volontaires
+2021,R53,Bretagne,798.0,Destructions et dégradations volontaires
+2021,R75,Nouvelle-Aquitaine,1376.0,Destructions et dégradations volontaires
+2021,R76,Occitanie,1660.0,Destructions et dégradations volontaires
+2021,R84,Auvergne-RA,3918.0,Destructions et dégradations volontaires
+2021,R93,PACA,1567.0,Destructions et dégradations volontaires
+2021,R94,Corse,261.0,Destructions et dégradations volontaires
+2021,R987,Polynésie,22.0,Destructions et dégradations volontaires
+2021,R988,Nouvelle-Calédonie,156.0,Destructions et dégradations volontaires
+2012,R01,Guadeloupe,791.0,Usage de stupéfiants
+2012,R02,Martinique,658.0,Usage de stupéfiants
+2012,R03,Guyane,428.0,Usage de stupéfiants
+2012,R04,La Réunion,1060.0,Usage de stupéfiants
+2012,R06,Mayotte,83.0,Usage de stupéfiants
+2012,R11,Île-de-France,39188.0,Usage de stupéfiants
+2012,R24,Centre-Val de Loire,6251.0,Usage de stupéfiants
+2012,R27,Bourgogne-FC,5841.0,Usage de stupéfiants
+2012,R28,Normandie,6876.0,Usage de stupéfiants
+2012,R32,Hauts-de-France,12876.0,Usage de stupéfiants
+2012,R44,Grand Est,13304.0,Usage de stupéfiants
+2012,R52,Pays de la Loire,7295.0,Usage de stupéfiants
+2012,R53,Bretagne,6912.0,Usage de stupéfiants
+2012,R75,Nouvelle-Aquitaine,12391.0,Usage de stupéfiants
+2012,R76,Occitanie,14747.0,Usage de stupéfiants
+2012,R84,Auvergne-RA,18363.0,Usage de stupéfiants
+2012,R93,PACA,15092.0,Usage de stupéfiants
+2012,R94,Corse,918.0,Usage de stupéfiants
+2012,R987,Polynésie,523.0,Usage de stupéfiants
+2012,R988,Nouvelle-Calédonie,231.0,Usage de stupéfiants
+2013,R01,Guadeloupe,820.0,Usage de stupéfiants
+2013,R02,Martinique,589.0,Usage de stupéfiants
+2013,R03,Guyane,413.0,Usage de stupéfiants
+2013,R04,La Réunion,1150.0,Usage de stupéfiants
+2013,R06,Mayotte,84.0,Usage de stupéfiants
+2013,R11,Île-de-France,43009.0,Usage de stupéfiants
+2013,R24,Centre-Val de Loire,6886.0,Usage de stupéfiants
+2013,R27,Bourgogne-FC,7041.0,Usage de stupéfiants
+2013,R28,Normandie,7079.0,Usage de stupéfiants
+2013,R32,Hauts-de-France,14172.0,Usage de stupéfiants
+2013,R44,Grand Est,14918.0,Usage de stupéfiants
+2013,R52,Pays de la Loire,8620.0,Usage de stupéfiants
+2013,R53,Bretagne,6979.0,Usage de stupéfiants
+2013,R75,Nouvelle-Aquitaine,14977.0,Usage de stupéfiants
+2013,R76,Occitanie,16257.0,Usage de stupéfiants
+2013,R84,Auvergne-RA,21370.0,Usage de stupéfiants
+2013,R93,PACA,16427.0,Usage de stupéfiants
+2013,R94,Corse,892.0,Usage de stupéfiants
+2013,R987,Polynésie,458.0,Usage de stupéfiants
+2013,R988,Nouvelle-Calédonie,253.0,Usage de stupéfiants
+2014,R01,Guadeloupe,792.0,Usage de stupéfiants
+2014,R02,Martinique,685.0,Usage de stupéfiants
+2014,R03,Guyane,519.0,Usage de stupéfiants
+2014,R04,La Réunion,1232.0,Usage de stupéfiants
+2014,R06,Mayotte,81.0,Usage de stupéfiants
+2014,R11,Île-de-France,43371.0,Usage de stupéfiants
+2014,R24,Centre-Val de Loire,7226.0,Usage de stupéfiants
+2014,R27,Bourgogne-FC,7405.0,Usage de stupéfiants
+2014,R28,Normandie,7720.0,Usage de stupéfiants
+2014,R32,Hauts-de-France,15020.0,Usage de stupéfiants
+2014,R44,Grand Est,15080.0,Usage de stupéfiants
+2014,R52,Pays de la Loire,8986.0,Usage de stupéfiants
+2014,R53,Bretagne,7301.0,Usage de stupéfiants
+2014,R75,Nouvelle-Aquitaine,14707.0,Usage de stupéfiants
+2014,R76,Occitanie,16305.0,Usage de stupéfiants
+2014,R84,Auvergne-RA,21202.0,Usage de stupéfiants
+2014,R93,PACA,16151.0,Usage de stupéfiants
+2014,R94,Corse,889.0,Usage de stupéfiants
+2014,R987,Polynésie,531.0,Usage de stupéfiants
+2014,R988,Nouvelle-Calédonie,305.0,Usage de stupéfiants
+2015,R01,Guadeloupe,859.0,Usage de stupéfiants
+2015,R02,Martinique,659.0,Usage de stupéfiants
+2015,R03,Guyane,588.0,Usage de stupéfiants
+2015,R04,La Réunion,1168.0,Usage de stupéfiants
+2015,R06,Mayotte,146.0,Usage de stupéfiants
+2015,R11,Île-de-France,46324.0,Usage de stupéfiants
+2015,R24,Centre-Val de Loire,7917.0,Usage de stupéfiants
+2015,R27,Bourgogne-FC,7773.0,Usage de stupéfiants
+2015,R28,Normandie,7703.0,Usage de stupéfiants
+2015,R32,Hauts-de-France,15800.0,Usage de stupéfiants
+2015,R44,Grand Est,15710.0,Usage de stupéfiants
+2015,R52,Pays de la Loire,10099.0,Usage de stupéfiants
+2015,R53,Bretagne,8638.0,Usage de stupéfiants
+2015,R75,Nouvelle-Aquitaine,15916.0,Usage de stupéfiants
+2015,R76,Occitanie,17585.0,Usage de stupéfiants
+2015,R84,Auvergne-RA,23121.0,Usage de stupéfiants
+2015,R93,PACA,17736.0,Usage de stupéfiants
+2015,R94,Corse,925.0,Usage de stupéfiants
+2015,R987,Polynésie,501.0,Usage de stupéfiants
+2015,R988,Nouvelle-Calédonie,240.0,Usage de stupéfiants
+2016,R01,Guadeloupe,1078.0,Usage de stupéfiants
+2016,R02,Martinique,751.0,Usage de stupéfiants
+2016,R03,Guyane,589.0,Usage de stupéfiants
+2016,R04,La Réunion,1565.0,Usage de stupéfiants
+2016,R06,Mayotte,148.0,Usage de stupéfiants
+2016,R11,Île-de-France,46964.0,Usage de stupéfiants
+2016,R24,Centre-Val de Loire,8367.0,Usage de stupéfiants
+2016,R27,Bourgogne-FC,8563.0,Usage de stupéfiants
+2016,R28,Normandie,8996.0,Usage de stupéfiants
+2016,R32,Hauts-de-France,16138.0,Usage de stupéfiants
+2016,R44,Grand Est,16617.0,Usage de stupéfiants
+2016,R52,Pays de la Loire,10572.0,Usage de stupéfiants
+2016,R53,Bretagne,9176.0,Usage de stupéfiants
+2016,R75,Nouvelle-Aquitaine,17491.0,Usage de stupéfiants
+2016,R76,Occitanie,19046.0,Usage de stupéfiants
+2016,R84,Auvergne-RA,24545.0,Usage de stupéfiants
+2016,R93,PACA,18462.0,Usage de stupéfiants
+2016,R94,Corse,1067.0,Usage de stupéfiants
+2016,R987,Polynésie,323.0,Usage de stupéfiants
+2016,R988,Nouvelle-Calédonie,316.0,Usage de stupéfiants
+2017,R01,Guadeloupe,1114.0,Usage de stupéfiants
+2017,R02,Martinique,860.0,Usage de stupéfiants
+2017,R03,Guyane,578.0,Usage de stupéfiants
+2017,R04,La Réunion,1639.0,Usage de stupéfiants
+2017,R06,Mayotte,181.0,Usage de stupéfiants
+2017,R11,Île-de-France,49192.0,Usage de stupéfiants
+2017,R24,Centre-Val de Loire,9070.0,Usage de stupéfiants
+2017,R27,Bourgogne-FC,8832.0,Usage de stupéfiants
+2017,R28,Normandie,9350.0,Usage de stupéfiants
+2017,R32,Hauts-de-France,17417.0,Usage de stupéfiants
+2017,R44,Grand Est,17052.0,Usage de stupéfiants
+2017,R52,Pays de la Loire,11111.0,Usage de stupéfiants
+2017,R53,Bretagne,9431.0,Usage de stupéfiants
+2017,R75,Nouvelle-Aquitaine,17993.0,Usage de stupéfiants
+2017,R76,Occitanie,19841.0,Usage de stupéfiants
+2017,R84,Auvergne-RA,25484.0,Usage de stupéfiants
+2017,R93,PACA,19149.0,Usage de stupéfiants
+2017,R94,Corse,1050.0,Usage de stupéfiants
+2017,R987,Polynésie,421.0,Usage de stupéfiants
+2017,R988,Nouvelle-Calédonie,352.0,Usage de stupéfiants
+2018,R01,Guadeloupe,1319.0,Usage de stupéfiants
+2018,R02,Martinique,830.0,Usage de stupéfiants
+2018,R03,Guyane,545.0,Usage de stupéfiants
+2018,R04,La Réunion,1537.0,Usage de stupéfiants
+2018,R06,Mayotte,170.0,Usage de stupéfiants
+2018,R11,Île-de-France,49384.0,Usage de stupéfiants
+2018,R24,Centre-Val de Loire,9098.0,Usage de stupéfiants
+2018,R27,Bourgogne-FC,9262.0,Usage de stupéfiants
+2018,R28,Normandie,9373.0,Usage de stupéfiants
+2018,R32,Hauts-de-France,17923.0,Usage de stupéfiants
+2018,R44,Grand Est,17308.0,Usage de stupéfiants
+2018,R52,Pays de la Loire,11377.0,Usage de stupéfiants
+2018,R53,Bretagne,9616.0,Usage de stupéfiants
+2018,R75,Nouvelle-Aquitaine,19719.0,Usage de stupéfiants
+2018,R76,Occitanie,20807.0,Usage de stupéfiants
+2018,R84,Auvergne-RA,27053.0,Usage de stupéfiants
+2018,R93,PACA,20094.0,Usage de stupéfiants
+2018,R94,Corse,1248.0,Usage de stupéfiants
+2018,R987,Polynésie,434.0,Usage de stupéfiants
+2018,R988,Nouvelle-Calédonie,379.0,Usage de stupéfiants
+2019,R01,Guadeloupe,1468.0,Usage de stupéfiants
+2019,R02,Martinique,1026.0,Usage de stupéfiants
+2019,R03,Guyane,680.0,Usage de stupéfiants
+2019,R04,La Réunion,1778.0,Usage de stupéfiants
+2019,R06,Mayotte,83.0,Usage de stupéfiants
+2019,R11,Île-de-France,56248.0,Usage de stupéfiants
+2019,R24,Centre-Val de Loire,10082.0,Usage de stupéfiants
+2019,R27,Bourgogne-FC,9675.0,Usage de stupéfiants
+2019,R28,Normandie,11169.0,Usage de stupéfiants
+2019,R32,Hauts-de-France,20547.0,Usage de stupéfiants
+2019,R44,Grand Est,20418.0,Usage de stupéfiants
+2019,R52,Pays de la Loire,13216.0,Usage de stupéfiants
+2019,R53,Bretagne,10665.0,Usage de stupéfiants
+2019,R75,Nouvelle-Aquitaine,22002.0,Usage de stupéfiants
+2019,R76,Occitanie,23503.0,Usage de stupéfiants
+2019,R84,Auvergne-RA,29765.0,Usage de stupéfiants
+2019,R93,PACA,23510.0,Usage de stupéfiants
+2019,R94,Corse,1308.0,Usage de stupéfiants
+2019,R987,Polynésie,470.0,Usage de stupéfiants
+2019,R988,Nouvelle-Calédonie,426.0,Usage de stupéfiants
+2020,R01,Guadeloupe,1560.0,Usage de stupéfiants
+2020,R02,Martinique,1239.0,Usage de stupéfiants
+2020,R03,Guyane,751.0,Usage de stupéfiants
+2020,R04,La Réunion,1635.0,Usage de stupéfiants
+2020,R06,Mayotte,95.0,Usage de stupéfiants
+2020,R11,Île-de-France,54572.0,Usage de stupéfiants
+2020,R24,Centre-Val de Loire,11010.0,Usage de stupéfiants
+2020,R27,Bourgogne-FC,11623.0,Usage de stupéfiants
+2020,R28,Normandie,12405.0,Usage de stupéfiants
+2020,R32,Hauts-de-France,21020.0,Usage de stupéfiants
+2020,R44,Grand Est,22162.0,Usage de stupéfiants
+2020,R52,Pays de la Loire,14561.0,Usage de stupéfiants
+2020,R53,Bretagne,11895.0,Usage de stupéfiants
+2020,R75,Nouvelle-Aquitaine,24271.0,Usage de stupéfiants
+2020,R76,Occitanie,25547.0,Usage de stupéfiants
+2020,R84,Auvergne-RA,34310.0,Usage de stupéfiants
+2020,R93,PACA,24348.0,Usage de stupéfiants
+2020,R94,Corse,1478.0,Usage de stupéfiants
+2020,R987,Polynésie,465.0,Usage de stupéfiants
+2020,R988,Nouvelle-Calédonie,407.0,Usage de stupéfiants
+2021,R01,Guadeloupe,2061.0,Usage de stupéfiants
+2021,R02,Martinique,1484.0,Usage de stupéfiants
+2021,R03,Guyane,881.0,Usage de stupéfiants
+2021,R04,La Réunion,2232.0,Usage de stupéfiants
+2021,R06,Mayotte,255.0,Usage de stupéfiants
+2021,R11,Île-de-France,60200.0,Usage de stupéfiants
+2021,R24,Centre-Val de Loire,12477.0,Usage de stupéfiants
+2021,R27,Bourgogne-FC,12671.0,Usage de stupéfiants
+2021,R28,Normandie,13710.0,Usage de stupéfiants
+2021,R32,Hauts-de-France,23628.0,Usage de stupéfiants
+2021,R44,Grand Est,25420.0,Usage de stupéfiants
+2021,R52,Pays de la Loire,16961.0,Usage de stupéfiants
+2021,R53,Bretagne,14338.0,Usage de stupéfiants
+2021,R75,Nouvelle-Aquitaine,28283.0,Usage de stupéfiants
+2021,R76,Occitanie,29880.0,Usage de stupéfiants
+2021,R84,Auvergne-RA,39220.0,Usage de stupéfiants
+2021,R93,PACA,27897.0,Usage de stupéfiants
+2021,R94,Corse,1720.0,Usage de stupéfiants
+2021,R987,Polynésie,396.0,Usage de stupéfiants
+2021,R988,Nouvelle-Calédonie,410.0,Usage de stupéfiants
+2012,R01,Guadeloupe,23.0,Trafic de stupéfiants
+2012,R02,Martinique,17.0,Trafic de stupéfiants
+2012,R03,Guyane,9.0,Trafic de stupéfiants
+2012,R04,La Réunion,63.0,Trafic de stupéfiants
+2012,R06,Mayotte,9.0,Trafic de stupéfiants
+2012,R11,Île-de-France,453.0,Trafic de stupéfiants
+2012,R24,Centre-Val de Loire,184.0,Trafic de stupéfiants
+2012,R27,Bourgogne-FC,280.0,Trafic de stupéfiants
+2012,R28,Normandie,451.0,Trafic de stupéfiants
+2012,R32,Hauts-de-France,717.0,Trafic de stupéfiants
+2012,R44,Grand Est,1077.0,Trafic de stupéfiants
+2012,R52,Pays de la Loire,377.0,Trafic de stupéfiants
+2012,R53,Bretagne,583.0,Trafic de stupéfiants
+2012,R75,Nouvelle-Aquitaine,963.0,Trafic de stupéfiants
+2012,R76,Occitanie,947.0,Trafic de stupéfiants
+2012,R84,Auvergne-RA,993.0,Trafic de stupéfiants
+2012,R93,PACA,504.0,Trafic de stupéfiants
+2012,R94,Corse,90.0,Trafic de stupéfiants
+2012,R987,Polynésie,11.0,Trafic de stupéfiants
+2012,R988,Nouvelle-Calédonie,35.0,Trafic de stupéfiants
+2013,R01,Guadeloupe,27.0,Trafic de stupéfiants
+2013,R02,Martinique,17.0,Trafic de stupéfiants
+2013,R03,Guyane,7.0,Trafic de stupéfiants
+2013,R04,La Réunion,55.0,Trafic de stupéfiants
+2013,R06,Mayotte,0.0,Trafic de stupéfiants
+2013,R11,Île-de-France,607.0,Trafic de stupéfiants
+2013,R24,Centre-Val de Loire,238.0,Trafic de stupéfiants
+2013,R27,Bourgogne-FC,415.0,Trafic de stupéfiants
+2013,R28,Normandie,407.0,Trafic de stupéfiants
+2013,R32,Hauts-de-France,808.0,Trafic de stupéfiants
+2013,R44,Grand Est,580.0,Trafic de stupéfiants
+2013,R52,Pays de la Loire,316.0,Trafic de stupéfiants
+2013,R53,Bretagne,540.0,Trafic de stupéfiants
+2013,R75,Nouvelle-Aquitaine,938.0,Trafic de stupéfiants
+2013,R76,Occitanie,949.0,Trafic de stupéfiants
+2013,R84,Auvergne-RA,863.0,Trafic de stupéfiants
+2013,R93,PACA,444.0,Trafic de stupéfiants
+2013,R94,Corse,41.0,Trafic de stupéfiants
+2013,R987,Polynésie,8.0,Trafic de stupéfiants
+2013,R988,Nouvelle-Calédonie,86.0,Trafic de stupéfiants
+2014,R01,Guadeloupe,21.0,Trafic de stupéfiants
+2014,R02,Martinique,12.0,Trafic de stupéfiants
+2014,R03,Guyane,12.0,Trafic de stupéfiants
+2014,R04,La Réunion,45.0,Trafic de stupéfiants
+2014,R06,Mayotte,6.0,Trafic de stupéfiants
+2014,R11,Île-de-France,496.0,Trafic de stupéfiants
+2014,R24,Centre-Val de Loire,227.0,Trafic de stupéfiants
+2014,R27,Bourgogne-FC,464.0,Trafic de stupéfiants
+2014,R28,Normandie,284.0,Trafic de stupéfiants
+2014,R32,Hauts-de-France,441.0,Trafic de stupéfiants
+2014,R44,Grand Est,694.0,Trafic de stupéfiants
+2014,R52,Pays de la Loire,391.0,Trafic de stupéfiants
+2014,R53,Bretagne,570.0,Trafic de stupéfiants
+2014,R75,Nouvelle-Aquitaine,624.0,Trafic de stupéfiants
+2014,R76,Occitanie,621.0,Trafic de stupéfiants
+2014,R84,Auvergne-RA,756.0,Trafic de stupéfiants
+2014,R93,PACA,358.0,Trafic de stupéfiants
+2014,R94,Corse,42.0,Trafic de stupéfiants
+2014,R987,Polynésie,5.0,Trafic de stupéfiants
+2014,R988,Nouvelle-Calédonie,24.0,Trafic de stupéfiants
+2015,R01,Guadeloupe,29.0,Trafic de stupéfiants
+2015,R02,Martinique,13.0,Trafic de stupéfiants
+2015,R03,Guyane,2.0,Trafic de stupéfiants
+2015,R04,La Réunion,115.0,Trafic de stupéfiants
+2015,R06,Mayotte,1.0,Trafic de stupéfiants
+2015,R11,Île-de-France,258.0,Trafic de stupéfiants
+2015,R24,Centre-Val de Loire,171.0,Trafic de stupéfiants
+2015,R27,Bourgogne-FC,337.0,Trafic de stupéfiants
+2015,R28,Normandie,254.0,Trafic de stupéfiants
+2015,R32,Hauts-de-France,266.0,Trafic de stupéfiants
+2015,R44,Grand Est,451.0,Trafic de stupéfiants
+2015,R52,Pays de la Loire,381.0,Trafic de stupéfiants
+2015,R53,Bretagne,286.0,Trafic de stupéfiants
+2015,R75,Nouvelle-Aquitaine,601.0,Trafic de stupéfiants
+2015,R76,Occitanie,705.0,Trafic de stupéfiants
+2015,R84,Auvergne-RA,620.0,Trafic de stupéfiants
+2015,R93,PACA,368.0,Trafic de stupéfiants
+2015,R94,Corse,27.0,Trafic de stupéfiants
+2015,R987,Polynésie,3.0,Trafic de stupéfiants
+2015,R988,Nouvelle-Calédonie,21.0,Trafic de stupéfiants
+2016,R01,Guadeloupe,29.0,Trafic de stupéfiants
+2016,R02,Martinique,7.0,Trafic de stupéfiants
+2016,R03,Guyane,10.0,Trafic de stupéfiants
+2016,R04,La Réunion,42.0,Trafic de stupéfiants
+2016,R06,Mayotte,0.0,Trafic de stupéfiants
+2016,R11,Île-de-France,190.0,Trafic de stupéfiants
+2016,R24,Centre-Val de Loire,142.0,Trafic de stupéfiants
+2016,R27,Bourgogne-FC,282.0,Trafic de stupéfiants
+2016,R28,Normandie,313.0,Trafic de stupéfiants
+2016,R32,Hauts-de-France,341.0,Trafic de stupéfiants
+2016,R44,Grand Est,234.0,Trafic de stupéfiants
+2016,R52,Pays de la Loire,315.0,Trafic de stupéfiants
+2016,R53,Bretagne,362.0,Trafic de stupéfiants
+2016,R75,Nouvelle-Aquitaine,561.0,Trafic de stupéfiants
+2016,R76,Occitanie,636.0,Trafic de stupéfiants
+2016,R84,Auvergne-RA,509.0,Trafic de stupéfiants
+2016,R93,PACA,306.0,Trafic de stupéfiants
+2016,R94,Corse,33.0,Trafic de stupéfiants
+2016,R987,Polynésie,7.0,Trafic de stupéfiants
+2016,R988,Nouvelle-Calédonie,2.0,Trafic de stupéfiants
+2017,R01,Guadeloupe,30.0,Trafic de stupéfiants
+2017,R02,Martinique,18.0,Trafic de stupéfiants
+2017,R03,Guyane,6.0,Trafic de stupéfiants
+2017,R04,La Réunion,34.0,Trafic de stupéfiants
+2017,R06,Mayotte,0.0,Trafic de stupéfiants
+2017,R11,Île-de-France,157.0,Trafic de stupéfiants
+2017,R24,Centre-Val de Loire,80.0,Trafic de stupéfiants
+2017,R27,Bourgogne-FC,201.0,Trafic de stupéfiants
+2017,R28,Normandie,324.0,Trafic de stupéfiants
+2017,R32,Hauts-de-France,286.0,Trafic de stupéfiants
+2017,R44,Grand Est,262.0,Trafic de stupéfiants
+2017,R52,Pays de la Loire,256.0,Trafic de stupéfiants
+2017,R53,Bretagne,294.0,Trafic de stupéfiants
+2017,R75,Nouvelle-Aquitaine,545.0,Trafic de stupéfiants
+2017,R76,Occitanie,586.0,Trafic de stupéfiants
+2017,R84,Auvergne-RA,420.0,Trafic de stupéfiants
+2017,R93,PACA,258.0,Trafic de stupéfiants
+2017,R94,Corse,73.0,Trafic de stupéfiants
+2017,R987,Polynésie,4.0,Trafic de stupéfiants
+2017,R988,Nouvelle-Calédonie,23.0,Trafic de stupéfiants
+2018,R01,Guadeloupe,33.0,Trafic de stupéfiants
+2018,R02,Martinique,11.0,Trafic de stupéfiants
+2018,R03,Guyane,8.0,Trafic de stupéfiants
+2018,R04,La Réunion,36.0,Trafic de stupéfiants
+2018,R06,Mayotte,0.0,Trafic de stupéfiants
+2018,R11,Île-de-France,134.0,Trafic de stupéfiants
+2018,R24,Centre-Val de Loire,77.0,Trafic de stupéfiants
+2018,R27,Bourgogne-FC,285.0,Trafic de stupéfiants
+2018,R28,Normandie,212.0,Trafic de stupéfiants
+2018,R32,Hauts-de-France,171.0,Trafic de stupéfiants
+2018,R44,Grand Est,284.0,Trafic de stupéfiants
+2018,R52,Pays de la Loire,117.0,Trafic de stupéfiants
+2018,R53,Bretagne,226.0,Trafic de stupéfiants
+2018,R75,Nouvelle-Aquitaine,504.0,Trafic de stupéfiants
+2018,R76,Occitanie,431.0,Trafic de stupéfiants
+2018,R84,Auvergne-RA,313.0,Trafic de stupéfiants
+2018,R93,PACA,237.0,Trafic de stupéfiants
+2018,R94,Corse,49.0,Trafic de stupéfiants
+2018,R987,Polynésie,3.0,Trafic de stupéfiants
+2018,R988,Nouvelle-Calédonie,8.0,Trafic de stupéfiants
+2019,R01,Guadeloupe,74.0,Trafic de stupéfiants
+2019,R02,Martinique,19.0,Trafic de stupéfiants
+2019,R03,Guyane,4.0,Trafic de stupéfiants
+2019,R04,La Réunion,18.0,Trafic de stupéfiants
+2019,R06,Mayotte,1.0,Trafic de stupéfiants
+2019,R11,Île-de-France,96.0,Trafic de stupéfiants
+2019,R24,Centre-Val de Loire,98.0,Trafic de stupéfiants
+2019,R27,Bourgogne-FC,169.0,Trafic de stupéfiants
+2019,R28,Normandie,236.0,Trafic de stupéfiants
+2019,R32,Hauts-de-France,192.0,Trafic de stupéfiants
+2019,R44,Grand Est,269.0,Trafic de stupéfiants
+2019,R52,Pays de la Loire,113.0,Trafic de stupéfiants
+2019,R53,Bretagne,174.0,Trafic de stupéfiants
+2019,R75,Nouvelle-Aquitaine,461.0,Trafic de stupéfiants
+2019,R76,Occitanie,385.0,Trafic de stupéfiants
+2019,R84,Auvergne-RA,355.0,Trafic de stupéfiants
+2019,R93,PACA,241.0,Trafic de stupéfiants
+2019,R94,Corse,59.0,Trafic de stupéfiants
+2019,R987,Polynésie,14.0,Trafic de stupéfiants
+2019,R988,Nouvelle-Calédonie,5.0,Trafic de stupéfiants
+2020,R01,Guadeloupe,48.0,Trafic de stupéfiants
+2020,R02,Martinique,15.0,Trafic de stupéfiants
+2020,R03,Guyane,3.0,Trafic de stupéfiants
+2020,R04,La Réunion,18.0,Trafic de stupéfiants
+2020,R06,Mayotte,0.0,Trafic de stupéfiants
+2020,R11,Île-de-France,96.0,Trafic de stupéfiants
+2020,R24,Centre-Val de Loire,58.0,Trafic de stupéfiants
+2020,R27,Bourgogne-FC,201.0,Trafic de stupéfiants
+2020,R28,Normandie,75.0,Trafic de stupéfiants
+2020,R32,Hauts-de-France,145.0,Trafic de stupéfiants
+2020,R44,Grand Est,111.0,Trafic de stupéfiants
+2020,R52,Pays de la Loire,80.0,Trafic de stupéfiants
+2020,R53,Bretagne,120.0,Trafic de stupéfiants
+2020,R75,Nouvelle-Aquitaine,239.0,Trafic de stupéfiants
+2020,R76,Occitanie,302.0,Trafic de stupéfiants
+2020,R84,Auvergne-RA,201.0,Trafic de stupéfiants
+2020,R93,PACA,137.0,Trafic de stupéfiants
+2020,R94,Corse,19.0,Trafic de stupéfiants
+2020,R987,Polynésie,18.0,Trafic de stupéfiants
+2020,R988,Nouvelle-Calédonie,7.0,Trafic de stupéfiants
+2021,R01,Guadeloupe,80.0,Trafic de stupéfiants
+2021,R02,Martinique,10.0,Trafic de stupéfiants
+2021,R03,Guyane,3.0,Trafic de stupéfiants
+2021,R04,La Réunion,21.0,Trafic de stupéfiants
+2021,R06,Mayotte,0.0,Trafic de stupéfiants
+2021,R11,Île-de-France,75.0,Trafic de stupéfiants
+2021,R24,Centre-Val de Loire,44.0,Trafic de stupéfiants
+2021,R27,Bourgogne-FC,77.0,Trafic de stupéfiants
+2021,R28,Normandie,111.0,Trafic de stupéfiants
+2021,R32,Hauts-de-France,133.0,Trafic de stupéfiants
+2021,R44,Grand Est,107.0,Trafic de stupéfiants
+2021,R52,Pays de la Loire,57.0,Trafic de stupéfiants
+2021,R53,Bretagne,75.0,Trafic de stupéfiants
+2021,R75,Nouvelle-Aquitaine,343.0,Trafic de stupéfiants
+2021,R76,Occitanie,317.0,Trafic de stupéfiants
+2021,R84,Auvergne-RA,200.0,Trafic de stupéfiants
+2021,R93,PACA,145.0,Trafic de stupéfiants
+2021,R94,Corse,7.0,Trafic de stupéfiants
+2021,R987,Polynésie,11.0,Trafic de stupéfiants
+2021,R988,Nouvelle-Calédonie,4.0,Trafic de stupéfiants
+2012,R01,Guadeloupe,29.0,Escroqueries et abus de confiance
+2012,R02,Martinique,20.0,Escroqueries et abus de confiance
+2012,R03,Guyane,96.0,Escroqueries et abus de confiance
+2012,R04,La Réunion,39.0,Escroqueries et abus de confiance
+2012,R06,Mayotte,2.0,Escroqueries et abus de confiance
+2012,R11,Île-de-France,130.0,Escroqueries et abus de confiance
+2012,R24,Centre-Val de Loire,67.0,Escroqueries et abus de confiance
+2012,R27,Bourgogne-FC,130.0,Escroqueries et abus de confiance
+2012,R28,Normandie,121.0,Escroqueries et abus de confiance
+2012,R32,Hauts-de-France,131.0,Escroqueries et abus de confiance
+2012,R44,Grand Est,226.0,Escroqueries et abus de confiance
+2012,R52,Pays de la Loire,157.0,Escroqueries et abus de confiance
+2012,R53,Bretagne,206.0,Escroqueries et abus de confiance
+2012,R75,Nouvelle-Aquitaine,211.0,Escroqueries et abus de confiance
+2012,R76,Occitanie,333.0,Escroqueries et abus de confiance
+2012,R84,Auvergne-RA,533.0,Escroqueries et abus de confiance
+2012,R93,PACA,204.0,Escroqueries et abus de confiance
+2012,R94,Corse,66.0,Escroqueries et abus de confiance
+2012,R987,Polynésie,24.0,Escroqueries et abus de confiance
+2012,R988,Nouvelle-Calédonie,8.0,Escroqueries et abus de confiance
+2013,R01,Guadeloupe,20.0,Escroqueries et abus de confiance
+2013,R02,Martinique,25.0,Escroqueries et abus de confiance
+2013,R03,Guyane,93.0,Escroqueries et abus de confiance
+2013,R04,La Réunion,36.0,Escroqueries et abus de confiance
+2013,R06,Mayotte,0.0,Escroqueries et abus de confiance
+2013,R11,Île-de-France,133.0,Escroqueries et abus de confiance
+2013,R24,Centre-Val de Loire,70.0,Escroqueries et abus de confiance
+2013,R27,Bourgogne-FC,123.0,Escroqueries et abus de confiance
+2013,R28,Normandie,123.0,Escroqueries et abus de confiance
+2013,R32,Hauts-de-France,129.0,Escroqueries et abus de confiance
+2013,R44,Grand Est,249.0,Escroqueries et abus de confiance
+2013,R52,Pays de la Loire,149.0,Escroqueries et abus de confiance
+2013,R53,Bretagne,206.0,Escroqueries et abus de confiance
+2013,R75,Nouvelle-Aquitaine,236.0,Escroqueries et abus de confiance
+2013,R76,Occitanie,338.0,Escroqueries et abus de confiance
+2013,R84,Auvergne-RA,577.0,Escroqueries et abus de confiance
+2013,R93,PACA,169.0,Escroqueries et abus de confiance
+2013,R94,Corse,56.0,Escroqueries et abus de confiance
+2013,R987,Polynésie,10.0,Escroqueries et abus de confiance
+2013,R988,Nouvelle-Calédonie,13.0,Escroqueries et abus de confiance
+2014,R01,Guadeloupe,8.0,Escroqueries et abus de confiance
+2014,R02,Martinique,12.0,Escroqueries et abus de confiance
+2014,R03,Guyane,29.0,Escroqueries et abus de confiance
+2014,R04,La Réunion,38.0,Escroqueries et abus de confiance
+2014,R06,Mayotte,0.0,Escroqueries et abus de confiance
+2014,R11,Île-de-France,155.0,Escroqueries et abus de confiance
+2014,R24,Centre-Val de Loire,84.0,Escroqueries et abus de confiance
+2014,R27,Bourgogne-FC,133.0,Escroqueries et abus de confiance
+2014,R28,Normandie,122.0,Escroqueries et abus de confiance
+2014,R32,Hauts-de-France,130.0,Escroqueries et abus de confiance
+2014,R44,Grand Est,193.0,Escroqueries et abus de confiance
+2014,R52,Pays de la Loire,114.0,Escroqueries et abus de confiance
+2014,R53,Bretagne,205.0,Escroqueries et abus de confiance
+2014,R75,Nouvelle-Aquitaine,234.0,Escroqueries et abus de confiance
+2014,R76,Occitanie,328.0,Escroqueries et abus de confiance
+2014,R84,Auvergne-RA,583.0,Escroqueries et abus de confiance
+2014,R93,PACA,160.0,Escroqueries et abus de confiance
+2014,R94,Corse,33.0,Escroqueries et abus de confiance
+2014,R987,Polynésie,12.0,Escroqueries et abus de confiance
+2014,R988,Nouvelle-Calédonie,11.0,Escroqueries et abus de confiance
+2015,R01,Guadeloupe,25.0,Escroqueries et abus de confiance
+2015,R02,Martinique,10.0,Escroqueries et abus de confiance
+2015,R03,Guyane,61.0,Escroqueries et abus de confiance
+2015,R04,La Réunion,17.0,Escroqueries et abus de confiance
+2015,R06,Mayotte,1.0,Escroqueries et abus de confiance
+2015,R11,Île-de-France,174.0,Escroqueries et abus de confiance
+2015,R24,Centre-Val de Loire,73.0,Escroqueries et abus de confiance
+2015,R27,Bourgogne-FC,146.0,Escroqueries et abus de confiance
+2015,R28,Normandie,112.0,Escroqueries et abus de confiance
+2015,R32,Hauts-de-France,141.0,Escroqueries et abus de confiance
+2015,R44,Grand Est,194.0,Escroqueries et abus de confiance
+2015,R52,Pays de la Loire,130.0,Escroqueries et abus de confiance
+2015,R53,Bretagne,148.0,Escroqueries et abus de confiance
+2015,R75,Nouvelle-Aquitaine,162.0,Escroqueries et abus de confiance
+2015,R76,Occitanie,261.0,Escroqueries et abus de confiance
+2015,R84,Auvergne-RA,365.0,Escroqueries et abus de confiance
+2015,R93,PACA,190.0,Escroqueries et abus de confiance
+2015,R94,Corse,58.0,Escroqueries et abus de confiance
+2015,R987,Polynésie,4.0,Escroqueries et abus de confiance
+2015,R988,Nouvelle-Calédonie,13.0,Escroqueries et abus de confiance
+2016,R01,Guadeloupe,28.0,Escroqueries et abus de confiance
+2016,R02,Martinique,16.0,Escroqueries et abus de confiance
+2016,R03,Guyane,67.0,Escroqueries et abus de confiance
+2016,R04,La Réunion,24.0,Escroqueries et abus de confiance
+2016,R06,Mayotte,0.0,Escroqueries et abus de confiance
+2016,R11,Île-de-France,165.0,Escroqueries et abus de confiance
+2016,R24,Centre-Val de Loire,98.0,Escroqueries et abus de confiance
+2016,R27,Bourgogne-FC,150.0,Escroqueries et abus de confiance
+2016,R28,Normandie,129.0,Escroqueries et abus de confiance
+2016,R32,Hauts-de-France,174.0,Escroqueries et abus de confiance
+2016,R44,Grand Est,173.0,Escroqueries et abus de confiance
+2016,R52,Pays de la Loire,100.0,Escroqueries et abus de confiance
+2016,R53,Bretagne,148.0,Escroqueries et abus de confiance
+2016,R75,Nouvelle-Aquitaine,156.0,Escroqueries et abus de confiance
+2016,R76,Occitanie,268.0,Escroqueries et abus de confiance
+2016,R84,Auvergne-RA,397.0,Escroqueries et abus de confiance
+2016,R93,PACA,225.0,Escroqueries et abus de confiance
+2016,R94,Corse,58.0,Escroqueries et abus de confiance
+2016,R987,Polynésie,11.0,Escroqueries et abus de confiance
+2016,R988,Nouvelle-Calédonie,14.0,Escroqueries et abus de confiance
+2017,R01,Guadeloupe,14.0,Escroqueries et abus de confiance
+2017,R02,Martinique,10.0,Escroqueries et abus de confiance
+2017,R03,Guyane,143.0,Escroqueries et abus de confiance
+2017,R04,La Réunion,34.0,Escroqueries et abus de confiance
+2017,R06,Mayotte,1.0,Escroqueries et abus de confiance
+2017,R11,Île-de-France,182.0,Escroqueries et abus de confiance
+2017,R24,Centre-Val de Loire,88.0,Escroqueries et abus de confiance
+2017,R27,Bourgogne-FC,148.0,Escroqueries et abus de confiance
+2017,R28,Normandie,120.0,Escroqueries et abus de confiance
+2017,R32,Hauts-de-France,172.0,Escroqueries et abus de confiance
+2017,R44,Grand Est,179.0,Escroqueries et abus de confiance
+2017,R52,Pays de la Loire,113.0,Escroqueries et abus de confiance
+2017,R53,Bretagne,138.0,Escroqueries et abus de confiance
+2017,R75,Nouvelle-Aquitaine,192.0,Escroqueries et abus de confiance
+2017,R76,Occitanie,278.0,Escroqueries et abus de confiance
+2017,R84,Auvergne-RA,499.0,Escroqueries et abus de confiance
+2017,R93,PACA,196.0,Escroqueries et abus de confiance
+2017,R94,Corse,44.0,Escroqueries et abus de confiance
+2017,R987,Polynésie,6.0,Escroqueries et abus de confiance
+2017,R988,Nouvelle-Calédonie,14.0,Escroqueries et abus de confiance
+2018,R01,Guadeloupe,10.0,Escroqueries et abus de confiance
+2018,R02,Martinique,5.0,Escroqueries et abus de confiance
+2018,R03,Guyane,330.0,Escroqueries et abus de confiance
+2018,R04,La Réunion,34.0,Escroqueries et abus de confiance
+2018,R06,Mayotte,0.0,Escroqueries et abus de confiance
+2018,R11,Île-de-France,179.0,Escroqueries et abus de confiance
+2018,R24,Centre-Val de Loire,81.0,Escroqueries et abus de confiance
+2018,R27,Bourgogne-FC,135.0,Escroqueries et abus de confiance
+2018,R28,Normandie,103.0,Escroqueries et abus de confiance
+2018,R32,Hauts-de-France,171.0,Escroqueries et abus de confiance
+2018,R44,Grand Est,243.0,Escroqueries et abus de confiance
+2018,R52,Pays de la Loire,114.0,Escroqueries et abus de confiance
+2018,R53,Bretagne,125.0,Escroqueries et abus de confiance
+2018,R75,Nouvelle-Aquitaine,234.0,Escroqueries et abus de confiance
+2018,R76,Occitanie,281.0,Escroqueries et abus de confiance
+2018,R84,Auvergne-RA,506.0,Escroqueries et abus de confiance
+2018,R93,PACA,212.0,Escroqueries et abus de confiance
+2018,R94,Corse,41.0,Escroqueries et abus de confiance
+2018,R987,Polynésie,6.0,Escroqueries et abus de confiance
+2018,R988,Nouvelle-Calédonie,10.0,Escroqueries et abus de confiance
+2019,R01,Guadeloupe,26.0,Escroqueries et abus de confiance
+2019,R02,Martinique,18.0,Escroqueries et abus de confiance
+2019,R03,Guyane,274.0,Escroqueries et abus de confiance
+2019,R04,La Réunion,45.0,Escroqueries et abus de confiance
+2019,R06,Mayotte,2.0,Escroqueries et abus de confiance
+2019,R11,Île-de-France,324.0,Escroqueries et abus de confiance
+2019,R24,Centre-Val de Loire,76.0,Escroqueries et abus de confiance
+2019,R27,Bourgogne-FC,120.0,Escroqueries et abus de confiance
+2019,R28,Normandie,149.0,Escroqueries et abus de confiance
+2019,R32,Hauts-de-France,188.0,Escroqueries et abus de confiance
+2019,R44,Grand Est,232.0,Escroqueries et abus de confiance
+2019,R52,Pays de la Loire,153.0,Escroqueries et abus de confiance
+2019,R53,Bretagne,155.0,Escroqueries et abus de confiance
+2019,R75,Nouvelle-Aquitaine,233.0,Escroqueries et abus de confiance
+2019,R76,Occitanie,279.0,Escroqueries et abus de confiance
+2019,R84,Auvergne-RA,506.0,Escroqueries et abus de confiance
+2019,R93,PACA,203.0,Escroqueries et abus de confiance
+2019,R94,Corse,57.0,Escroqueries et abus de confiance
+2019,R987,Polynésie,11.0,Escroqueries et abus de confiance
+2019,R988,Nouvelle-Calédonie,25.0,Escroqueries et abus de confiance
+2020,R01,Guadeloupe,24.0,Escroqueries et abus de confiance
+2020,R02,Martinique,18.0,Escroqueries et abus de confiance
+2020,R03,Guyane,215.0,Escroqueries et abus de confiance
+2020,R04,La Réunion,32.0,Escroqueries et abus de confiance
+2020,R06,Mayotte,1.0,Escroqueries et abus de confiance
+2020,R11,Île-de-France,285.0,Escroqueries et abus de confiance
+2020,R24,Centre-Val de Loire,74.0,Escroqueries et abus de confiance
+2020,R27,Bourgogne-FC,138.0,Escroqueries et abus de confiance
+2020,R28,Normandie,118.0,Escroqueries et abus de confiance
+2020,R32,Hauts-de-France,196.0,Escroqueries et abus de confiance
+2020,R44,Grand Est,235.0,Escroqueries et abus de confiance
+2020,R52,Pays de la Loire,138.0,Escroqueries et abus de confiance
+2020,R53,Bretagne,164.0,Escroqueries et abus de confiance
+2020,R75,Nouvelle-Aquitaine,286.0,Escroqueries et abus de confiance
+2020,R76,Occitanie,240.0,Escroqueries et abus de confiance
+2020,R84,Auvergne-RA,971.0,Escroqueries et abus de confiance
+2020,R93,PACA,233.0,Escroqueries et abus de confiance
+2020,R94,Corse,58.0,Escroqueries et abus de confiance
+2020,R987,Polynésie,7.0,Escroqueries et abus de confiance
+2020,R988,Nouvelle-Calédonie,16.0,Escroqueries et abus de confiance
+2021,R01,Guadeloupe,28.0,Escroqueries et abus de confiance
+2021,R02,Martinique,21.0,Escroqueries et abus de confiance
+2021,R03,Guyane,283.0,Escroqueries et abus de confiance
+2021,R04,La Réunion,25.0,Escroqueries et abus de confiance
+2021,R06,Mayotte,8.0,Escroqueries et abus de confiance
+2021,R11,Île-de-France,309.0,Escroqueries et abus de confiance
+2021,R24,Centre-Val de Loire,87.0,Escroqueries et abus de confiance
+2021,R27,Bourgogne-FC,133.0,Escroqueries et abus de confiance
+2021,R28,Normandie,165.0,Escroqueries et abus de confiance
+2021,R32,Hauts-de-France,205.0,Escroqueries et abus de confiance
+2021,R44,Grand Est,235.0,Escroqueries et abus de confiance
+2021,R52,Pays de la Loire,107.0,Escroqueries et abus de confiance
+2021,R53,Bretagne,146.0,Escroqueries et abus de confiance
+2021,R75,Nouvelle-Aquitaine,322.0,Escroqueries et abus de confiance
+2021,R76,Occitanie,239.0,Escroqueries et abus de confiance
+2021,R84,Auvergne-RA,919.0,Escroqueries et abus de confiance
+2021,R93,PACA,207.0,Escroqueries et abus de confiance
+2021,R94,Corse,53.0,Escroqueries et abus de confiance
+2021,R987,Polynésie,4.0,Escroqueries et abus de confiance
+2021,R988,Nouvelle-Calédonie,14.0,Escroqueries et abus de confiance
+2012,R01,Guadeloupe,36.0,Homicides
+2012,R02,Martinique,9.0,Homicides
+2012,R03,Guyane,37.0,Homicides
+2012,R04,La Réunion,16.0,Homicides
+2012,R06,Mayotte,2.0,Homicides
+2012,R11,Île-de-France,129.0,Homicides
+2012,R24,Centre-Val de Loire,17.0,Homicides
+2012,R27,Bourgogne-FC,25.0,Homicides
+2012,R28,Normandie,20.0,Homicides
+2012,R32,Hauts-de-France,71.0,Homicides
+2012,R44,Grand Est,42.0,Homicides
+2012,R52,Pays de la Loire,21.0,Homicides
+2012,R53,Bretagne,25.0,Homicides
+2012,R75,Nouvelle-Aquitaine,35.0,Homicides
+2012,R76,Occitanie,48.0,Homicides
+2012,R84,Auvergne-RA,60.0,Homicides
+2012,R93,PACA,102.0,Homicides
+2012,R94,Corse,22.0,Homicides
+2012,R987,Polynésie,9.0,Homicides
+2012,R988,Nouvelle-Calédonie,7.0,Homicides
+2013,R01,Guadeloupe,36.0,Homicides
+2013,R02,Martinique,15.0,Homicides
+2013,R03,Guyane,17.0,Homicides
+2013,R04,La Réunion,14.0,Homicides
+2013,R06,Mayotte,1.0,Homicides
+2013,R11,Île-de-France,114.0,Homicides
+2013,R24,Centre-Val de Loire,18.0,Homicides
+2013,R27,Bourgogne-FC,21.0,Homicides
+2013,R28,Normandie,38.0,Homicides
+2013,R32,Hauts-de-France,63.0,Homicides
+2013,R44,Grand Est,38.0,Homicides
+2013,R52,Pays de la Loire,30.0,Homicides
+2013,R53,Bretagne,18.0,Homicides
+2013,R75,Nouvelle-Aquitaine,39.0,Homicides
+2013,R76,Occitanie,67.0,Homicides
+2013,R84,Auvergne-RA,60.0,Homicides
+2013,R93,PACA,96.0,Homicides
+2013,R94,Corse,20.0,Homicides
+2013,R987,Polynésie,6.0,Homicides
+2013,R988,Nouvelle-Calédonie,13.0,Homicides
+2014,R01,Guadeloupe,26.0,Homicides
+2014,R02,Martinique,17.0,Homicides
+2014,R03,Guyane,27.0,Homicides
+2014,R04,La Réunion,5.0,Homicides
+2014,R06,Mayotte,1.0,Homicides
+2014,R11,Île-de-France,110.0,Homicides
+2014,R24,Centre-Val de Loire,22.0,Homicides
+2014,R27,Bourgogne-FC,19.0,Homicides
+2014,R28,Normandie,24.0,Homicides
+2014,R32,Hauts-de-France,62.0,Homicides
+2014,R44,Grand Est,44.0,Homicides
+2014,R52,Pays de la Loire,28.0,Homicides
+2014,R53,Bretagne,20.0,Homicides
+2014,R75,Nouvelle-Aquitaine,52.0,Homicides
+2014,R76,Occitanie,64.0,Homicides
+2014,R84,Auvergne-RA,54.0,Homicides
+2014,R93,PACA,89.0,Homicides
+2014,R94,Corse,14.0,Homicides
+2014,R987,Polynésie,8.0,Homicides
+2014,R988,Nouvelle-Calédonie,7.0,Homicides
+2015,R01,Guadeloupe,52.0,Homicides
+2015,R02,Martinique,15.0,Homicides
+2015,R03,Guyane,39.0,Homicides
+2015,R04,La Réunion,9.0,Homicides
+2015,R06,Mayotte,1.0,Homicides
+2015,R11,Île-de-France,128.0,Homicides
+2015,R24,Centre-Val de Loire,22.0,Homicides
+2015,R27,Bourgogne-FC,19.0,Homicides
+2015,R28,Normandie,27.0,Homicides
+2015,R32,Hauts-de-France,61.0,Homicides
+2015,R44,Grand Est,26.0,Homicides
+2015,R52,Pays de la Loire,23.0,Homicides
+2015,R53,Bretagne,20.0,Homicides
+2015,R75,Nouvelle-Aquitaine,48.0,Homicides
+2015,R76,Occitanie,45.0,Homicides
+2015,R84,Auvergne-RA,72.0,Homicides
+2015,R93,PACA,102.0,Homicides
+2015,R94,Corse,9.0,Homicides
+2015,R987,Polynésie,3.0,Homicides
+2015,R988,Nouvelle-Calédonie,11.0,Homicides
+2016,R01,Guadeloupe,98.0,Homicides
+2016,R02,Martinique,14.0,Homicides
+2016,R03,Guyane,45.0,Homicides
+2016,R04,La Réunion,14.0,Homicides
+2016,R06,Mayotte,5.0,Homicides
+2016,R11,Île-de-France,125.0,Homicides
+2016,R24,Centre-Val de Loire,20.0,Homicides
+2016,R27,Bourgogne-FC,20.0,Homicides
+2016,R28,Normandie,31.0,Homicides
+2016,R32,Hauts-de-France,61.0,Homicides
+2016,R44,Grand Est,54.0,Homicides
+2016,R52,Pays de la Loire,21.0,Homicides
+2016,R53,Bretagne,13.0,Homicides
+2016,R75,Nouvelle-Aquitaine,61.0,Homicides
+2016,R76,Occitanie,74.0,Homicides
+2016,R84,Auvergne-RA,81.0,Homicides
+2016,R93,PACA,77.0,Homicides
+2016,R94,Corse,12.0,Homicides
+2016,R987,Polynésie,2.0,Homicides
+2016,R988,Nouvelle-Calédonie,7.0,Homicides
+2017,R01,Guadeloupe,83.0,Homicides
+2017,R02,Martinique,8.0,Homicides
+2017,R03,Guyane,19.0,Homicides
+2017,R04,La Réunion,11.0,Homicides
+2017,R06,Mayotte,1.0,Homicides
+2017,R11,Île-de-France,120.0,Homicides
+2017,R24,Centre-Val de Loire,26.0,Homicides
+2017,R27,Bourgogne-FC,29.0,Homicides
+2017,R28,Normandie,29.0,Homicides
+2017,R32,Hauts-de-France,71.0,Homicides
+2017,R44,Grand Est,40.0,Homicides
+2017,R52,Pays de la Loire,27.0,Homicides
+2017,R53,Bretagne,29.0,Homicides
+2017,R75,Nouvelle-Aquitaine,54.0,Homicides
+2017,R76,Occitanie,65.0,Homicides
+2017,R84,Auvergne-RA,99.0,Homicides
+2017,R93,PACA,105.0,Homicides
+2017,R94,Corse,22.0,Homicides
+2017,R987,Polynésie,5.0,Homicides
+2017,R988,Nouvelle-Calédonie,12.0,Homicides
+2018,R01,Guadeloupe,56.0,Homicides
+2018,R02,Martinique,15.0,Homicides
+2018,R03,Guyane,20.0,Homicides
+2018,R04,La Réunion,9.0,Homicides
+2018,R06,Mayotte,0.0,Homicides
+2018,R11,Île-de-France,115.0,Homicides
+2018,R24,Centre-Val de Loire,18.0,Homicides
+2018,R27,Bourgogne-FC,29.0,Homicides
+2018,R28,Normandie,25.0,Homicides
+2018,R32,Hauts-de-France,79.0,Homicides
+2018,R44,Grand Est,38.0,Homicides
+2018,R52,Pays de la Loire,22.0,Homicides
+2018,R53,Bretagne,27.0,Homicides
+2018,R75,Nouvelle-Aquitaine,50.0,Homicides
+2018,R76,Occitanie,69.0,Homicides
+2018,R84,Auvergne-RA,78.0,Homicides
+2018,R93,PACA,124.0,Homicides
+2018,R94,Corse,9.0,Homicides
+2018,R987,Polynésie,4.0,Homicides
+2018,R988,Nouvelle-Calédonie,13.0,Homicides
+2019,R01,Guadeloupe,69.0,Homicides
+2019,R02,Martinique,23.0,Homicides
+2019,R03,Guyane,30.0,Homicides
+2019,R04,La Réunion,10.0,Homicides
+2019,R06,Mayotte,1.0,Homicides
+2019,R11,Île-de-France,160.0,Homicides
+2019,R24,Centre-Val de Loire,28.0,Homicides
+2019,R27,Bourgogne-FC,22.0,Homicides
+2019,R28,Normandie,29.0,Homicides
+2019,R32,Hauts-de-France,68.0,Homicides
+2019,R44,Grand Est,61.0,Homicides
+2019,R52,Pays de la Loire,26.0,Homicides
+2019,R53,Bretagne,18.0,Homicides
+2019,R75,Nouvelle-Aquitaine,59.0,Homicides
+2019,R76,Occitanie,103.0,Homicides
+2019,R84,Auvergne-RA,90.0,Homicides
+2019,R93,PACA,93.0,Homicides
+2019,R94,Corse,13.0,Homicides
+2019,R987,Polynésie,2.0,Homicides
+2019,R988,Nouvelle-Calédonie,7.0,Homicides
+2020,R01,Guadeloupe,50.0,Homicides
+2020,R02,Martinique,16.0,Homicides
+2020,R03,Guyane,38.0,Homicides
+2020,R04,La Réunion,9.0,Homicides
+2020,R06,Mayotte,3.0,Homicides
+2020,R11,Île-de-France,141.0,Homicides
+2020,R24,Centre-Val de Loire,25.0,Homicides
+2020,R27,Bourgogne-FC,31.0,Homicides
+2020,R28,Normandie,42.0,Homicides
+2020,R32,Hauts-de-France,70.0,Homicides
+2020,R44,Grand Est,52.0,Homicides
+2020,R52,Pays de la Loire,26.0,Homicides
+2020,R53,Bretagne,21.0,Homicides
+2020,R75,Nouvelle-Aquitaine,72.0,Homicides
+2020,R76,Occitanie,92.0,Homicides
+2020,R84,Auvergne-RA,94.0,Homicides
+2020,R93,PACA,104.0,Homicides
+2020,R94,Corse,13.0,Homicides
+2020,R987,Polynésie,4.0,Homicides
+2020,R988,Nouvelle-Calédonie,7.0,Homicides
+2021,R01,Guadeloupe,41.0,Homicides
+2021,R02,Martinique,17.0,Homicides
+2021,R03,Guyane,30.0,Homicides
+2021,R04,La Réunion,15.0,Homicides
+2021,R06,Mayotte,7.0,Homicides
+2021,R11,Île-de-France,177.0,Homicides
+2021,R24,Centre-Val de Loire,24.0,Homicides
+2021,R27,Bourgogne-FC,25.0,Homicides
+2021,R28,Normandie,33.0,Homicides
+2021,R32,Hauts-de-France,84.0,Homicides
+2021,R44,Grand Est,51.0,Homicides
+2021,R52,Pays de la Loire,40.0,Homicides
+2021,R53,Bretagne,31.0,Homicides
+2021,R75,Nouvelle-Aquitaine,78.0,Homicides
+2021,R76,Occitanie,89.0,Homicides
+2021,R84,Auvergne-RA,89.0,Homicides
+2021,R93,PACA,109.0,Homicides
+2021,R94,Corse,16.0,Homicides
+2021,R987,Polynésie,2.0,Homicides
+2021,R988,Nouvelle-Calédonie,11.0,Homicides
+2012,R01,Guadeloupe,43.0,Tentatives d'homicides
+2012,R02,Martinique,42.0,Tentatives d'homicides
+2012,R03,Guyane,45.0,Tentatives d'homicides
+2012,R04,La Réunion,7.0,Tentatives d'homicides
+2012,R06,Mayotte,4.0,Tentatives d'homicides
+2012,R11,Île-de-France,446.0,Tentatives d'homicides
+2012,R24,Centre-Val de Loire,52.0,Tentatives d'homicides
+2012,R27,Bourgogne-FC,36.0,Tentatives d'homicides
+2012,R28,Normandie,46.0,Tentatives d'homicides
+2012,R32,Hauts-de-France,147.0,Tentatives d'homicides
+2012,R44,Grand Est,74.0,Tentatives d'homicides
+2012,R52,Pays de la Loire,38.0,Tentatives d'homicides
+2012,R53,Bretagne,45.0,Tentatives d'homicides
+2012,R75,Nouvelle-Aquitaine,84.0,Tentatives d'homicides
+2012,R76,Occitanie,118.0,Tentatives d'homicides
+2012,R84,Auvergne-RA,124.0,Tentatives d'homicides
+2012,R93,PACA,168.0,Tentatives d'homicides
+2012,R94,Corse,24.0,Tentatives d'homicides
+2012,R987,Polynésie,6.0,Tentatives d'homicides
+2012,R988,Nouvelle-Calédonie,2.0,Tentatives d'homicides
+2013,R01,Guadeloupe,38.0,Tentatives d'homicides
+2013,R02,Martinique,80.0,Tentatives d'homicides
+2013,R03,Guyane,43.0,Tentatives d'homicides
+2013,R04,La Réunion,11.0,Tentatives d'homicides
+2013,R06,Mayotte,1.0,Tentatives d'homicides
+2013,R11,Île-de-France,430.0,Tentatives d'homicides
+2013,R24,Centre-Val de Loire,24.0,Tentatives d'homicides
+2013,R27,Bourgogne-FC,40.0,Tentatives d'homicides
+2013,R28,Normandie,36.0,Tentatives d'homicides
+2013,R32,Hauts-de-France,110.0,Tentatives d'homicides
+2013,R44,Grand Est,92.0,Tentatives d'homicides
+2013,R52,Pays de la Loire,49.0,Tentatives d'homicides
+2013,R53,Bretagne,42.0,Tentatives d'homicides
+2013,R75,Nouvelle-Aquitaine,59.0,Tentatives d'homicides
+2013,R76,Occitanie,119.0,Tentatives d'homicides
+2013,R84,Auvergne-RA,132.0,Tentatives d'homicides
+2013,R93,PACA,148.0,Tentatives d'homicides
+2013,R94,Corse,19.0,Tentatives d'homicides
+2013,R987,Polynésie,7.0,Tentatives d'homicides
+2013,R988,Nouvelle-Calédonie,5.0,Tentatives d'homicides
+2014,R01,Guadeloupe,38.0,Tentatives d'homicides
+2014,R02,Martinique,49.0,Tentatives d'homicides
+2014,R03,Guyane,43.0,Tentatives d'homicides
+2014,R04,La Réunion,15.0,Tentatives d'homicides
+2014,R06,Mayotte,0.0,Tentatives d'homicides
+2014,R11,Île-de-France,464.0,Tentatives d'homicides
+2014,R24,Centre-Val de Loire,37.0,Tentatives d'homicides
+2014,R27,Bourgogne-FC,47.0,Tentatives d'homicides
+2014,R28,Normandie,53.0,Tentatives d'homicides
+2014,R32,Hauts-de-France,119.0,Tentatives d'homicides
+2014,R44,Grand Est,105.0,Tentatives d'homicides
+2014,R52,Pays de la Loire,44.0,Tentatives d'homicides
+2014,R53,Bretagne,53.0,Tentatives d'homicides
+2014,R75,Nouvelle-Aquitaine,60.0,Tentatives d'homicides
+2014,R76,Occitanie,132.0,Tentatives d'homicides
+2014,R84,Auvergne-RA,186.0,Tentatives d'homicides
+2014,R93,PACA,154.0,Tentatives d'homicides
+2014,R94,Corse,14.0,Tentatives d'homicides
+2014,R987,Polynésie,7.0,Tentatives d'homicides
+2014,R988,Nouvelle-Calédonie,22.0,Tentatives d'homicides
+2015,R01,Guadeloupe,63.0,Tentatives d'homicides
+2015,R02,Martinique,42.0,Tentatives d'homicides
+2015,R03,Guyane,45.0,Tentatives d'homicides
+2015,R04,La Réunion,25.0,Tentatives d'homicides
+2015,R06,Mayotte,4.0,Tentatives d'homicides
+2015,R11,Île-de-France,567.0,Tentatives d'homicides
+2015,R24,Centre-Val de Loire,35.0,Tentatives d'homicides
+2015,R27,Bourgogne-FC,73.0,Tentatives d'homicides
+2015,R28,Normandie,63.0,Tentatives d'homicides
+2015,R32,Hauts-de-France,195.0,Tentatives d'homicides
+2015,R44,Grand Est,134.0,Tentatives d'homicides
+2015,R52,Pays de la Loire,68.0,Tentatives d'homicides
+2015,R53,Bretagne,75.0,Tentatives d'homicides
+2015,R75,Nouvelle-Aquitaine,108.0,Tentatives d'homicides
+2015,R76,Occitanie,130.0,Tentatives d'homicides
+2015,R84,Auvergne-RA,180.0,Tentatives d'homicides
+2015,R93,PACA,228.0,Tentatives d'homicides
+2015,R94,Corse,24.0,Tentatives d'homicides
+2015,R987,Polynésie,5.0,Tentatives d'homicides
+2015,R988,Nouvelle-Calédonie,72.0,Tentatives d'homicides
+2016,R01,Guadeloupe,67.0,Tentatives d'homicides
+2016,R02,Martinique,54.0,Tentatives d'homicides
+2016,R03,Guyane,66.0,Tentatives d'homicides
+2016,R04,La Réunion,40.0,Tentatives d'homicides
+2016,R06,Mayotte,9.0,Tentatives d'homicides
+2016,R11,Île-de-France,645.0,Tentatives d'homicides
+2016,R24,Centre-Val de Loire,56.0,Tentatives d'homicides
+2016,R27,Bourgogne-FC,67.0,Tentatives d'homicides
+2016,R28,Normandie,50.0,Tentatives d'homicides
+2016,R32,Hauts-de-France,180.0,Tentatives d'homicides
+2016,R44,Grand Est,161.0,Tentatives d'homicides
+2016,R52,Pays de la Loire,64.0,Tentatives d'homicides
+2016,R53,Bretagne,64.0,Tentatives d'homicides
+2016,R75,Nouvelle-Aquitaine,116.0,Tentatives d'homicides
+2016,R76,Occitanie,176.0,Tentatives d'homicides
+2016,R84,Auvergne-RA,221.0,Tentatives d'homicides
+2016,R93,PACA,248.0,Tentatives d'homicides
+2016,R94,Corse,24.0,Tentatives d'homicides
+2016,R987,Polynésie,3.0,Tentatives d'homicides
+2016,R988,Nouvelle-Calédonie,59.0,Tentatives d'homicides
+2017,R01,Guadeloupe,65.0,Tentatives d'homicides
+2017,R02,Martinique,50.0,Tentatives d'homicides
+2017,R03,Guyane,59.0,Tentatives d'homicides
+2017,R04,La Réunion,31.0,Tentatives d'homicides
+2017,R06,Mayotte,3.0,Tentatives d'homicides
+2017,R11,Île-de-France,697.0,Tentatives d'homicides
+2017,R24,Centre-Val de Loire,83.0,Tentatives d'homicides
+2017,R27,Bourgogne-FC,93.0,Tentatives d'homicides
+2017,R28,Normandie,55.0,Tentatives d'homicides
+2017,R32,Hauts-de-France,180.0,Tentatives d'homicides
+2017,R44,Grand Est,128.0,Tentatives d'homicides
+2017,R52,Pays de la Loire,76.0,Tentatives d'homicides
+2017,R53,Bretagne,80.0,Tentatives d'homicides
+2017,R75,Nouvelle-Aquitaine,117.0,Tentatives d'homicides
+2017,R76,Occitanie,222.0,Tentatives d'homicides
+2017,R84,Auvergne-RA,239.0,Tentatives d'homicides
+2017,R93,PACA,233.0,Tentatives d'homicides
+2017,R94,Corse,29.0,Tentatives d'homicides
+2017,R987,Polynésie,5.0,Tentatives d'homicides
+2017,R988,Nouvelle-Calédonie,45.0,Tentatives d'homicides
+2018,R01,Guadeloupe,115.0,Tentatives d'homicides
+2018,R02,Martinique,79.0,Tentatives d'homicides
+2018,R03,Guyane,95.0,Tentatives d'homicides
+2018,R04,La Réunion,31.0,Tentatives d'homicides
+2018,R06,Mayotte,4.0,Tentatives d'homicides
+2018,R11,Île-de-France,623.0,Tentatives d'homicides
+2018,R24,Centre-Val de Loire,112.0,Tentatives d'homicides
+2018,R27,Bourgogne-FC,100.0,Tentatives d'homicides
+2018,R28,Normandie,86.0,Tentatives d'homicides
+2018,R32,Hauts-de-France,198.0,Tentatives d'homicides
+2018,R44,Grand Est,157.0,Tentatives d'homicides
+2018,R52,Pays de la Loire,72.0,Tentatives d'homicides
+2018,R53,Bretagne,88.0,Tentatives d'homicides
+2018,R75,Nouvelle-Aquitaine,140.0,Tentatives d'homicides
+2018,R76,Occitanie,224.0,Tentatives d'homicides
+2018,R84,Auvergne-RA,209.0,Tentatives d'homicides
+2018,R93,PACA,288.0,Tentatives d'homicides
+2018,R94,Corse,20.0,Tentatives d'homicides
+2018,R987,Polynésie,0.0,Tentatives d'homicides
+2018,R988,Nouvelle-Calédonie,40.0,Tentatives d'homicides
+2019,R01,Guadeloupe,129.0,Tentatives d'homicides
+2019,R02,Martinique,91.0,Tentatives d'homicides
+2019,R03,Guyane,93.0,Tentatives d'homicides
+2019,R04,La Réunion,41.0,Tentatives d'homicides
+2019,R06,Mayotte,4.0,Tentatives d'homicides
+2019,R11,Île-de-France,768.0,Tentatives d'homicides
+2019,R24,Centre-Val de Loire,52.0,Tentatives d'homicides
+2019,R27,Bourgogne-FC,66.0,Tentatives d'homicides
+2019,R28,Normandie,94.0,Tentatives d'homicides
+2019,R32,Hauts-de-France,244.0,Tentatives d'homicides
+2019,R44,Grand Est,186.0,Tentatives d'homicides
+2019,R52,Pays de la Loire,92.0,Tentatives d'homicides
+2019,R53,Bretagne,88.0,Tentatives d'homicides
+2019,R75,Nouvelle-Aquitaine,167.0,Tentatives d'homicides
+2019,R76,Occitanie,277.0,Tentatives d'homicides
+2019,R84,Auvergne-RA,249.0,Tentatives d'homicides
+2019,R93,PACA,283.0,Tentatives d'homicides
+2019,R94,Corse,23.0,Tentatives d'homicides
+2019,R987,Polynésie,4.0,Tentatives d'homicides
+2019,R988,Nouvelle-Calédonie,17.0,Tentatives d'homicides
+2020,R01,Guadeloupe,69.0,Tentatives d'homicides
+2020,R02,Martinique,74.0,Tentatives d'homicides
+2020,R03,Guyane,122.0,Tentatives d'homicides
+2020,R04,La Réunion,44.0,Tentatives d'homicides
+2020,R06,Mayotte,13.0,Tentatives d'homicides
+2020,R11,Île-de-France,860.0,Tentatives d'homicides
+2020,R24,Centre-Val de Loire,61.0,Tentatives d'homicides
+2020,R27,Bourgogne-FC,110.0,Tentatives d'homicides
+2020,R28,Normandie,84.0,Tentatives d'homicides
+2020,R32,Hauts-de-France,214.0,Tentatives d'homicides
+2020,R44,Grand Est,246.0,Tentatives d'homicides
+2020,R52,Pays de la Loire,103.0,Tentatives d'homicides
+2020,R53,Bretagne,84.0,Tentatives d'homicides
+2020,R75,Nouvelle-Aquitaine,232.0,Tentatives d'homicides
+2020,R76,Occitanie,294.0,Tentatives d'homicides
+2020,R84,Auvergne-RA,250.0,Tentatives d'homicides
+2020,R93,PACA,361.0,Tentatives d'homicides
+2020,R94,Corse,13.0,Tentatives d'homicides
+2020,R987,Polynésie,4.0,Tentatives d'homicides
+2020,R988,Nouvelle-Calédonie,10.0,Tentatives d'homicides
+2021,R01,Guadeloupe,144.0,Tentatives d'homicides
+2021,R02,Martinique,120.0,Tentatives d'homicides
+2021,R03,Guyane,166.0,Tentatives d'homicides
+2021,R04,La Réunion,27.0,Tentatives d'homicides
+2021,R06,Mayotte,34.0,Tentatives d'homicides
+2021,R11,Île-de-France,756.0,Tentatives d'homicides
+2021,R24,Centre-Val de Loire,128.0,Tentatives d'homicides
+2021,R27,Bourgogne-FC,89.0,Tentatives d'homicides
+2021,R28,Normandie,93.0,Tentatives d'homicides
+2021,R32,Hauts-de-France,258.0,Tentatives d'homicides
+2021,R44,Grand Est,170.0,Tentatives d'homicides
+2021,R52,Pays de la Loire,150.0,Tentatives d'homicides
+2021,R53,Bretagne,88.0,Tentatives d'homicides
+2021,R75,Nouvelle-Aquitaine,241.0,Tentatives d'homicides
+2021,R76,Occitanie,226.0,Tentatives d'homicides
+2021,R84,Auvergne-RA,287.0,Tentatives d'homicides
+2021,R93,PACA,277.0,Tentatives d'homicides
+2021,R94,Corse,24.0,Tentatives d'homicides
+2021,R987,Polynésie,10.0,Tentatives d'homicides
+2021,R988,Nouvelle-Calédonie,20.0,Tentatives d'homicides

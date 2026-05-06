@@ -1,0 +1,101 @@
+# docker-compose.yml (racine oasis/models/crime_predictor/)
+version: '3.8'
+
+services:
+  # MLflow Tracking Server + Backend Store
+  mlflow:
+    image: python:3.11-slim
+    ports:
+      - "5000:5000"
+    command: >
+      bash -c "pip install mlflow psycopg2-binary &&
+               mlflow server
+               --backend-store-uri postgresql://mlflow:mlflow@postgres:5432/mlflow_db
+               --default-artifact-root ./mlruns
+               --host 0.0.0.0 --port 5000"
+    volumes:
+      - mlflow_data:/mlruns
+      - ./models:/models
+    depends_on:
+      - postgres
+    networks:
+      - ml_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Postgres Backend pour MLflow (persistance expérimentations)
+  postgres:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_DB: mlflow_db
+      POSTGRES_USER: mlflow
+      POSTGRES_PASSWORD: mlflow
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - ml_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U mlflow -d mlflow_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # API FastAPI Crime Predictor
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+      - MODEL_PATH=/app/models/crime_predictor.pkl
+    volumes:
+      - ./models:/app/models
+    depends_on:
+      mlflow:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+    networks:
+      - ml_network
+    command: >
+      bash -c "
+      until curl -f http://mlflow:5000/health; do
+        echo '⏳ Attente MLflow...';
+        sleep 5;
+      done;
+      uvicorn predict:app --host 0.0.0.0 --port 8000
+      "
+
+  # Training Worker (optionnel - CI/CD)
+  trainer:
+    build: .
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+    volumes:
+      - ./models:/app/models
+    depends_on:
+      - mlflow
+      - postgres
+    networks:
+      - ml_network
+    command: >
+      bash -c "
+      until curl -f http://mlflow:5000/health; do
+        echo '⏳ Attente MLflow...';
+        sleep 5;
+      done;
+      python train.py --data-url 'https://static.data.gouv.fr/.../delinquance.csv'
+      "
+
+volumes:
+  mlflow_data:
+  postgres_data:
+
+networks:
+  ml_network:
+    driver: bridge
